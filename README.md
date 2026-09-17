@@ -24,7 +24,7 @@ Covers longevity and disease prevention, emergencies and first aid, saving money
 | Question | See |
 | --- | --- |
 | What things that almost cost nothing can significantly lower the chance of dying young? | [1. Don't Die Young](book/01-dont-die-young.md) |
-| How much do smoking, drinking, sitting, and staying up late shorten your life? | [2. Don't Die Slow](book/02-dont-die-slow.md) |
+| How much do smoking, drinking, sitting, and staying up late shorten your life? | [2. Don't Die Slow](book/02-dont-die-slowly.md) |
 | Energy runs out every day, always interrupted — how to fix? | [3. Don't Waste Mental Energy](book/03-dont-waste-mental-energy.md) |
 | Time goes where, and how to do fewer useless things? | [4. Don't Waste Time](book/04-dont-waste-time.md) |
 | How to invest savings so they aren't eaten by interest, fees, and scams? | [5. Don't Waste Money](book/05-dont-waste-money.md) |
@@ -175,7 +175,7 @@ The text tries to use everyday language, but several statistical terms are unavo
 ## Table of Contents
 
 1. [Don't Die Young](book/01-dont-die-young.md) — External causes of death, gas and poisoning, vaccines, screening, psychological crisis, home emergency kit, visible blood in urine and other signals that need checking. Calibration: All-cause mortality or specific cause of death.
-2. [Don't Die Slow](book/02-dont-die-slow.md) — Smoking, alcohol, exercise, sleep, diet, sitting. Calibration: All-cause mortality or specific cause of death.
+2. [Don't Die Slow](book/02-dont-die-slowly.md) — Smoking, alcohol, exercise, sleep, diet, sitting. Calibration: All-cause mortality or specific cause of death.
 3. [Don't Waste Mental Energy](book/03-dont-waste-mental-energy.md) — Sleep, interruptions, information noise, multitasking, decision fatigue, social debt. Calibration: Energy/time.
 4. [Don't Waste Time](book/04-dont-waste-time.md) — Worthless projects, sunk costs, procrastination, meetings, commuting. Calibration: Time.
 5. [Don't Waste Money](book/05-dont-waste-money.md) — Subscriptions, lottery, interest, insurance, fund fees, individual pension, car insurance, prepayments, live-stream shopping, medical insurance personal account, kids getting scammed and recharge refunds. Calibration: Money.
