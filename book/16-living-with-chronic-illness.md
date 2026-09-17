@@ -6,7 +6,7 @@ Caliber: Total Mortality and Money.Diagnosis is not the end, it is how you manag
 
 ### 1. Take the full amount of medicine as directed by your doctor, and don’t stop just when you feel better.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = Yes Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan, but saves money on complications
+- Cost: $0, but saves money on complications
 - Speaking in human terms: People who take all the medicines as prescribed by their doctors have a probability of death during the same period that is only slightly more than half of those who take medicines intermittently.This number needs to be discounted: people who take the placebo also have a lower mortality rate, which shows that a considerable part of the benefits come from "people who insist on taking the medicine are more health-conscious."But the harm of drug withdrawal itself is certain, especially for antihypertensive drugs, anticoagulants and anti-rejection drugs.
 - Benefit: Meta-analysis of 21 studies, 46,847 people: odds ratio of death for those with good adherence compared with poor adherence, 0.56 (95% CI 0.50–0.63); for those with proven efficacy, odds ratio for death was 0.55 (0.49–0.62)
 - Level of evidence: A
@@ -15,7 +15,7 @@ Caliber: Total Mortality and Money.Diagnosis is not the end, it is how you manag
 
 ### 2. First apply for outpatient chronic disease identification and then register in another place. Hypertension, diabetes, radiotherapy and chemotherapy, dialysis, and anti-rejection can be settled directly in another place.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Benefit=big Caliber=money -->
-- Cost: 0 yuan; register for off-site medical treatment in advance on the medical insurance app
+- Cost: $0; register for off-site medical treatment in advance on the medical insurance app
 - To speak in human terms: for five types of treatments: high blood pressure, diabetes, outpatient radiotherapy and chemotherapy for malignant tumors, uremic dialysis, and anti-rejection after organ transplantation, you can directly pay the medical insurance settlement when visiting outpatient clinics in other places, without having to advance money yourself and then return to the insured place for reimbursement.It is necessary to first apply for outpatient chronic disease identification in the insured place, and then apply for registration for medical treatment in other places. Both things will be effective.
 - Income: Documents from the National Medical Insurance Administration state that it has “basically realized the cross-provincial direct settlement of outpatient chronic disease costs for hypertension, diabetes, malignant tumor outpatient radiotherapy and chemotherapy, uremic dialysis, and anti-rejection treatment after organ transplantation and is accessible within counties”, and on this basis, 5 more types have been added
 - Level of evidence: A
@@ -24,7 +24,7 @@ Caliber: Total Mortality and Money.Diagnosis is not the end, it is how you manag
 
 ### 3. Carry out re-examinations at the intervals given by the doctor, and mark each time's indications in the same book.
 <!-- Cost tags: Money=less, time=less, perseverance=some, income=medium, caliber=mortality rate -->
-- Cost: tens to hundreds of yuan each time
+- Cost: $5–150 each time
 - Speaking in human terms: What you need to look at for chronic diseases is a trend line, not a certain value.The date, indicators, medicines and dosages taken at that time are recorded in the same place. When changing hospitals, there is no need to redo the examination and spend money again.
 - Income: The value of chronic diseases is not in single values, but in trends.The same record can also avoid repeated examinations and repeated expenses when changing hospitals.
 - Level of evidence: C
@@ -33,7 +33,7 @@ Caliber: Total Mortality and Money.Diagnosis is not the end, it is how you manag
 
 ### 4. Don’t stop regular treatment just to try folk remedies and health products.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = Yes Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan, and save money on health care products
+- Cost: $0, and save money on health care products
 - Speaking in human terms: The disadvantages of discontinuing medication are certain, but the benefits of folk remedies and health products are uncertain. It is equivalent to exchanging certain losses for uncertain gains.If you want to try supplements, tell your treating doctor first. Some may affect the concentration of anticoagulants and anti-rejection drugs in the blood.
 - Benefits: The harm of stopping the medication is certain, but the benefits of folk remedies are uncertain.Section 6 of this book lists a list of common ineffective categories
 - Level of evidence: C
@@ -42,7 +42,7 @@ Caliber: Total Mortality and Money.Diagnosis is not the end, it is how you manag
 
 ### 5. For chronic diseases with stable conditions, medicines can be prescribed for 12 weeks at a time in community hospitals.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=time -->
-- Cost: 0 yuan, first ask if the community health service center can prescribe long-term prescriptions
+- Cost: $0, first ask if the community health service center can prescribe long-term prescriptions
 - Speaking in human terms: If the condition is stable and the medication plan remains unchanged, the community health service center can prescribe medicines for 12 weeks at a time, saving half a day of queuing up to and from a large hospital for registration every month.For hospitalization at the grassroots level in the same coordinated area, the reimbursement ratio is usually about ten percentage points higher than that of hospitals at the upper level.
 - Benefits: No need to queue up to and from large hospitals to prescribe medicine every month; within the same coordinated area, the hospitalization reimbursement ratio at the grassroots level is in principle about 10 percentage points higher than that at the upper level.
 - Level of evidence: A
@@ -51,7 +51,7 @@ Caliber: Total Mortality and Money.Diagnosis is not the end, it is how you manag
 
 ### 6. Before signing up for a family doctor in the community, ask clearly which ones are covered by medical insurance and which ones are self-pay.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=money -->
-- Cost: 0 yuan, please ask more
+- Cost: $0, please ask more
 - Speaking in human terms: The basic service package signed is covered by medical insurance as required, and all the money for the personalized service package is paid for by yourself.When being sold an "upgrade package", first ask whether it is a basic package or a personalized package, whether it is registered, and how much it costs per year.
 - Income: The basic service package is included in the medical insurance payment according to regulations; the personalized service package must be registered with the county-level health department, and the cost is paid by the individual
 - Level of evidence: A
@@ -60,7 +60,7 @@ Caliber: Total Mortality and Money.Diagnosis is not the end, it is how you manag
 
 ### 7. Once you are diagnosed with diabetes, have your eyes checked once, and then follow the intervals prescribed by the doctor; check your feet once a year
 <!-- Cost tags: Money=less, time=less, perseverance=some, benefit=big, caliber=mortality rate -->
-- Cost: A dilated fundus examination costs tens to hundreds of yuan; foot examination is usually included in the outpatient service
+- Cost: A dilated fundus examination costs $5–150; foot examination is usually included in the outpatient service
 - Speaking in human terms: Diabetic retinopathy and diabetic foot are so bad that they can hardly be seen or felt until they become rotten. If detected early, intervention is required.When type 2 diabetes is diagnosed, the dilated fundus should be checked once. For type 1 diabetes, check up five years after the onset. If you are fine after one or two checks and your blood sugar is up to standard, you can relax it to once a year or two, and check your feet once a year.
 - Benefits: Diabetic retinopathy and diabetic foot have almost no symptoms before the problem occurs. It can be intervened after detection. It is too late until it is invisible or ulcerated.
 - Level of evidence: A

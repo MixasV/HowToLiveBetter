@@ -8,7 +8,7 @@ The World Health Organization's caliber is: About 260,000 women will die in preg
 
 ### 1. Start taking 0.4 mg of folic acid every day when you are ready to become pregnant, and continue taking it until you are 3 months old in the first trimester.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=mortality rate -->
-- Cost: tens of yuan per bottle; rural women are provided by the national free folic acid supplementation project.Take one pill every day, you need to remember
+- Cost: $3–15 per bottle; rural women are provided by the national free folic acid supplementation project.Take one pill every day, you need to remember
 - Say it in plain language: If you take one folic acid pill every day before and after pregnancy, the probability of your child developing neural tube defects (such as anencephaly and spina bifida) can be reduced by about 70%; for people who have already given birth to one child, the probability of recurrence is also reduced by about one-third.
 - Benefit: Cochrane systematic review (5 trials, 6708 deliveries, high-quality evidence): Daily folic acid supplementation before and after pregnancy reduces the risk of fetal neural tube defects by RR 0.31 (95% CI 0.17 to 0.58), which is about a 70% reduction; for those who have already given birth to children with neural tube defects, the risk of recurrence is RR 0.34 (95% CI 0.18 to 0.64).Subgroup analysis showed no difference between 0.4 mg and higher doses, nor between folic acid alone and a multivitamin
 - Evidence level: A
@@ -17,7 +17,7 @@ The World Health Organization's caliber is: About 260,000 women will die in preg
 
 ### 2. Before 13 weeks of pregnancy, go to the community health service center to create a "Mother and Child Health Handbook" and use up the free prenatal check-up quota
 <!-- Cost tag: Money=0 Time=Medium Perseverance=No Benefit=Medium Caliber=Mortality -->
-- Cost: 0 yuan, this is the content of the national basic public health service project; you need to make several trips according to the gestational age
+- Cost: $0, this is the content of the national basic public health service project; you need to make several trips according to the gestational age
 - Say it in plain language: At least five prenatal check-ups during pregnancy, plus postpartum visits and 42-day postpartum check-ups, are paid for by the state.If you go to the community to get the "Mother and Child Health Handbook" before 13 weeks, you will be able to use it. If you don't get it, you will miss it.
 - Benefit: The maternal health management service of the "National Basic Public Health Service Standards (Third Edition)" provides 1 early pregnancy health checkup, 2 midpregnancy health checkups, 2 late pregnancy health checkups, 1 postpartum visit and 1 42-day postpartum health checkup for resident pregnant women in the jurisdiction.Register before 13 weeks of pregnancy and have the first prenatal check-up. The second trimester check-up is at 16 to 20 weeks and 21 to 24 weeks respectively. The second trimester check-up is at 28 to 36 weeks and 37 to 40 weeks respectively.The local list of services also includes, for the first time, a full battery of tests and postpartum depression screening
 - Evidence level: A
@@ -26,7 +26,7 @@ The World Health Organization's caliber is: About 260,000 women will die in preg
 
 ### 3. AIDS, syphilis, and hepatitis B will be checked out during the first prenatal check-up, and free treatment will be provided if detected.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = No Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan, the prevention of mother-to-child transmission project provides free testing
+- Cost: $0, the prevention of mother-to-child transmission project provides free testing
 - Say it in plain language: AIDS, syphilis, and hepatitis B are detected during the first prenatal check-up, and the test is free; if it is detected, it is not a dead end. The state provides free blocking drugs and programs, which can suppress the possibility of passing the disease on to children.
 - Benefit: The "Standards for the Prevention of Mother-to-Child Transmission of AIDS, Syphilis and Hepatitis B (2020 Edition)" requires that relevant information be disclosed during early pregnancy or during the first prenatal check-up and "appropriate and standardized free testing be provided", and post-test consultation or referral be provided based on the results.Testing positive is not a dead end: Article 44 of the "Regulations on the Prevention and Treatment of AIDS" stipulates that "treatment and consultation to prevent mother-to-child transmission of AIDS will be provided free of charge" to pregnant women infected with HIV; Article 43 requires the provision of services such as interruption, treatment, postpartum visits, infant follow-up and testing.If the mother is positive for hepatitis B surface antigen, the newborn must receive hepatitis B vaccine and hepatitis B immune globulin at birth (see Section 20, Article 2)
 - Evidence level: A
@@ -35,7 +35,7 @@ The World Health Organization's caliber is: About 260,000 women will die in preg
 
 ### 4. Don’t smoke or drink at all during the entire pregnancy, and don’t smoke in the house with family members.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = Yes Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan, which saves money; the difficulty is getting people who live with you to quit smoking together
+- Cost: $0, which saves money; the difficulty is getting people who live with you to quit smoking together
 -Say it in plai
 n language: Smoking during pregnancy increases the risk of premature birth, small birth, cleft lip and palate, doubles the risk of abnormal bleeding during pregnancy and delivery, and increases the risk of sudden infant death.If a family member smokes in the house, it counts the same.It’s never too late to quit.
 - Benefit: According to the U.S. Centers for Disease Control and Prevention: Smoking during pregnancy can make children "may be too small to be born at term" and "may be born prematurely", "double the risk of abnormal bleeding during pregnancy and delivery", increase the risk of birth defects such as cleft lip and palate, and "damage the developing lungs and brain of the fetus, and the damage can last into childhood"; babies born to mothers who smoke during pregnancy, and babies exposed to smoke after birth, are at a higher risk of sudden infant death syndrome.The official advice is "It is best to quit smoking before pregnancy, but if you are already pregnant, quitting is still useful." "It is never too late to quit."
@@ -45,7 +45,7 @@ n language: Smoking during pregnancy increases the risk of premature birth, smal
 
 ### 5. For those with high risk factors for preeclampsia, start taking one low-dose aspirin every day after 12 weeks of pregnancy
 <!-- Cost tags: Money=less, time=less, perseverance=some, income=medium, caliber=mortality rate -->
-- Cost: dozens of yuan; take one tablet a day until delivery
+- Cost: $3–15; take one tablet a day until delivery
 - Say it in plain language: For those who belong to the high-risk category, taking a small dose of aspirin every day from 12 weeks of pregnancy onwards reduces the probability of preeclampsia by about 15%, premature birth by about 20%, and the probability of perinatal death of the child by about 20%.Don’t eat anything that doesn’t fall into these categories.
 - Benefit: Class B recommendation from the U.S. Preventive Services Task Force: Low-dose aspirin (81 mg/day) should be used as prophylaxis starting after 12 weeks of pregnancy in people at high risk for preeclampsia.Pooled effects: Preeclampsia RR 0.85 (95% CI 0.75 to 0.95, 16 studies), preterm birth RR 0.80 (95% CI 0.67 to 0.95, 13 studies), perinatal death RR 0.79 (95% CI 0.66 to 0.96, 11 studies), small for gestational age/intrauterine growth restriction RR0.82 (95% CI 0.68 to 0.99, 16 studies)
 - Evidence level: A
@@ -54,7 +54,7 @@ n language: Smoking during pregnancy increases the risk of premature birth, smal
 
 ### 6. Do a gestational diabetes screening at 24 weeks of pregnancy and later. Don’t worry about drinking sugar water.
 <!-- Cost tags: Money=little time=little perseverance=no profit=medium caliber=mortality rate -->
-- Cost: tens to more than 100 yuan; drawing blood several times on an empty stomach takes up half the morning
+- Cost: tens to more than $15; drawing blood several times on an empty stomach takes up half the morning
 - Say it in plain language: After 24 weeks, you can detect gestational diabetes by drinking sugar water for half a morning and drawing blood.If left unchecked, the risk of macrosomia, dystocia, surgery, preeclampsia and neonatal hypoglycemia will increase.
 - Benefit: U.S. Preventive Services Task Force Level B recommendation: Screen asymptomatic pregnant women for gestational diabetes at 24 weeks of gestation and beyond, and one-time screening should be performed at 24 weeks of gestation and beyond.For screening before 24 weeks of gestation, the task force concluded that the available evidence is insufficient to determine benefit or harm (level I).Gestational diabetes increases the risk of macrosomia, difficult labor, cesarean section, preeclampsia and neonatal hypoglycemia
 - Evidence level: A
@@ -63,7 +63,7 @@ n language: Smoking during pregnancy increases the risk of premature birth, smal
 
 ### 7. Memorize this list of "go to the hospital immediately", including pregnancy and within one year after delivery.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = No Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan; take five minutes to remember, and it is best to let people who live with you know.
+- Cost: $0; take five minutes to remember, and it is best to let people who live with you know.
 - Say it in plain language: If any of the items on the list appears, go to the hospital that day instead of waiting at home overnight.Don’t relax after giving birth. The same applies if you have a baby within one year after giving birth.
 - Benefit: Emergency warning signs during pregnancy listed by the U.S. Centers for Disease Control and Prevention: Headache that persists or becomes worse; dizziness or fainting; visual changes; body temperature reaching 38°Cor higher; severe swelling of hands or face; thoughts of hurting yourself or your baby; trouble breathing; chest pain or fast heartbeat; severe nausea and vomiting; severe abdominal pain that does not go away; fetal movement has stopped or decreased significantly during pregnancy; vaginal bleeding or discharge during pregnancy; vaginal bleeding or abnormal discharge after delivery; severe swelling, redness, or pain in one arm or leg.These problems can occur within one year after delivery, and they are not "all right after the confinement period."
 - Evidence level: A
@@ -73,7 +73,7 @@ n language: Smoking during pregnancy increases the risk of premature birth, smal
 ### 8. If your water breaks, lie flat on the spot, raise your buttocks, and do 120 degrees. Do not move around or take a shower.
 <!-- Cost tag: Money=0 Time=less Perseverance=No Benefit
 =Large caliber=Mortality rate -->
-- Cost: 0 yuan
+- Cost: $0
 - Say it in plain language: When the water breaks, it is not about slowly packing up and starting again. It is about lying down on the spot, raising your buttocks, and taking 120.The amniotic fluid flows faster when you stand and move around, and the umbilical cord may be washed out, which is an emergency that can kill the child.
 - Benefit: Beijing Municipal Health Commission's handling measures: After discovering that the water has broken, "immediately find a place to lie down to prevent the amniotic fluid from flowing out", "do not move around randomly", "call 120 emergency hotline immediately", and notify family members to bring things to the hospital while waiting for the car.Popular science from medical institutions further explains why: amniotic fluid loss is faster when standing, and the fetus's umbilical cord may prolapse, causing umbilical cord prolapse. This is an emergency that threatens the fetus, so you should stay in bed and raise your buttocks. It is best to lie on the left side.
 - Evidence level: B
@@ -82,7 +82,7 @@ n language: Smoking during pregnancy increases the risk of premature birth, smal
 
 ### 9. If you want a painless delivery, just say so. It does not increase the risk of cesarean section.
 <!-- Cost tags: Money=little, time=little, perseverance=some, income=medium, caliber=time -->
-- Cost: several hundred to more than a thousand yuan, prices vary from place to place; you need to confirm with the hospital and anesthesiology department in advance whether it can be done
+- Cost: $30–200, prices vary from place to place; you need to confirm with the hospital and anesthesiology department in advance whether it can be done
 - Say it in plain language: Painless is more effective than other pain relief methods, and it will not make you more likely to get a knife. "Painless painless back pain will last a lifetime" is also unfounded.Now it has a separate chargeable item, and hospitals are more willing to do it.
 - Benefit: A Cochrane systematic review concluded that epidural analgesia is more effective than non-epidural methods in reducing labor pain and improving maternal satisfaction with analgesia, and that "epidural analgesia has no impact on the risk of cesarean section and long-term low back pain"; the increase in instrumental delivery has not been seen in studies after 2005.Starting from 2024, the National Medical Insurance Administration's obstetric medical service price project guide will include "labor analgesia", "doula delivery" and "family companionship" as separate items. The reason is that there were no independent price items before, and the enthusiasm of hospitals to provide labor analgesia was suppressed.
 - Evidence level: A
@@ -91,7 +91,7 @@ n language: Smoking during pregnancy increases the risk of premature birth, smal
 
 ### 10. Don’t ask for a cesarean section without medical indication, and don’t choose a date to have an operation.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=mortality rate -->
-- Cost: 0 yuan; it is difficult to withstand the opinions of family members
+- Cost: $0; it is difficult to withstand the opinions of family members
 - Say it in plain language: Looking at the entire population, after the cesarean section rate exceeds 10%, the deaths of mothers and newborns no longer continue to decline.If you need to do an incision, you must do it. Doing it just to choose the right time or fear of pain is just a major abdominal surgery in vain, and it will also affect the next pregnancy.
 - Benefit: WHO 2015 statement: Maternal and neonatal deaths decrease as population-level caesarean section rates increase to about 10%; above 10%, there is no evidence of further improvement in mortality.The World Health Organization also emphasizes that every effort should be made to provide caesarean sections to women in need, rather than to achieve a specific rate
 - Evidence level: A
@@ -100,7 +100,7 @@ n language: Smoking during pregnancy increases the risk of premature birth, smal
 
 ### 11. Confirm your maternity insurance enrollment status before getting pregnant. Your spouse who is not employed can also claim maternity medical expenses.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=money -->
-- Cost: 0 yuan; make a social security or medical insurance consultation call
+- Cost: $0; make a social security or medical insurance consultation call
 - Say it in plain language: The employer pays maternity insurance, and the medical expenses for the child and the allowance during maternity leave are all paid out of the fund; if the spouse is unemployed, the medical expenses can also be claimed.You have to ask in advance whether the number of months of insurance coverage is sufficient and whether registration is required for production in a different location. You cannot make up for it afterwards.
 - Benefit: Article 54 of the "Social Insurance Law": If the employer has paid maternity insurance premiums, its employees shall enjoy maternity insurance benefits; the unemployed spouse of the employee shall enjoy maternity medical expenses in accordance with national regulations, and the required funds shall be paid from the maternity insurance fund.Maternity insurance benefits include maternity medical expenses and maternity allowances.Article 56 lists three circumstances under which maternity allowances can be enjoyed (female employees are entitled to maternity leave after giving birth, are entitled to leave for family planning surgery, and other circumstances stipulated by laws and regulations). Maternity allowances are "calculated and paid based on the average monthly salary of employees in the employer of the employee in the previous year."
 - Evidence level: A
@@ -109,7 +109,7 @@ n language: Smoking during pregnancy increases the risk of premature birth, smal
 
 ### 12. Get the "Medical Birth Certificate" before leaving the hospital. Think of your name in advance and don't make typos.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=time -->
-- Cost: 0 yuan; the discharge procedures are completed smoothly
+- Cost: $0; the discharge procedures are completed smoothly
 -Say
 it in plain language: This certificate is a prerequisite for registering a household registration, enrolling in insurance, and going to school, and only the delivery agency can issue it for the first time.After you leave the hospital and go back to make up for it, you have to go through a different process and hand in more materials.First confirm that the characters in the name can be typed in the household registration system.
 - Benefit: Article 23 of the "Maternal and Infant Health Care Law": Medical health care institutions and personnel engaged in home delivery shall issue a uniformly issued medical certificate of newborn birth in accordance with the regulations of the health administrative department of the State Council.This certificate is a prerequisite for everything that follows - registering a household registration, enrolling in insurance, applying for a medical insurance card, and enrolling in a kindergarten. It can only be issued by the delivery agency for the first time. Re-issuing it after leaving the hospital requires another set of procedures and additional certification materials.
@@ -119,7 +119,7 @@ it in plain language: This certificate is a prerequisite for registering a house
 
 ### 13. Don’t refuse newborn heel blood screening and hearing screening
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: Free or dozens of yuan in most areas, some extensions are at your own expense; heel pinning once after birth
+- Cost: Free or $3–15 in most areas, some extensions are at your own expense; heel pinning once after birth
 - Say it in plain language: A heel prick and a hearing test can detect hypothyroidism, phenylketonuria and hearing impairment in children who appear completely normal.By the time the symptoms show up, the intellectual damage has been irreparable.
 - Benefit: Article 3 of the "Measures for the Management of Newborn Disease Screening": "National newborn disease screening diseases include congenital hypothyroidism, phenylketonuria and other neonatal genetic metabolic diseases and hearing impairment." What these two types of diseases have in common is that no abnormalities can be seen in the early stage. By the time the symptoms are obvious, the intellectual damage is irreversible, and early detection and early intervention (supplementation of thyroxine, special formula milk, hearing aids or cochlear implants) are very effective.Article 10 stipulates that when the screening test is positive, the institution shall promptly notify the guardian to confirm the diagnosis.
 - Evidence level: A
@@ -128,16 +128,16 @@ it in plain language: This certificate is a prerequisite for registering a house
 
 ### 14. Apply for resident medical insurance for your child as soon as you get the medical certificate of birth, don’t wait until you have settled in.
 <!-- Cost tags: Money=little, time=little, perseverance=no, income=medium, caliber=money -->
-- Cost: Annual resident medical insurance premium, a few hundred yuan
-- Say it in plain language: Once you get the birth certificate, you can insure your child online without waiting for settlement.If you participate, you can reimburse the hospitalization fee on the spot when you are discharged from the hospital - a stay in the hospital for a newborn can easily cost tens of thousands of yuan.
+- Cost: Annual resident medical insurance premium, $30–150
+- Say it in plain language: Once you get the birth certificate, you can insure your child online without waiting for settlement.If you participate, you can reimburse the hospitalization fee on the spot when you are discharged from the hospital - a stay in the hospital for a newborn can easily cost $1,500–15,000.
 - Benefit: The caliber of the Chinese government website in 2024: "Newborns can participate in insurance online with their birth medical certificate" without having to settle down first; "Newborns can be reimbursed for medical expenses directly after being discharged from the hospital."The previous practice was to enroll in insurance after settling in, and hospitalization expenses had to be paid in full before being reimbursed; the average processing time for insurance payment has also been reduced from 28.7 working days at the beginning of the year to 6.4 working days
 - Evidence level: A
 - Source: China Government Network (2024). Regular briefing on State Council policies on improving the long-term mechanism for basic medical insurance participation. <https://www.gov.cn/zhengce/202409/content_6973567.htm>
-- Note: Premature birth, jaundice, blue light, and neonatal pneumonia are common reasons for hospitalization of newborns, which can easily cost tens of thousands of yuan. There is a big difference between insured and uninsured.The regulations on "how many days after birth you can be insured to enjoy benefits from the date of birth" are not exactly the same in various places. The implementation details are subject to the local medical insurance department. It is easiest to call 12393 to ask before leaving the hospital.
+- Note: Premature birth, jaundice, blue light, and neonatal pneumonia are common reasons for hospitalization of newborns, which can easily cost $1,500–15,000. There is a big difference between insured and uninsured.The regulations on "how many days after birth you can be insured to enjoy benefits from the date of birth" are not exactly the same in various places. The implementation details are subject to the local medical insurance department. It is easiest to call 12393 to ask before leaving the hospital.
 
 ### 15. Go to the police station to declare birth registration within one month after the child is born.
 <!-- Cost tag: Money=0 Time=less Perseverance=No Benefit=small Caliber=Freedom -->
-- Cost: 0 yuan; go to the household registration window
+- Cost: $0; go to the household registration window
 - Say it in plain language: The law gives you one month, not "we will talk about it when you have time".The settlement card is followed by vaccination, kindergarten entry, enrollment and ID card application. The longer you delay, the more materials you need to fill in.
 - Benefit: Article 7 of the "Household Registration Regulations": "Within one month after the birth of an infant, the head of the household, relatives, caregivers or neighbors shall declare birth registration to the household registration authority at the place of the infant's permanent residence." This is a legal time limit, not a suggestion.Settling in is a prerequisite for vaccination, kindergarten admission, enrollment, and ID card application. The longer you delay, the more materials you need to fill in.
 - Evidence level: A
@@ -146,7 +146,7 @@ it in plain language: This certificate is a prerequisite for registering a house
 
 ### 16. Don’t skip the 42-day postpartum review, it is also a screening for postpartum depression.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=mortality rate -->
-- Cost: 0 yuan, which is a basic public health service; half a day
+- Cost: $0, which is a basic public health service; half a day
 - Say it in plain language: This review is free. In addition to looking at wounds, uterine recovery and pelvic floor, it also includes a postpartum depression screening.Major problems may occur within a year after delivery. Don’t think that it is safe after confinement.
 - Benefit: In the maternal health management of the "National Basic Public Health Service Standards (Third Edition)", there is one postpartum visit and one 42-day postpartum health examination; in the local service list, this time it includes laboratory tests (blood routine, leucorrhea routine) and one postpartum depression screening.Serious complications may occur within a year after childbirth - "Thoughts of harming yourself or the child", "postpartum vaginal bleeding or abnormal discharge" and "severe swelling and pain in one limb" in the list in item 7 are all postpartum
 - Evidence level: A

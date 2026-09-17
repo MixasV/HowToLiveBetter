@@ -6,7 +6,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 
 ### 1. Second-step verification is required for email, payment, and social accounts. First, use the pop-up window on your mobile phone to confirm, followed by the SMS verification code.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Benefit=big Caliber=money -->
-- Cost: 0 yuan; set once for each account, two to three minutes
+- Cost: $0; set once for each account, two to three minutes
 - Say it in plain language: A pop-up window on the mobile phone confirms this type of verification, and has blocked more than 90% of phishing attempts and all automated account thefts; relying on question and answer verification such as "last login location" and "backup email address" can only block about 10% of phishing attempts.Set up once, a few minutes.
 - Benefit: Google's assessment of 350,000 real hijacking attempts: Device-based verification (pop-up confirmation on mobile phones, security keys) blocked "more than 94% of phishing hijacking attempts and 100% of automated hijacking attempts"; while knowledge-based verification (asking about the last login location, backup email, etc.) "only blocked as few as 10% of phishing hijacking and 73% of automated hijacking attempts."
 - Evidence level: A
@@ -15,7 +15,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 
 ### 2. The email password must be unique and not repeated on any website.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=money -->
-- Cost: 0 yuan; you don’t need to remember it if you use a password manager
+- Cost: $0; you don’t need to remember it if you use a password manager
 - Say it in plain language: Passwords leaked from other websites will be used directly to log into your mailbox.Once someone logs into the email, all accounts that can be used to retrieve the password will be lost with it.
 - Benefit: Credential stuffing is the most trouble-free attack method: passwords leaked elsewhere can be used directly to log into your email. Once the email is lost, all accounts that use it to retrieve passwords will also be lost.
 - Evidence level: C
@@ -24,7 +24,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 
 ### 3. Set a lock screen password on your phone and a PIN code on your SIM card
 <!-- Cost tag: Money=0 Time=little Perseverance=No Benefit=big Caliber=money -->
-- Cost: 0 yuan; set once
+- Cost: $0; set once
 - Say it in plain language: If your phone is lost, the quickest step for someone who finds it is to insert the SIM card into another phone to receive the verification code, and then reset your accounts one by one.The SIM card has a PIN code set up, and the password is required to switch the phone and turn it on, and this path is directly disconnected.
 - Benefit: The fastest attack path after losing your phone is to insert the SIM card into another phone to receive the SMS verification code, and then reset the accounts one by one.The SIM card has a PIN code. After changing the phone, you need the password to turn on the phone. This path is directly disconnected.
 - Evidence level: C
@@ -33,7 +33,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 
 ### 4. If your phone is lost, do this in this order: report the loss of SIM card, remotely lock, change password, call the police, freeze bank card
 <!-- Cost tag: Money=0 Time=little Perseverance=No Benefit=big Caliber=money -->
-- Cost: 0 yuan; ten minutes
+- Cost: $0; ten minutes
 - Say it in plain language: The order is more important than hand speed: first report the loss of the SIM card and cut off the lifeline of the verification code, then remotely lock and erase the phone, then change the email and payment password from the computer, then call the police to get a receipt, and finally freeze the bank card as needed.You can also report the loss by calling the operator’s customer service using someone else’s mobile phone.
 - Benefit: Order is more important than speed: report the SIM loss first to cut off the lifeline of verification code, then remotely lock and erase the device, then change the email and payment password from the computer, then call the police to get a receipt, and finally freeze the bank card as needed
 - Evidence level: C
@@ -42,7 +42,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 
 ### 5. If your card is stolen and swiped, first report the loss and freeze it, then call the police, and then ask the bank for compensation: it is the bank's responsibility to prove that "you swiped it yourself"
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=money -->
-- Cost: 0 yuan; immediately report the loss or freeze it if any changes are found, leaving alarm records, loss report records and transaction notifications; if the card is still with you, make a small inquiry or deposit nearby to fix the "location of the real card"
+- Cost: $0; immediately report the loss or freeze it if any changes are found, leaving alarm records, loss report records and transaction notifications; if the card is still with you, make a small inquiry or deposit nearby to fix the "location of the real card"
 - Say it in plain language: If your card is stolen and swiped, you do not need to prove that "I did not swipe it." On the contrary, the bank will have to provide evidence to prove that the swipe was made by you or authorized by you. If it cannot be produced, it will have to pay compensation - the savings card will compensate for the principal, interest and loss of the deposit, the overdraft deducted by the credit card will be returned, and it cannot come back to you to ask for the money. The bad credit record will also be revoked.The premise is to immediately report the loss and freeze it if any changes are found: if you delay in reporting the loss, you will be responsible for the extra loss; if the password and verification code are passed on to others, you must also bear your own responsibility.
 - Benefit: The provisions of the Supreme Law separate the burden of proof: if the cardholder claims that the card was fraudulently used by a counterfeit card or was stolen online, it can be proved by valid legal documents, the location of the real card at the time of the bank card transaction, the place where the transaction was performed, account transaction details, transaction notifications, alarm records, loss report records, etc.; **If the card issuer or non-bank payment institution claims that the transaction was the cardholder's own transaction or the transaction authorized by him, he shall bear the burden of proof**.After you notify the bank, if the bank fails to verify, provide or save transaction documents or surveillance videos in time, resulting in the inability to obtain evidence, the bank will bear the consequences of being unable to provide evidence.After the determination is established: the debit card holder can request the card issuer to pay the principal and interest of the stolen deposit and compensate for losses; the credit card holder can request the return of the principal and interest of the deducted overdraft, liquidated damages and compensation for losses. If the bank in turn asks you to repay the overdraft, the court will not support it.You can also request the card issuer to promptly revoke the corresponding bad credit record (nationwide, effective from May 25, 2021)
 - Evidence level: A
@@ -52,7 +52,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 #
 ### 6. Check the login device and authorized applications of the account every once in a while, and clear out those that are not in use.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=money -->
-- Cost: 0 yuan; a few minutes each time
+- Cost: $0; a few minutes each time
 - Say it in plain language: People who hack accounts often lie dormant for a while before taking action.Strange devices in the login device and third parties that have long been used in authorized applications are traces visible to ordinary people. When they see it, they log out of all logins and change their passwords.
 - Benefit: Account hacking often does not occur on the spot, but the attacker will lurk first.Unfamiliar devices in the login device list and third parties that have not been used for a long time in the authorized application list are the easiest traces to find.
 - Evidence level: C
@@ -61,7 +61,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 
 ### 7. Don’t click “Agree All” to use the App: it is not necessary information, and you cannot be refused service if you don’t agree.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=free -->
-- Cost: 0 yuan, the price is to resist clicking "Agree All"
+- Cost: $0, the price is to resist clicking "Agree All"
 - Say it in plain language: Information that is not necessary to provide this service. If you do not agree to give it, the other party cannot refuse to let you use it; the scope of collection can only be limited to the smallest range that is useful.The map is necessary for location, but the flashlight is not for the address book.
 - Benefit: The law clearly states: The provision of products or services shall not be refused on the basis of personal disagreement or withdrawal of consent, unless the processing of such information is necessary to provide services; collection shall be limited to the minimum scope to achieve the purpose of processing.
 - Evidence level: A
@@ -70,7 +70,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 
 ### 8. You have the right to view, copy, correct and delete your personal information. If you are refused, you can sue.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=free -->
-- Cost: 0 Yuan; the other party only needs to file a complaint or sue if the other party delays the action. It only takes a few months to get to the point of suing. You have to bear the attorney fees yourself. It is more cost-effective to file a complaint first.
+- Cost: $0; the other party only needs to file a complaint or sue if the other party delays the action. It only takes a few months to get to the point of suing. You have to bear the attorney fees yourself. It is more cost-effective to file a complaint first.
 - Say it in plain language: You have the right to ask the company to let you view, copy, correct and delete your information; if the service is stopped, the retention period expires, and you withdraw your consent, the company should take the initiative to delete it.You must give reasons for rejecting your request. If you fail to do so, you can go to court directly.Canceling an account and deleting information are two different things. After logging out, you need to delete it separately.
 - Benefit: In situations such as cessation of service, expiration of storage period, withdrawal of consent, realization of purpose, etc., the company should take the initiative to delete it. If it is not deleted, you can request deletion; if you refuse to exercise your rights, you must explain the reasons, and you can directly file a lawsuit in court.
 - Evidence level: A
@@ -79,7 +79,7 @@ Caliber: Money and personal information.If your account is taken away by someone
 
 ### 9. You don’t have to agree to swipe your face: if there are other ways, we can’t just let you swipe your face. If you don’t agree, we have to give you other methods.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=money -->
-- Cost: 0 yuan; when asked to scan your face, ask "Is there any other verification method?" If not, ask for it.
+- Cost: $0; when asked to scan your face, ask "Is there any other verification method?" If not, ask for it.
 - Say it in plain language: As long as there are other ways to achieve the same purpose, the other party cannot use facial recognition as the only way; if you don't agree to facial recognition, it has to give you alternative methods such as credit card, password or ID card, and it cannot force you to submit by saying "cannot do business".No one is allowed to install facial recognition devices in private spaces such as hotel rooms, public bathrooms, locker rooms, and toilets.The biggest difference between a face and a password is that it cannot be changed after being leaked.
 - Benefit:The Measures for the Security Management of Facial Recognition Technology Applications state: “If there are other non-face recognition technology methods to achieve the same purpose or meet equivalent business requirements, facial recognition technology shall not be used as the only verification method. If an individual does not agree to identity verification through facial information, other reasonable and convenient methods shall be provided.” “Any organization or individual shall not use it to handle business, improve service quality, etc.To mislead, defraud, or coerce individuals into accepting facial recognition technology to verify personal identity."If facial information is processed based on individual consent, "individual consent must be obtained voluntarily and clearly with full knowledge." Individuals have the right to withdraw consent and the processor must provide a convenient withdrawal method; when processing facial information of minors under the age of 14, consent from parents or other guardians must be obtained.The installation of facial recognition equipment in public places "should be necessary to maintain public safety" and prominent warning signs should be set up; no organization or individual is allowed to install it in private spaces in public places such as hotel rooms, public bathrooms, public locker rooms, and public restrooms.Unless otherwise stipulated by laws and administrative regulations or with separate consent, facial information should be stored in the facial recognition device and shall not be transmitted externally through the Internet (nationwide, effective from June 1, 2025)
 - Evidence level: A

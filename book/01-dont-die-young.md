@@ -6,7 +6,7 @@ This section only includes deaths from external causes, a few vaccines and scree
 
 ### 1. Wear seat belts, both in the front and back seats
 <!-- Cost tag: Money = 0 Time = Less Perseverance = No Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan, 2 seconds each time you get on the bus
+- Cost: $0, 2 seconds each time you get on the bus
 - Speaking in human terms: If you wear a seat belt in the front seat, the probability of being killed or seriously injured in a car accident is reduced by about half (for light trucks it is reduced by 60%).Half of the occupants who died in cars in the United States in 2022 were not belted up.
 - Benefits: The U.S. NHTSA estimates that seat belts reduce the risk of fatal injuries to front-seat occupants of cars by 45% and the front-seat occupants of light trucks by 60%; among passenger car occupants who died in the United States in 2022, 50% of those who were known to be fastened were not fastened; the WHO caliber is that the risk of death for those in the vehicle is reduced by up to 50%.WHO estimates that China’s road traffic deaths in 2021 will be 248,099 (17.4/100,000)
 - Level of evidence: A
@@ -15,7 +15,7 @@ This section only includes deaths from external causes, a few vaccines and scree
 
 ### 2. Wear a helmet and buckle it up when riding a motorcycle or electric bicycle
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: 100 to 300 yuan to buy one, wear it for 5 seconds each time
+- Cost: $15–$45 to buy one, wear it for 5 seconds each time
 - Speaking in human terms: Wearing a helmet and keeping the buttons fastened reduces the chance of death of a motorcycle rider by about 40% and head injury by about 70% in an accident.Not buttoning it means not wearing it.
 - Benefit: Cochrane meta-analysis: Wearing a helmet among motorcyclists reduces the risk of death by 42% (OR 0.58, 95% CI 0.50 to 0.68) and head injury by 69% (OR 0.31, 95% CI 0.25 to 0.38)
 - Level of evidence: A
@@ -24,7 +24,7 @@ This section only includes deaths from external causes, a few vaccines and scree
 
 ### 3. Install smoke alarms; install carbon monoxide alarms if you burn coal or gas for heating indoors in winter.
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: 30 to 100 yuan for a smoke alarm, 50 to 150 yuan for a carbon monoxide alarm, and the battery needs to be replaced once a year after installation.
+- Cost: $4.5–$15 for a smoke alarm, $7.5–$22 for a carbon monoxide alarm, and the battery needs to be replaced once a year after installation.
 - Speaking in human terms: A properly working smoke alarm can reduce the probability of death in a residential fire by about 60% - 40 people were sleeping when the fire broke out, and they could not wake up by relying on their noses.If you burn coal or gas in your house in winter, add a carbon monoxide alarm: 11,500 people died of carbon monoxide poisoning in China in 2018 alone, and 70% of them died at home in the three months of winter.
 - Benefit: Case-control study of residential fires in North Carolina: Working smoke alarms are associated with reduced risk of death (OR 0.39, 95% CI 0.18 to 0.83).24% of fatal fires in occupied homes in the United States from 2018 to 2020 did not have smoke alarms, and 41% occurred when people were sleeping.China reported 11,523 deaths from carbon monoxide poisoning in 2018, with 72.59%, 67.42% and 66.48% of deaths occurring at home in December, January and February
 - Level of evidence: B
@@ -33,7 +33,7 @@ This section only includes deaths from external causes, a few vaccines and scree
 
 ### 4. Replace gas hoses and stoves when they expire. If you don’t change the pipes yourself, you can directly refuse the gas company’s door-to-door sales.
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: A compliant gas hose costs tens of yuan, and the stove should be replaced every few years; when replacing it, take a look to see if it has expired.
+- Cost: A compliant gas hose costs $3–15, and the stove should be replaced every few years; when replacing it, take a look to see if it has expired.
 - To put it bluntly: A compliance hose costs dozens of dollars, and it is the user's obligation to replace it when it expires; it is expressly prohibited to modify the pipes and dismantle the gas meter yourself.The same regulation also stipulates that gas companies are not allowed to require you to buy products or services specified by it, so door-to-door sales that "must change" can be rejected directly.
 - Income: The regulations make it an obligation for users to "timely replace gas burning appliances and connecting pipes that have been obsolete by the state or have expired" and list "unauthorized installation, modification, and dismantling of indoor gas facilities and gas metering devices" as prohibited behaviors; at the same time, it is clarified that gas operators shall not require users to purchase designated products or accept services provided by them.
 - Level of evidence: A
@@ -43,7 +43,7 @@ This section only includes deaths from external causes, a few vaccines and scree
 
 ### 5. If you don’t pick, buy, or eat wild mushrooms, any “indigenous identification methods” will not be valid.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=mortality rate -->
-- Cost: 0 yuan; the price is to give up a seasonal game
+- Cost: $0; the price is to give up a seasonal game
 - Talking about people: In 2025 alone, there were 828 cases of mushroom poisoning, 2,165 people were infected, and 13 people died across the country; that year, 34 new species of mushrooms that had not been recorded to be poisonous to humans were newly identified.The so-called silver needle tests for poison, that insects are not poisonous if eaten, and that insects are poisonous only if they are brightly colored, are all untrue.
 - Income: The Chinese Center for Disease Control and Prevention investigated 828 cases of mushroom poisoning in 2025, involving 2165 people, 13 deaths, and a case fatality rate of 0.6%; from 2019 to 2024, there were 276 to 676 cases per year, with a case fatality rate between 0.87% and 2.86%.In 2025 alone, 138 species of poisonous mushrooms were identified, 34 of which were recorded to cause poisoning for the first time in the country
 - Level of evidence: A
@@ -52,7 +52,7 @@ This section only includes deaths from external causes, a few vaccines and scree
 
 ### 6. Electric bicycles are not allowed to be pushed down corridors, into elevators, or charged at home.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=mortality rate -->
-- Cost: 0 yuan; park at the centralized charging point downstairs and walk dozens of meters more
+- Cost: $0; park at the centralized charging point downstairs and walk dozens of meters more
 - Speaking in human terms: It is expressly prohibited by regulations to drive electric vehicles down corridors, elevators or charge them at home. If you do not correct the problem, you will be fined 500-1,000 yuan for individuals and 2,000-10,000 yuan for businesses.The fine is secondary to the fact that this type of fire happens to be blocking your only escape route.
 - Income: The departmental regulations of the Ministry of Emergency Management expressly prohibit: "It is prohibited to park or charge electric bicycles in public foyers, evacuation corridors, stairwells, and safety exits of high-rise civil buildings." If they refuse to correct, non-business units and individuals will be fined 500 to 1,000 yuan, and business units will be fined 2,000 to 10,000 yuan.
 - Level of evidence: A
@@ -61,7 +61,7 @@ This section only includes deaths from external causes, a few vaccines and scree
 
 ### 7. Take your blood pressure and if it is high, take medicine to bring it down to the standard.
 <!-- Cost tags: Money=less, time=less, perseverance=some, benefit=big, caliber=mortality rate -->
-- Cost: Electronic blood pressure monitor costs 100 to 200 yuan, 1 minute at a time; most antihypertensive drugs cost a few yuan to dozens of yuan per month
+- Cost: Electronic blood pressure monitor costs $15–$30, 1 minute at a time; most antihypertensive drugs cost $1–15 per month
 - In human terms: for every 10 mmHg drop in blood pressure, the probability of major cardiovascular events is reduced by 20%, stroke is reduced by 27%, heart failure is reduced by 28%, and death probability is reduced by 13%.44.7% of people aged 35–75 in China have high blood pressure, and only 7.2% have it under control.
 - Benefits: Meta-analysis (123 trials, >610,000 people): for each 10 mmHg reduction in systolic blood pressure, the RR for major cardiovascular events was 0.80 (95% CI 0.77 to 0.83), for stroke RR 0.73, for heart failure 0.72, and for each 10 mmHg reduction in total mortality, the risk was 13% (RR 0.87, 95% CI 0.84 to 0.91).Screening of 1.7 million people aged 35 to 75 in China: 44.7% have hypertension, of which 44.7% are aware, 30.1% are treated, and 7.2% are under control
 - Level of evidence: A
@@ -71,8 +71,8 @@ one of the actions.
 
 ### 8. As long as you are overweight after the age of 35, you should check your fasting blood sugar once. It is normal to check again every three years.
 <!-- Cost tags: Money=little time=little perseverance=no profit=medium caliber=mortality rate -->
-- Cost: Fasting blood glucose is more than ten yuan, glycosylated hemoglobin is tens of yuan; one blood draw
-- Speaking in human terms: You can detect prediabetes without any symptoms by spending a few dozen yuan to draw a tube of blood.The official recommendation for screening in the United States is to screen people aged 35-70 who are overweight or obese, and then screen again every three years if they are normal.
+- Cost: Fasting blood glucose is $1.50+, glycosylated hemoglobin is $3–15; one blood draw
+- Speaking in human terms: You can detect prediabetes without any symptoms by spending $5–15 to draw a tube of blood.The official recommendation for screening in the United States is to screen people aged 35-70 who are overweight or obese, and then screen again every three years if they are normal.
 - Benefits: Current recommendations from the U.S. Preventive Services Task Force: Screening for prediabetes and type 2 diabetes in asymptomatic adults aged 35 to 70 years who are overweight or obese (body mass index ≥25 and ≥30, respectively), recommendation level B; "Screening every 3 years is reasonable for normoglycemic adults."
 - Level of evidence: A
 - Source: US Preventive Services Task Force (2021). Screening for Prediabetes and Type 2 Diabetes. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes>
@@ -80,7 +80,7 @@ one of the actions.
 
 ### 9. Don’t speed or drink and drive.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=mortality rate -->
-- Cost: 0 yuan, a few more minutes of driving and less drinking at the meal
+- Cost: $0, a few more minutes of driving and less drinking at the meal
 - Speaking in human terms: for every 1% increase in average vehicle speed, the probability of killing someone increases by approximately 4%.There is no safety line for alcohol that says "you'll be fine if you drink a little." The risk begins to increase when the blood concentration is very low.
 - Benefits: WHO: For every 1% increase in average vehicle speed, the risk of fatal accidents increases by 4%; the risk of drunk driving increases from very low blood alcohol concentrations
 - Level of evidence: B
@@ -89,7 +89,7 @@ one of the actions.
 
 ### 10. Use safety seats for children under 4 years old, do not hold them in your arms
 <!-- Cost tags: Money = more, time = less, perseverance = no, benefit = large, caliber = mortality rate -->
-- Cost: 300 to 2,000 yuan each, lasts for several years, takes 1 minute more each time
+- Cost: $45–$300 each, lasts for several years, takes 1 minute more each time
 - Speaking in human terms: The probability of being fatally injured in a car accident is about 70% lower for infants under one year old who sit in a safety seat, and about half for those aged 1 to 4 years old.Holding it in your arms doesn't have this effect, and you can't hold it in an emergency.
 - Benefits: The US NHTSA estimates that safety seats reduce the risk of fatal injuries to infants under 1 year old in cars by 71%, and for children aged 1 to 4 years old by 54%; WHO estimates that infant deaths decrease by 71%
 - Level of evidence: A
@@ -98,7 +98,7 @@ one of the actions.
 
 ### 11. If you have children at home, install limiters on windows and balconies. Screen windows do not count as protection.
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: A pair of window limiters or child safety locks costs tens of yuan and takes ten minutes to install.
+- Cost: A pair of window limiters or child safety locks costs $3–15 and takes ten minutes to install.
 - Speaking in human terms: a pair of limiters costs tens of dollars.After New York City installed free window guardrails for high-risk residents and provided door-to-door explanations, the number of children falling in one district dropped by half within three years. Later, it simply enacted legislation requiring landlords to install guardrails in houses where children live.The screen window opens as soon as it is pushed, so it is not considered protection.
 - Income: New York City's "Kids Can't Fly" program started in 1972, distributing free window guards in high-risk areas and delivering home education. The number of reported falls in the Bronx dropped by 50% from 1973 to 1975; after that, New York City amended the health code to force landlords to install window guards in apartments with children 10 years old and younger.
 - Level of evidence: B
@@ -107,7 +107,7 @@ one of the actions.
 
 ### 12. Keep children out of sight when near water, and wear life jackets when boating or swimming.
 <!-- Cost tags: Money=little, time=medium, perseverance=no, benefit=large, caliber=mortality -->
-- Cost: 50 to 200 yuan for life jacket; child care attention
+- Cost: $7.5–$30 for life jacket; child care attention
 - Speaking in human terms: A person wearing a lifejacket when falling into the water is about half as likely to drown as someone who is not wearing one.Drowning is still the leading cause of death among children aged 1–14 years in China, with the death rate from drowning in rural areas being approximately twice that in urban areas.
 - Proceeds: U.S. Coast Guard Data Pairing Queue: Recreational Vessel Overboard Wear
 Lifejacket risk-adjusted drowning risk 0.51 (95% CI 0.35 to 0.74).China's drowning mortality rate for children under 20 years old has dropped from 6.60/100,000 in 2013 to 3.28/100,000 in 2021. In rural areas, it is about twice that in cities. Drowning is still the leading cause of death for children aged 1 to 14 years old; in 2021, drowning accounted for 31.1% of injury deaths among children aged 0 to 19 years old, and road traffic accounted for 27.9%
@@ -117,7 +117,7 @@ Lifejacket risk-adjusted drowning risk 0.51 (95% CI 0.35 to 0.74).China's drowni
 
 ### 13. Over 60 years old, practice balance and leg strength, renovate bathrooms and stairs at home
 <!-- Cost tag: Money=less Time=more Perseverance=Yes Benefit=Large Caliber=Mortality rate -->
-- Cost: 30 minutes of Tai Chi or balance training 2 to 3 times a week; tens to hundreds of yuan for bathroom mats, handrails, and night lights
+- Cost: 30 minutes of Tai Chi or balance training 2 to 3 times a week; $5–150 for bathroom mats, handrails, and night lights
 - Speaking in human terms: If you practice balance (Tai Chi and the like) two or three times a week, the number of falls for the elderly will be reduced by about 23%, and the number of falls will be reduced by 15%; if you make anti-slip and handrail modifications at home, the number will be reduced by about 20%.Falls are the number one cause of injury death among people over 65 in China, and more than half of them occur in their own homes.
 - Benefit: Cochrane meta-analysis (108 trials, 23,407 people): Exercise reduced falls in older adults by 23% (RaR 0.77, 95% CI 0.71 to 0.83) and the number of falls fell by 15% (RR 0.85); home safety assessment and modification reduced falls (RR 0.81, 95% CI 0.68 to 0.68)0.97); Tai Chi increased the risk of falls RR 0.71.Falls are the leading cause of injury and death among older people over 65 in China. In 2018, 55.97% of falls among the elderly monitored occurred at home.
 - Level of evidence: A
@@ -126,8 +126,8 @@ Lifejacket risk-adjusted drowning risk 0.51 (95% CI 0.35 to 0.74).China's drowni
 
 ### 14. Check for hepatitis B. If you don’t have antibodies, get vaccinated.
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: The examination costs tens of yuan; 3 injections of hepatitis B vaccine for adults cost about 100 to 300 yuan in total and can be completed in half a year
-- Speaking in human terms: a check costs dozens of yuan.In the Qidong trial with a 30-year follow-up, people who were vaccinated against hepatitis B at birth were 84% less likely to develop primary liver cancer and 72% less likely to carry hepatitis B.For adults who are found to have no antibodies, three additional injections will be given in half a year for one to two hundred yuan.
+- Cost: The examination costs $3–15; 3 injections of hepatitis B vaccine for adults cost about $15–$45 in total and can be completed in half a year
+- Speaking in human terms: a check costs $3–15.In the Qidong trial with a 30-year follow-up, people who were vaccinated against hepatitis B at birth were 84% less likely to develop primary liver cancer and 72% less likely to carry hepatitis B.For adults who are found to have no antibodies, three additional injections will be given in half a year for $15–30.
 - Benefits: 30-year follow-up of the Qidong cluster randomized trial: Neonatal hepatitis B vaccination reduced primary liver cancer by 84% (95% CI 23% to 97%) and HBsAg positivity by 72% (95% CI 68% to 75%).The prevalence of HBsAg in the entire Chinese population decreased by 52% from 1992 to 2014, and by 97% in those under 5 years of age.
 - Level of evidence: A
 - Source: Qu C et al (2014). Efficacy of neonatal HBV vaccination on liver cancer and other liver diseases over 30-year follow-up of the Qidong hepatitis B intervention study. PLoS Medicine. <https://doi.org/10.1371/journal.pmed.1001774> ; Cui F et al (2017). Prevention of Chronic Hepatitis B after 3 Decades ofEscalating Vaccination Policy, China. Emerging Infectious Diseases. <https://doi.org/10.3201/eid2305.161477>
@@ -135,8 +135,8 @@ Lifejacket risk-adjusted drowning risk 0.51 (95% CI 0.35 to 0.74).China's drowni
 
 ### 15. If you are pricked by nails or wooden thorns or the wound is stained with mud, go and get it treated on the same day. By the way, ask if you need a tetanus shot.
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: tens of yuan for registration and disposal; tens to hundreds of yuan for vaccines or immune globulin if needed
-- Speaking in human terms: Once tetanus strikes, about 1 in 10 people will die.Deep wounds and wounds stained with soil are at the highest risk. It only costs a few dozen yuan to treat them on the same day. Don't wait until they become swollen.
+- Cost: $3–15 for registration and disposal; $5–150 for vaccines or immune globulin if needed
+- Speaking in human terms: Once tetanus strikes, about 1 in 10 people will die.Deep wounds and wounds stained with soil are at the highest risk. It only costs $5–15 to treat them on the same day. Don't wait until they become swollen.
 - Benefits: Tetanus kills about 1 in 10 cases in the U.S.; deep, soil-contaminated wounds are more at risk
 - Level of evidence: B
 - Source: U.S. Centers for Disease Control and Prevention. Tetanus: "Te
@@ -145,7 +145,7 @@ tanus bacteria can get into someone's body through broken skin, usually through 
 
 ### 16. Women should receive the HPV vaccine as early as possible
 <!-- Cost tags: Money = more, time = less, perseverance = no, benefit = large, caliber = mortality rate -->
-- Cost: Domestic second price is about 300 yuan per injection, imported ninth price is about 1,300 yuan per injection, 2 to 3 injections; injection takes half a day
+- Cost: Domestic second price is about $45 per injection, imported ninth price is about $190 per injection, 2 to 3 injections; injection takes half a day
 - Speaking in human terms: According to data on 1.67 million women in Sweden, those who had received the HPV vaccine before the age of 17 had only about one-eighth of the chance of developing invasive cervical cancer; those who had received the HPV vaccine between the ages of 17 and 30 were only about half as likely to develop invasive cervical cancer.So the sooner you fight, the better the value.
 - Benefit: Swedish cohort of 1.67 million women: lower incidence of invasive cervical cancer in vaccinated than unvaccinated individuals, IRR 0.12 (95% CI 0.00 to 0.34) for vaccination before age 17 years and IRR 0.47 (95% CI 0.27 to 0.75) for vaccination between 17 and 30 years of age
 - Level of evidence: A
@@ -154,7 +154,7 @@ tanus bacteria can get into someone's body through broken skin, usually through 
 
 ### 17. Women should undergo breast cancer screening starting at the age of 40, and mammography every two years
 <!-- Cost tags: Money=little time=little perseverance=no profit=medium caliber=mortality rate -->
-- Cost: Two to three hundred yuan per mammogram. Many areas have free screening programs; it takes half a day every two years.
+- Cost: $30–45 per mammogram. Many areas have free screening programs; it takes half a day every two years.
 - Speaking in human terms: Mammography every two years between the ages of 40 and 74 is clearly recommended in the official US screening recommendations.The official conclusion is that the evidence is not enough for those over 75 years old, and for those with dense breasts and the addition of ultrasound and magnetic resonance imaging—you don’t have to buy them when the physical examination package comes with these added prices.
 - Benefits: The current recommendation of the U.S. Preventive Services Task Force: "It is recommended that women aged 40 to 74 years undergo screening mammography every two years", recommendation level B; supplementary ultrasound and magnetic resonance imaging for women 75 years and older and those with dense breasts are judged to be "insufficient existing evidence"
 - Level of evidence: A
@@ -163,7 +163,7 @@ tanus bacteria can get into someone's body through broken skin, usually through 
 
 ### 18. For cervical cancer screening, women over 30 years old will give priority to HPV testing.
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: HPV testing costs 100 to 300 yuan once, and a negative test can be performed once every 5 years; it takes a few minutes to take a sample
+- Cost: HPV testing costs $15–$45 once, and a negative test can be performed once every 5 years; it takes a few minutes to take a sample
 - Speaking in human terms: In the experiment in rural India, women who had only been tested for HPV once in their lives were about half less likely to die from cervical cancer, and about 50% less likely to be diagnosed with late-stage cervical cancer.One or two hundred yuan at a time, Yin can be managed for 5 years.
 - Benefits: Cluster randomized trial in rural India (women aged 30 to 59 years): Single HPV test screening associated with HR for cervical cancer death 0.52 (95% CI 0.33 to 0.83), HR for advanced cervical cancer 0.47 (95% CI 0.32 to 0.69)
 - Level of evidence: A
@@ -182,8 +182,8 @@ ub2> ; Bretthauer M et al (2022). Effect of Colonoscopy Screening on Risks of Co
 
 ### 20. People with cardiovascular disease and the elderly should get an annual flu vaccine
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: 50 to 150 yuan per shot, once every autumn
-- Speaking in human terms: In the trial of flu vaccination after a heart attack, the proportion of deaths within one year dropped from 4.9% to 2.9%.People with cardiovascular disease and the elderly get a shot every autumn, which costs 50-150 yuan.
+- Cost: $7.5–$22 per shot, once every autumn
+- Speaking in human terms: In the trial of flu vaccination after a heart attack, the proportion of deaths within one year dropped from 4.9% to 2.9%.People with cardiovascular disease and the elderly get a shot every autumn, which costs $7.5–$22.
 - Benefits: Randomized double-blind trial after myocardial infarction (2571 people): Influenza vaccination at 12 months Overall mortality 2.9% vs placebo 4.9% (HR 0.59, 95% CI 0.39 to 0.89), HR for cardiovascular death 0.59.Meta-analysis: Influenza vaccine reduced major cardiovascular events 3.6% vs 5.4% (RR 0.66, 95% CI 0.53 to 0.83) and cardiovascular death RR 0.74 (95% CI 0.42 to 1.30, not statistically significant)
 - Level of evidence: A
 - Source: Fröbert O et al (2021). Influenza Vaccination After Myocardial Infarction: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Trial. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.121.057042> ; Behrouzi B et al (2022). Association of Influenza Vaccination WithCardiovascular Risk: A Meta-analysis. JAMA Network Open. <https://doi.org/10.1001/jamanetworkopen.2022.8873>
@@ -191,8 +191,8 @@ ub2> ; Bretthauer M et al (2022). Effect of Colonoscopy Screening on Risks of Co
 
 ### 21. Get shingles vaccine after age 50
 <!-- Cost tags: Money = more, time = less, perseverance = no, income = medium, caliber = mortality rate -->
-- Cost: Two shots of recombinant herpes zoster vaccine total about 3,000 to 4,000 yuan, at your own expense
-- Speaking in human terms: In the Phase III trial, this vaccine prevented shingles by 97%, which was similar across all age groups.The disadvantage is that two injections cost 3,000 to 4,000 yuan, all at your own expense, and shingles itself is rarely fatal - the main thing you pay for is not suffering from neuralgia.
+- Cost: Two shots of recombinant herpes zoster vaccine total about $450–$600, at your own expense
+- Speaking in human terms: In the Phase III trial, this vaccine prevented shingles by 97%, which was similar across all age groups.The disadvantage is that two injections cost $450–$600, all at your own expense, and shingles itself is rarely fatal - the main thing you pay for is not suffering from neuralgia.
 - Benefits: A phase III randomized controlled trial of 15,400 people in 18 countries, with an average follow-up of 3.2 years: 6 cases in the vaccine group and 210 cases in the placebo group developed herpes zoster (0.3 vs. 9.1 per 1,000 person-years), "the overall vaccine efficacy against herpes zoster was 97.2% (95% CI 93.7–99.0, P<0.001)", and the efficacy in each age group was 96.6%to 97.9%
 - Level of evidence: A
 - Source: Lal H, Cunningham AL, Godeaux O, et al. (2015). Efficacy of an adjuvanted herpes zoster subunit vaccine in older adults. New England Journal of Medicine, 372(22), 2087-2096. <https://doi.org/10.1056/NEJMoa1501184>
@@ -200,7 +200,7 @@ ub2> ; Bretthauer M et al (2022). Effect of Colonoscopy Screening on Risks of Co
 
 ### 22. Pneumococcal vaccine for those over 65 years old
 <!-- Cost tags: Money=little time=little perseverance=no profit=medium caliber=mortality rate -->
-- Cost: several hundred yuan, free for seniors in some areas
+- Cost: $30–150, free for seniors in some areas
 - Speaking in human terms: In a trial of 84,500 elderly people, the 13-valent pneumococcal vaccine blocked about 46% of the types of pneumonia covered by the vaccine, and blocked 75% of the most dangerous invasive infections; but it has no effect on "all causes of pneumonia", so don't expect it to control all pneumonia.
 - Benefits: Dutch RCT in 84,500 people aged 65+ years: 13-valent pneumococcal conjugate vaccine efficacy against vaccine-covered pneumonia 45.6% (95.2% CI 21.8–62.5), 75.0% (95% CI 41.4–90.8) against invasive pneumococcal disease; ineffective against all causes of pneumonia
 - Level of evidence: A
@@ -209,8 +209,8 @@ ub2> ; Bretthauer M et al (2022). Effect of Colonoscopy Screening on Risks of Co
 
 ### 23. Check for Helicobacter pylori, eradicate it if positive
 <!-- Cost tags: Money=less, time=less, perseverance=some, benefit=big, caliber=mortality rate -->
-- Cost: Carbon 13/14 breath test 100 to 200 yuan; 2 weeks of quadruple eradication medication costs 200 to 500 yuan
-- Speaking in human terms: In a 22-year follow-up trial in Linqu, Shandong, people who eradicated Helicobacter pylori were about half less likely to develop gastric cancer and about 40% less likely to die from gastric cancer.A checkup costs one to two hundred yuan, and the patient needs to take medicine for two weeks to eliminate the disease.
+- Cost: Carbon 13/14 breath test $15–$30; 2 weeks of quadruple eradication medication costs $30–$75
+- Speaking in human terms: In a 22-year follow-up trial in Linqu, Shandong, people who eradicated Helicobacter pylori were about half less likely to develop gastric cancer and about 40% less likely to die from gastric cancer.A checkup costs $15–30, and the patient needs to take medicine for two weeks to eliminate the disease.
 - Benefit: 22-year follow-up of the Shandong Linqu Randomized Intervention Trial: Helicobacter pylori eradication therapy was associated with an OR of 0.48 (95% CI 0.32 to 0.71) for gastric cancer incidence and a HR of 0.62 (95% CI 0.39 to 0.99) for gastric cancer death.
 - Level of evidence: A
 - Source: Li WQ et al. (2019). Effects of Helicobacter pylori treatment and vitamin a
@@ -219,7 +219,7 @@ nd garlic supplementation on gastric cancer incidence and mortality: follow-up o
 
 ### 24. Heavy smokers should undergo low-dose chest CT once a year
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: 200 to 400 yuan per session, 10 minutes; review and anxiety after false positive
+- Cost: $30–$60 per session, 10 minutes; review and anxiety after false positive
 - Speaking in human terms: Eligible heavy smokers who undergo low-dose CT once a year are 20% less likely to die from lung cancer than those who only take chest X-rays, and the overall probability of death is 6.7% lower.The price is a re-examination caused by a false positive and a period of worry.
 - Benefits: US NLST randomized trial (53,454 people, 55 to 74 years, 30 pack-years or more, ≤15 years since quitting): Low-dose CT resulted in a 20.0% (95% CI 6.8 to 26.7) relative reduction in lung cancer deaths (95% CI 6.8 to 26.7) and a 6.7% relative reduction (95% CI 1.2 to 13.6) in total mortality compared with chest radiography.
 - Level of evidence: A
@@ -228,7 +228,7 @@ nd garlic supplementation on gastric cancer incidence and mortality: follow-up o
 
 ### 25. If you are depressed or have suicidal thoughts, call 12356 and do not stockpile sleeping pills and pesticides at home.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = No Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan; a phone call, or locking up medicines and keeping pesticides away from home
+- Cost: $0; a phone call, or locking up medicines and keeping pesticides away from home
 - Speaking in human terms: Taking lethal means away from your hands is the most effective intervention of this type: related suicides dropped by 43% after taking analgesics, and 86% after installing protection on jumping hotspots.Therefore, we do not stockpile sleeping pills and pesticides at home.When you have trouble thinking, call 12356 first. It is available nationwide and is open at least 18 hours a day.
 - Benefits: 10-year systematic review: The evidence for limiting lethal means continues to strengthen, suicides related to analgesic control decreased by 43%, and suicides related to jumping hot spots decreased by 86% (79% to 91%) after adding protection; campus awareness programs increased the OR of suicide attempts by 0.45 (95% CI 0.24 to 0.85); medication and psychological treatment of depression are important links in prevention.China: From May 1, 2025, dial 12356 to access the psychological assistance hotline nationwide, which will be available no less than 18 hours a day.
 - Level of evidence: B
@@ -237,8 +237,8 @@ nd garlic supplementation on gastric cancer incidence and mortality: follow-up o
 
 ### 26. Prepare fire extinguishers, fire blankets, escape breathing masks and first aid kits, and inspect them once a year
 <!-- Cost tags: Money=little time=little perseverance=no profit=medium caliber=mortality rate -->
-- Cost: Fire extinguisher, fire blanket, a breathing mask per person and a first aid kit, a set of several hundred yuan; buy once, then spend ten minutes checking it every year
-- Speaking in human terms: Fire extinguishers, fire blankets, escape masks, and first aid kits are all items on the 11-item household emergency list from the Department of Emergency Management. Each set costs a few hundred yuan to buy.In studies where home safety coaching has been conducted at homes, injury rates were about a quarter lower.
+- Cost: Fire extinguisher, fire blanket, a breathing mask per person and a first aid kit, a set of $30–150; buy once, then spend ten minutes checking it every year
+- Speaking in human terms: Fire extinguishers, fire blankets, escape masks, and first aid kits are all items on the 11-item household emergency list from the Department of Emergency Management. Each set costs $30–150 to buy.In studies where home safety coaching has been conducted at homes, injury rates were about a quarter lower.
 - Income: The Ministry of Emergency Management's "National Basic Household Emergency Supplies Reserve Suggested List" has a total of 11 items, among which "fire extinguishers and fire blankets" are used for "fighting first-time fires" and "fire blankets can be worn on the body to escape"; "respiratory masks" refer to "fire-fighting filtering self-rescue respirators, used for fire escape"; "external medicines" include "hemostatic powder, hemostatic patches, gauze bandages, etc., used to treat wounds."Cochrane review of 98 studies, 2,605,044 people: Home safety interventions improved injury incidence IRR 0.89 (95% CI 0.78 to 1.01), including home-delivered interventions IRR 0.75 (95% CI 0.62 to 0.91)
 - Level of evidence: B
 - Source: Ministry of Emergency Management (2020). Recommended list of national basic household emergency supplies reserves. <https://www.mem.gov.cn/kp/shaq/202011/t20201129_372149.shtml>; Kendrick D et al. (2012). Home safety education and provision of safety equipment for injury prevention. Cochrane Database of Systematic Reviews.<https://doi.org/10.1002/14651858.CD005014.pub3> ; Wusheng County Market Supervision and Administration Bureau (2025). Consumption tips for portable fire extinguishers, fire doors (windows), and point temperature (smoke) fire detectors.<https://www.wusheng.gov.cn/gasylbzj/c109568/zzzq/content/content_1988424970198126592.html>
@@ -246,7 +246,7 @@ nd garlic supplementation on gastric cancer incidence and mortality: follow-up o
 
 ### 27. If there is visible blood in the urine, even if it doesn’t hurt or it will be clean the next day, you still need to have it checked.
 <!-- Cost tags: Money=Low Time=Medium Perseverance=No Benefit=Small Caliber=Mortality -->
-- Cost: A routine urine test costs tens of yuan and a urinary system ultrasound costs one or two hundred yuan; if the doctor deems it necessary, a cystoscopy is added, which costs around a thousand yuan.
+- Cost: A routine urine test costs $3–15 and a urinary system ultrasound costs $15–30; if the doctor deems it necessary, a cystoscopy is added, which costs around a thousand yuan.
 - Speaking in human terms: For people over 60 years old who have a visible hematuria, the probability of being diagnosed with bladder cancer is about 2.8%, and for people 40-59 years old about 1.2% - not high, but high enough to warrant a check-up.Hematuria often occurs spontaneously
 Just because you stopped, it doesn’t mean it’s okay.
 - Benefits: Case-control study of UK primary care electronic medical records, 4915 cases of bladder cancer vs. 21718 controls: Positive predictive value of gross hematuria for bladder cancer, 2.8% (95% CI 2.5 to 3.1) in those over 60 years and 1.2% (0.6 to 2.3) in those 40 to 59 years; only microscopic hematuria was also significant, odds ratio 20 (95% CI)12 to 33), over 60 years, positive predictive value 1.6% (1.2 to 2.1)
@@ -256,7 +256,7 @@ Just because you stopped, it doesn’t mean it’s okay.
 
 ### 28. Use condoms during all sexual activities and do not share needles with others.
 <!-- Cost tags: Money=less, time=less, perseverance=some, benefit=big, caliber=mortality rate -->
-- Cost: one or two yuan each; the difficulty is not in the money, but in using it every time and wearing it from the beginning.
+- Cost: $0.15–0.30 each; the difficulty is not in the money, but in using it every time and wearing it from the beginning.
 - To put it bluntly: if you wear it all the time every time, the probability of HIV infection between the opposite sex will be reduced by more than 70%; the effect of "wearing it most of the time" is not much different from not wearing it.Syphilis and gonorrhea are also blocked.
 - Benefits: Systematic review and meta-analysis of 25 studies, 10,676 HIV-serodiscordant heterosexual couples: Risk of HIV transmission among consistent condom users compared with never users, RR 0.29 (95% CI 0.20 to 0.43); compared with irregular users, RR 0.23 (95% CI 0.13 to 0.40).The authors concluded that although condoms are not perfect, "consistent use can reduce HIV transmission by more than 70%."The same layer of protection also covers syphilis, gonorrhea, chlamydia and other sexually transmitted infections
 - Level of evidence: A
@@ -265,7 +265,7 @@ Just because you stopped, it doesn’t mean it’s okay.
 
 ### 29. If you have any high-risk behavior, go check it out. The Centers for Disease Control and Prevention is free and anonymous.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=mortality rate -->
-- Cost: 0 yuan; go to a disease control or designated medical institution and have a tube of blood drawn
+- Cost: $0; go to a disease control or designated medical institution and have a tube of blood drawn
 - Speaking in human terms: There is no cost to go to the CDC to get tested for HIV, and you don’t need to leave your name.Finding out is not a death sentence: people who insist on taking medicine to suppress the virus until it is undetectable will not pass it on to their sexual partners. In a study that followed more than 700 couples and more than 70,000 condom-free sex, the number of cases of infection between partners was zero.
 - Income: Article 23 of the "Regulations on the Prevention and Treatment of AIDS": Medical and health institutions designated by the health authorities of local people's governments at or above the county level "should provide free consultation and preliminary screening tests to those who voluntarily accept AIDS consultation and testing."The significance of early detection is not psychological comfort: current antiviral treatment can suppress the virus until it is undetectable. The World Health Organization's caliber is that "infected individuals who receive antiviral treatment and have undetectable viral loads will not transmit HIV to their sexual partners." - The PARTNER study followed up 782 same-sex serodiscordant couples, 1,593 pairs per year, and a total of 76,088 condomless sexual intercourses. Phylogenetic analysis showed that all 15 new infections did not come from partners, that is, there was zero transmission between partners.
 - Level of evidence: A

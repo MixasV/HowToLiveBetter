@@ -6,7 +6,7 @@ The first half is about money pits and safety exits in entertainment venues, and
 
 ### 1. Before entering a KTV, bar or secret room, check where the safety exit is. If it is locked or blocked, change to another one.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = No Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan; look up for 10 seconds when entering
+- Cost: $0; look up for 10 seconds when entering
 - Say it in plain language: According to regulations, evacuation passages and safety exits must be clear when entertainment venues are open. Blocking, locking, placing obstacles, or blocking signs is not allowed. Internet cafes are also not allowed to seal doors and windows. Failure to do so is illegal and can be reported.The private rooms are underground, there is only one exit, and the aisles are piled with debris. When a fire breaks out in this kind of place, there is a lot of smoke, the aisles are narrow, there are many people, and most of them are drunk.
 - Benefit: This is the legal obligation of the operator, which means that if it is not fulfilled, it is illegal and can be reported: "During business, entertainment venues should ensure that evacuation passages and safety exits are clear, and evacuation passages and safety exits must not be blocked or locked. Fences and other obstacles that affect evacuation must not be set up in evacuation passages and safety exits." And "obvious indication signs should be set up on evacuation passages and safety exits, and indication signs must not be blocked or covered."Internet cafes are also required to "not block or lock doors, windows, safe evacuation passages, and safe exits during business hours" and "prohibit open flame lighting and smoking."
 - Evidence level: A
@@ -15,7 +15,7 @@ The first half is about money pits and safety exits in entertainment venues, and
 
 ### 2. Ask for a price list before ordering. Entertainment venues must clearly indicate prices. "Play now, calculate later" is not accepted.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=money -->
-- Cost: 0 yuan; ask for an order once.
+- Cost: $0; ask for an order once.
 - Say it in plain language: According to regulations, services and goods sold by entertainment venues must be clearly marked with prices and proactively produce price lists, and no forced or deceptive consumption is allowed.The so-called "exorbitantly priced drinks" almost always occur when the price list is not read and the bill is settled based on the verbal quotation afterwards.When entering the private room, you first need to take a photo of the order, and after ordering, you will be asked for a confirmation list. If there is any dispute over the checkout, call 12315 on the spot. It is much more difficult to defend your rights and provide evidence after paying.
 - Benefit: "Entertainment venues that provide entertainment services and sell goods must clearly mark prices and provide price lists to consumers; consumers must not be forced or deceived to accept services or purchase goods." Those who violate price laws and regulations will be punished by relevant departments in accordance with the law.The so-called "exorbitantly priced drinks" disputes mostly occur when the price list is not shown and the bill is settled based on the verbal quotation afterwards.
 - Evidence level: A
@@ -24,7 +24,7 @@ The first half is about money pits and safety exits in entertainment venues, and
 
 ### 3. If someone hands something "something" to you, leave immediately. Tolerating or providing is not "helping a friend".
 <!-- Cost tag: Money = 0 Time = less Perseverance = some Benefit = big Caliber = freedom -->
-- Cost: 0 yuan; go out
+- Cost: $0; go out
 - Say it in plain language: It is prohibited to sell, provide drugs or allow others to take drugs in entertainment venues. In case of violation, illegal gains will be confiscated, business will be suspended for 3 to 6 months for rectification, and the license will be revoked in severe cases.The personal side is even more serious: if you use it yourself, you will be punished by public security, and letting others use it in the private room or residence you booked is a criminal offense of allowing others to take drugs.Someone takes out unknown powder, tablets, or cartridges and asks you to try them, and leave on the spot.
 - Benefit: Entertainment venues are expressly prohibited from "selling or providing drugs, or organizing, forcing, instigating, luring, deceiving, or allowing others to take or inject drugs." Employees are also not allowed to take drugs or provide conditions for customers to commit the above acts. Violators will have illegal gains and illegal property confiscated by the public security department, and be ordered to suspend business for 3 to 6 months. In serious cases, the entertainment business license will be revoked.The regulations also require venues to display warning signs prohibiting drugs, gambling, and prostitution in prominent locations in the lobby, private rooms, and private rooms, and to indicate the reporting hotline.
 - Evidence level: A
@@ -33,7 +33,7 @@ The first half is about money pits and safety exits in entertainment venues, and
 
 ### 4. Do not eat sweets and snacks given by strangers, do not drink drinks that have left your sight, and do not accept cigarette cartridges handed to you by others.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = No Benefit = Large Caliber = Freedom -->
-- Cost: 0 yuan; do not accept the cup handed to you. If your cup is out of sight, change it to another cup.
+- Cost: $0; do not accept the cup handed to you. If your cup is out of sight, change it to another cup.
 - Say it in plain language: Today's drugs don't look like drugs - "top" e-cigarettes mixed with synthetic cannabinoids can be adjusted into various colors and flavors. Their appearance is basically the same as ordinary e-cigarettes. They are handed out to people for testing in bars, KTVs, and hotels.Those who deceive others into taking drugs will be detained for 10 to 15 days and fined between 1,000 and 5,000 yuan; those who are deceived into taking drugs themselves will also be detained for 10 to 15 days and fined up to 3,000 yuan. Those who are addicted will have to undergo community detoxification for three years.Change the drink once it is out of sight.
 - Benefit: Today’s drugs don’t look like drugs.Synthetic cannabinoids as of July 1, 2021The entire category of e-cigarettes has been classified as being mixed with e-cigarette oil to make "top" e-cigarettes. In the case reported by the Supreme People's Procuratorate, the investigators described the e-cigarette oil as "can be changed into various colors and flavors by adding edible pigments" and "basically the same appearance as ordinary e-cigarettes."It will be included in the Category II Psychotropic Drugs List.Deceiving others to take drugs is itself a first-class violation: those who induce, instigate, deceive or force others to take or inject drugs will be detained for 10 to 15 days and fined 1,000 to 5,000 yuan; those who constitute a crime will be sentenced to less than 3 years, serious cases will be sentenced to 3 to 7 years, and those who are forced will be sentenced to 3 to 10 years. Minors will be punished more severely.The consequences will fall on those who are deceived: those who take or inject drugs will be detained for 10 to 15 days and fined not more than 3,000 yuan (for less severe cases, they will be detained for not more than 5 days or fined not more than 1,000 yuan), and may also be ordered not to enter entertainment venues for 6 months to 1 year; those who are addicted will be ordered to undergo community detoxification for 3 years, and those who refuse community detoxification or re-use during detoxification will be required to undergo compulsory isolation detoxification for 2 years, which can be extended to a maximum of 1 year.Year (National Public Security Administration Punishment Law from January 2026)
 - Evidence level: A
@@ -42,7 +42,7 @@ The first half is about money pits and safety exits in entertainment venues, and
 
 ### 5. Use your own ID card to surf the Internet at an Internet cafe. Do not borrow or use someone else’s ID card.
 <!-- Cost tag: Money=0 Time=less Perseverance=No Income=medium Caliber=Free -->
-- Cost: 0 yuan
+- Cost: $0
 - Say it in plain language: According to regulations, Internet cafes must check the ID cards of registered Internet users and record Internet access information. The information should be retained for no less than 60 days. The public security and cultural departments can access it at any time. During this period, it cannot be changed or deleted.Whoever uses his or her ID card to access the Internet will be credited with what was done on the machine during that time.
 - Benefit: "The operating unit of an Internet access service business place shall check and register the valid ID cards and other valid documents of Internet access consumers, and record relevant Internet access information. The registration content and record backup shall be kept for no less than 60 days" and shall be provided to the cultural administration department and public security organs when they inquire in accordance with the law. They shall not be modified or deleted during the retention period.In other words, whoever's ID card is used to access the Internet will be recorded on whoever did it on this machine during that period.
 - Evidence level: A
@@ -51,7 +51,7 @@ The first half is about money pits and safety exits in entertainment venues, and
 
 ### 6. Don’t open script killing and secret rooms in residential buildings or below the second underground floor.
 <!-- Cost tag: Money=0 Time=Low Perseverance=No Benefit=Medium Caliber=Mortality -->
-- Cost: 0 yuan; before ordering, ask which floor the address is on.
+- Cost: $0; before ordering, ask which floor the address is on.
 - Say it in plain language: A 2022 notice from the five departments states that scripted entertainment venues are not allowed to be opened in residential buildings or below the ground floor.This type of venue is dark, has many partitions, and flammable props. The door often requires solving puzzles to open. It is much more difficult to escape from a fire than an ordinary store.Before booking, check the address and floor on the review page, and find another hotel if it doesn’t comply.
 - Benefit: The special notice of the five departments in 2022 is very specific: "Scripted entertainment business premises shall not be located in residential buildings or buildings.
 Places below the first floor underground (excluding the first floor underground), etc." and requires places to implement the requirements of the Production Safety Law and the Fire Protection Law, "carry out fire risk self-awareness, self-inspection, and self-correction on a regular basis, and improve the ability to organize evacuation and escape in emergencies and to fight initial fires."The same notice also requires scripts to include age-appropriate reminders. Minors must not be allowed to enter scenes that are not suitable for minors. scripted entertainment activities must not be provided to minors except on statutory holidays, rest days, winter and summer vacations.
@@ -61,7 +61,7 @@ Places below the first floor underground (excluding the first floor underground)
 
 ### 7. Go for a walk or run when you feel bad. The antidepressant effect is directly proportional to the intensity.
 <!-- Cost tag: Money=0 Time=Medium Perseverance=Yes Benefit=Large Caliber=Mortality -->
-- Cost: 0 yuan; about half an hour each time
+- Cost: $0; about half an hour each time
 - Say it in plain language: 218 randomized trials, more than 14,000 people who met the criteria for severe depression: Compared with routine care and placebo tablets, the most obvious improvement was brisk walking or jogging, followed by yoga, strength training, mixed aerobics, and Tai Chi Qigong. The differences were not big; the higher the intensity, the better the effect. Strength training and yoga are the easiest to adhere to.The author himself said that the quality of the evidence is low, and the direction that can be used is better to move than not to use it. Choose the one that you can stick to.
 - Benefit: Bayesian network meta-analysis of 218 randomized trials, 495 groups, 14,170 participants meeting clinical criteria for major depression, compared with active controls (usual care, placebo tablets): brisk walking or jogging Hedges' g −0.62 (95% confidence interval −0.80 to −0.45), yoga −0.55 (−0.73 to −0.36), strength training−0.49 (−0.69 to −0.29), mixed aerobic −0.43 (−0.61 to −0.24), Tai Chi or Qigong −0.42 (−0.65 to −0.21)."The effect of exercise is directly proportional to the intensity prescribed", and strength training and yoga are the most acceptable
 - Evidence level: A
@@ -79,7 +79,7 @@ Places below the first floor underground (excluding the first floor underground)
 
 ### 9. If you want to slow down on the spot, use 5 minutes of "cyclic sighing": inhale for two sections, and exhale for a longer period.
 <!-- Cost tag: Money=0 Time=Low Perseverance=No Benefit=Medium Caliber=Mortality -->
-- Cost: 0 yuan; 5 minutes per day
+- Cost: $0; 5 minutes per day
 - Say it in plain language: In a controlled experiment conducted for 5 minutes a day for a month, three breathing exercises were better than mindfulness meditation of the same length in improving mood and lowering the breathing rate. Among them, "cyclic sighing" that lengthens the exhalation was the best.The method is to take a breath through your nose, take another small breath to fill your lungs, and then slowly spit it out through your mouth.This is the only test, and the results are reported by myself, but the cost is zero.
 - Benefit: A remote randomized controlled trial comparing three daily 5-minute breathing exercises with an equal amount of mindfulness meditation for 1 month.The three breathing techniques are circular sighing (emphasis on prolonged exhalation), box breathing (inhalation, hold, and exhalation of equal lengths), and cyclic hyperventilation with breathholding (long inhalation, short exhalation).The mixed effects model showed that breathing exercises, especially exhalation-based circular sighing, were better than mindfulness meditation in improving mood (P<0.05) and reducing breathing frequency (P<0.05).
 - Evidence level: B
@@ -97,7 +97,7 @@ Places below the first floor underground (excluding the first floor underground)
 
 ### 11. If you live close to a green space, use it more, including walking, walking, and sitting.
 <!-- Cost tag: Money=0 Time=less Perseverance=No Benefit=small Caliber=mortality -->
-- Cost: 0 yuan; drop by
+- Cost: $0; drop by
 - Say it in plain language: 9 studies, 7 countries, 8.32 million people: For every 0.1 vegetation index increase in greenness within 500 meters of residence, the probability of death during the same period is about 4% lower.What is measured is the greenery around your residence, not the number of times you go to the park. People who live in areas with good greenery tend to have more money and better air.So don't read it like "you can live longer by going to the park." The useful part is to take the surrounding green spaces into account when choosing a place to live.
 - Benefit: Meta-analysis of 9 cohort studies, 7 countries, and 8.32 million people: for every 0.1 normalized difference vegetation index (NDVI) increase in surrounding greenness within 500 meters of residence, the pooled hazard ratio for total mortality was 0.96 (95% CI 0.94–0.97).7 of 9 studies found a significant negative association and 2 found no association
 - Evidence level: A

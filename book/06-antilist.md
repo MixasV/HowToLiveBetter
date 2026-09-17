@@ -6,8 +6,8 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 1. Don't take multivitamins for longevity or cardiovascular disease prevention
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=money -->
-- Cost: About 0.5–2 yuan/day, 200–700 yuan/year; psychological dependence on daily pills.
-- Say it in plain language: 14,000 male doctors took them for eleven years with no difference in cardiovascular events or death; pooling 9 trials of over 50,000 people shows no effect on death either. What you save is 200–700 yuan a year. People with diagnosed nutrient deficiencies and pregnant women taking folic acid are excluded.
+- Cost: About $0.075–$0.3/day, $30–$100/year; psychological dependence on daily pills.
+- Say it in plain language: 14,000 male doctors took them for eleven years with no difference in cardiovascular events or death; pooling 9 trials of over 50,000 people shows no effect on death either. What you save is $30–$100 a year. People with diagnosed nutrient deficiencies and pregnant women taking folic acid are excluded.
 - Benefit: PHS II (14,641 male doctors, median 11.2-year follow-up): major cardiovascular events HR 1.01 (95% CI 0.91–1.10), all-cause death HR 0.94 (0.88–1.02); USPSTF 2022 pooled 9 RCTs with 51,550 people: multivitamins unassociated with all-cause death, graded I (insufficient evidence). It looks cost-effective because of the "one pill covers all nutrients" intuition and low unit price.
 - Evidence level: A
 - Source: Sesso HD et al. (2012). Multivitamins in the prevention of cardiovascular disease in men: the Physicians' Health Study II randomized controlled trial. JAMA. <https://doi.org/10.1001/jama.2012.14805>; US Preventive Services Task Force (2022). Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer. JAMA. <https://doi.org/10.1001/jama.2022.8970>
@@ -15,8 +15,8 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 2. Don't take ordinary fish oil for cardiovascular disease prevention
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=money -->
-- Cost: About 1–3 yuan/day, 400–1000 yuan/year.
-- Say it in plain language: In two trials (26,000 people and 15,000 diabetic patients), 1 g/day fish oil made no difference in cardiovascular events or death. "Eating fish is good" does not equal "fish oil capsules are good." What you save is 400–1000 yuan a year.
+- Cost: About $0.15–$0.45/day, $60–$150/year.
+- Say it in plain language: In two trials (26,000 people and 15,000 diabetic patients), 1 g/day fish oil made no difference in cardiovascular events or death. "Eating fish is good" does not equal "fish oil capsules are good." What you save is $60–$150 a year.
 - Benefit: VITAL (25,871 people, 1 g/day, median 5.3-year follow-up): major cardiovascular events HR 0.92 (95% CI 0.80–1.06), all-cause death HR 1.02 (0.90–1.15); ASCEND (15,480 diabetic patients, 1 g/day, average 7.4-year follow-up): serious vascular events RR 0.97 (0.87–1.08), all-cause death RR 0.95 (0.86–1.05). It looks cost-effective because "eating fish is beneficial" is directly equated with "fish oil capsules are beneficial."
 - Evidence level: A
 - Source: Manson JE et al. (2019). Marine n-3 Fatty Acids and Prevention of Cardiovascular Disease and Cancer. NEJM. <https://doi.org/10.1056/NEJMoa1811403>; ASCEND Study Collaborative Group (2018). Effects of n-3 Fatty Acid Supplements in Diabetes Mellitus. NEJM. <https://doi.org/10.1056/NEJMoa1804989>
@@ -24,7 +24,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 3. Don't supplement vitamin D for longevity in people who aren't deficient
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=money -->
-- Cost: About 0.2–0.5 yuan/day, 100–200 yuan/year; small money, mainly the illusion of "already doing prevention."
+- Cost: About $0.03–$0.075/day, $15–$30/year; small money, mainly the illusion of "already doing prevention."
 - Say it in plain language: In two trials (26,000 people for 5 years, and 21,000 elderly for 5 years), supplementing vitamin D in people who weren't deficient produced no change in cancer, cardiovascular events, or death — mortality 5.3% vs 5.1%. Diagnosed deficiency, osteoporosis, and people chronically without sunlight are excluded — supplement per medical advice.
 - Benefit: VITAL (25,871 people, 2000 IU/day, median 5.3-year follow-up): invasive cancer HR 0.96 (95% CI 0.88–1.06), major cardiovascular events HR 0.97 (0.85–1.12), all-cause death HR 0.99 (0.87–1.12); D-Health (21,315 Australians over 60, 60,000 IU/month, 5 years): all-cause death HR 1.04 (0.93–1.18), mortality 5.3% vs 5.1%. It looks cost-effective because in observational studies people with low vitamin D have higher mortality, misread as "supplementing works."
 - Evidence level: A
@@ -33,7 +33,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 4. Don't take antioxidant supplements (beta-carotene, vitamin E, vitamin A) for cancer prevention
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=mortality -->
-- Cost: About 0.5–2 yuan/day; for smokers the cost is rising lung cancer risk.
+- Cost: About $0.075–$0.3/day; for smokers the cost is rising lung cancer risk.
 - Say it in plain language: This one isn't just useless: pooled across 78 trials and nearly 300,000 people, antioxidant supplements slightly raised mortality. In two large trials of smokers, beta-carotene raised lung cancer incidence 18%–28% and total death 8%–17%. Smokers and people with asbestos exposure in particular should not take them.
 - Benefit: Cochrane review (78 RCTs, 296,707 people): antioxidant supplements total death RR 1.02 (95% CI 0.98–1.05), low-bias-risk trials RR 1.04 (1.01–1.07), beta-carotene RR 1.05 (1.01–1.09), vitamin E RR 1.03 (1.00–1.05); ATBC (29,133 male smokers, 20 mg/day): lung cancer incidence up 18% (3%–36%), total death up 8% (1%–16%); CARET (18,314 smokers/asbestos-exposed): lung cancer RR 1.28 (1.04–1.57), all-cause death RR 1.17 (1.03–1.33). It looks cost-effective because each step in "antioxidant = anti-aging = cancer prevention" feels like common sense.
 - Evidence level: A
@@ -42,7 +42,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 5. Don't expect glucosamine/chondroitin to treat knee osteoarthritis
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=money -->
-- Cost: About 2–5 yuan/day, 700–1800 yuan/year.
+- Cost: About $0.3–$0.75/day, $100–$270/year.
 - Say it in plain language: 1,583 people took them for 24 weeks: the placebo group already had 60.1% reporting pain relief; glucosamine was only 3.9 percentage points higher and chondroitin 5.3, neither statistically significant. At 700–1800 yuan a year, you're mostly buying that 60% placebo effect.
 - Benefit: GAIT (1,583 knee osteoarthritis patients, 24 weeks): pain relief response rate placebo 60.1%, glucosamine 3.9 points higher (P=0.30), chondroitin 5.3 points higher (P=0.17), combination 6.5 points higher (P=0.09), all not significant; comparator celecoxib 10.0 points higher (P=0.008). It looks cost-effective because "cartilage-building raw material" sounds directly targeted, and placebo itself has a 60% response.
 - Evidence level: A
@@ -51,8 +51,8 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 6. Don't rely on vitamin C to prevent colds
 <!-- cost_tag: money=0 time=low willpower=no benefit=small dimension=money -->
-- Cost: Effervescent tablets about 1–2 yuan each, 300–700 yuan/year.
-- Say it in plain language: 29 trials, 11,306 people: daily vitamin C barely reduces the number of colds; starting after a cold shows no consistent effect either. It does shorten duration by about 8% — half a day less misery per cold; decide for yourself whether that's worth 300–500 yuan a year. Marathon runners and soldiers on cold-weather marches are the exception — their cold probability drops by half.
+- Cost: Effervescent tablets about $0.15–$0.3 each, $45–$100/year.
+- Say it in plain language: 29 trials, 11,306 people: daily vitamin C barely reduces the number of colds; starting after a cold shows no consistent effect either. It does shorten duration by about 8% — half a day less misery per cold; decide for yourself whether that's worth $45–$75 a year. Marathon runners and soldiers on cold-weather marches are the exception — their cold probability drops by half.
 - Benefit: Cochrane review (29 trials, 11,306 people): regular vitamin C supplementation in the general population, cold incidence RR 0.97 (95% CI 0.94–1.00), i.e., essentially no reduction in cold count; starting after cold onset "showed no consistent effect in therapeutic trials." It looks cost-effective because it's cheap, sweet and drinkable, and "vitamin C prevents colds" has circulated for half a century.
 - Evidence level: A
 - Source: Hemilä H, Chalker E (2013). Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev. <https://doi.org/10.1002/14651858.CD000980.pub4>
@@ -60,7 +60,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 7. Don't get "whole-body PET-CT" or "tumor marker panels" for yourself when symptom-free
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=mortality -->
-- Cost: Whole-body PET-CT about 7,000–10,000 yuan per session plus ionizing radiation; tumor marker panels a few hundred yuan; the real cost is the follow-up tests, biopsies, and surgery after false positives.
+- Cost: Whole-body PET-CT about $1,000–$1,500 per session plus ionizing radiation; tumor marker panels $30–150; the real cost is the follow-up tests, biopsies, and surgery after false positives.
 - Say it in plain language: Screening symptom-free people mainly produces false positives: 1,192 asymptomatic people had whole-body CT, 86% had at least one "abnormality," 37% were called back for further exams, and the vast majority were benign. In the large ovarian cancer marker screening trial, the screened group's mortality was actually slightly higher; 0.2%–3.25% had an operation because of false positives, with up to 15% experiencing serious surgical complications. Seven to ten thousand per session and radiation. The evidence-based screenings are a different matter.
 - Benefit: USPSTF graded ovarian cancer screening with CA-125 and ultrasound in asymptomatic women as D (recommend against): in the PLCO trial, ovarian cancer mortality was 0.34% in the screened group vs 0.29% in usual care (RR 1.18, 95% CI 0.82–1.71) — no benefit; the proportion receiving surgery due to false positives across trials was 0.2%–3.25%, up to 15% of whom experienced serious surgical complications; whole-body CT screening of 1,192 asymptomatic people found 86% with at least one "abnormality," 37% advised further exams, "most findings per description were benign." It looks cost-effective because "one scan covers the whole body, early detection early treatment" fits intuition.
 - Evidence level: A
@@ -69,7 +69,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 8. Don't expect fitness-band/watch activity tracking to help you lose weight
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=money -->
-- Cost: 200–2000 yuan device plus daily attention to the data.
+- Cost: $30–$300 device plus daily attention to the data.
 - Say it in plain language: 471 overweight adults got the same lifestyle intervention; the device-wearing group lost 3.5 kg in two years, while the non-wearers actually lost 5.9 kg. Devices don't help weight loss — the exercise itself is what works.
 - Benefit: IDEA trial (471 overweight/obese adults, 24 months): with identical lifestyle intervention, the wearable-device group lost 3.5 kg (95% CI 2.6–4.5) while the non-device group lost 5.9 kg (5.0–6.8), a difference of 2.4 kg (1.0–3.7, P=0.002). It looks cost-effective because of the "only what's measured gets managed" claim and the one-time device cost.
 - Evidence level: B
@@ -87,7 +87,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 10. Don't spend big money on health products, herbal pastes, or tonics to "regulate the body"
 <!-- cost_tag: money=0 time=low willpower=no benefit=large dimension=money -->
-- Cost: From a few hundred to over ten thousand yuan, often multiplying once gift-ified.
+- Cost: From $50–1,500+, often multiplying once gift-ified.
 - Say it in plain language: Regulation requires health-food packaging to print in an area not less than 20% of the main display surface: "Health food is not a drug and cannot replace drug treatment of disease" — the regulator itself doesn't recognize it as treating disease. The most common ingredients (multivitamin, fish oil, vitamin D, antioxidants, glucosamine, vitamin C) were individually checked in the first six items of this section, with the conclusion being no difference.
 - Benefit: SAMR requires health-food packaging to mark the warning "health food is not a drug and cannot replace drug treatment of disease" over no less than 20% of the main display area, and defines health food's purpose as "supplementing dietary nutrients, maintaining/improving body health status, or reducing disease risk factors" — i.e., the regulator itself doesn't recognize treatment effects. The first 6 items of this section list the RCT results of the most common ingredients (multivitamin, fish oil, vitamin D, antioxidants, glucosamine, vitamin C). It looks cost-effective because "not treating but regulating" is unfalsifiable, and in gifting scenarios the purchasing decision is driven by social obligation rather than evidence.
 - Evidence level: C
@@ -96,7 +96,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 11. Don't take probiotics long-term without gut problems
 <!-- cost_tag: money=0 time=low willpower=no benefit=small dimension=money -->
-- Cost: About 2–5 yuan/day, 700–1800 yuan/year.
+- Cost: About $0.3–$0.75/day, $100–$270/year.
 - Say it in plain language: Pooled across 45 trials of healthy adults: probiotics don't cause lasting changes to gut flora — it reverts when you stop — and blood lipids don't improve either. Specific situations like antibiotic-associated diarrhea have their own evidence, outside this entry.
 - Benefit: Review of 45 healthy-adult trials: "failed to support that probiotics cause lasting changes to gut microbiota, nor improved blood lipids in healthy adults"; flora changes are transient, disappearing upon discontinuation. It looks cost-effective because "gut health" is broad enough a concept and the daily-bottle unit price is low.
 - Evidence level: B
@@ -114,7 +114,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 13. Don't buy detox, colon-cleansing, enzyme, or alkaline water products
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=money -->
-- Cost: A few hundred to several thousand yuan; fasting-style "detox" can also bring hypoglycemia and nutrient deficiency.
+- Cost: $30–1,500; fasting-style "detox" can also bring hypoglycemia and nutrient deficiency.
 - Say it in plain language: The review's own words: the detox industry is this big, yet clinical evidence supporting it is very scarce, and there simply are no randomized controlled trials on commercial detox diets. For the "acidic body causes cancer" claim, screening 8,278 papers left only one qualifying, and it found no association either. Fasting-style detox also risks hypoglycemia and nutrient deficiency.
 - Benefit: Review conclusion "despite the booming detox industry, clinical evidence supporting these diets is very scarce" and "there are no randomized controlled trials on commercial detox diets"; the systematic review of alkaline diet/alkaline water and cancer screened 8,278 papers, only 1 met inclusion criteria showing no association, and the authors stated "promoting alkaline diets and alkaline water to the public for cancer prevention or treatment is unreasonable." It looks cost-effective because "there are toxins in the body needing removal" and "acidic body causes cancer" both sound like physiology.
 - Evidence level: C
@@ -133,7 +133,7 @@ This section collects things that "look cheap and effective" but whose original 
 ### 15. Don't spend money on fortune-telling, tarot, or horoscopes to make decisions
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=money -->
 - Cost: 0 money; letting go of a shortcut for deciding.
-- Say it in plain language: In the classic classroom experiment, the "personal personality analysis" students received was actually identical for everyone yet was widely rated as accurate — this is why fortune-telling always seems to hit. The real cost is more than a few dozen yuan: the online fortune-telling gang in Xixian County, Henan, lured people with free palm readings, then charged incense money and "support packages" up to 3,888 yuan, with 50+ victims and over 2 million yuan recovered; the ringleader got eleven years. A few dozen yuan as entertainment is fine; using it to decide on quitting, marriage, or investing is where the loss happens.
+- Say it in plain language: In the classic classroom experiment, the "personal personality analysis" students received was actually identical for everyone yet was widely rated as accurate — this is why fortune-telling always seems to hit. The real cost is more than $5–15: the online fortune-telling gang in Xixian County, Henan, lured people with free palm readings, then charged incense money and "support packages" up to 3,888 yuan, with 50+ victims and over 2 million yuan recovered; the ringleader got eleven years. A few dozen yuan as entertainment is fine; using it to decide on quitting, marriage, or investing is where the loss happens.
 - Benefit: Classic classroom experiment: after a personality test, students each received an "individual analysis" that was in fact identical for everyone, yet was widely regarded as accurate; the author's conclusion — "acceptance by the subject or the analyst does not prove the interpretation correct" — explains why fortune-telling always seems accurate (Barnum effect). Astrology double-blind test: two double-blind tests checked whether natal charts could accurately describe subjects' personalities, published in Nature. Official case: the online fortune-telling fraud gang in Xixian County, Henan, per the procuratorate, lured with free palm readings then took "incense money" and "support packages" up to 3,888 yuan, 50+ victims, over 2 million yuan recovered, ringleader sentenced to 11 years' imprisonment and a 100,000 yuan fine.
 - Evidence level: B
 - Source: Forer BR (1949). The fallacy of personal validation: A classroom demonstration of gullibility. Journal of Abnormal and Social Psychology. <https://doi.org/10.1037/h0059240>; Carlson S (1985). A double-blind test of astrology. Nature. <https://doi.org/10.1038/318419a0>; Supreme People's Procuratorate (2026). Henan Xixian: Three years of persistent pursuit dismantled a batch of online fortune-telling fraud gangs. <https://www.spp.gov.cn/zdgz/202607/t20260728_732935.shtml>
@@ -141,7 +141,7 @@ This section collects things that "look cheap and effective" but whose original 
 
 ### 16. Don't buy blue-light-blocking glasses to "protect your eyes," and don't believe "a few months staring at screens ruins your eyes"
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=money -->
-- Cost: 0 yuan; saves the several-hundred-to-thousand-yuan markup on lenses.
+- Cost: $0; saves the $30–1,500 markup on lenses.
 - Say it in plain language: Cochrane pooling 17 trials concluded: compared to ordinary lenses, blue-light-filtering lenses "may make no difference" in short-term eye fatigue, essentially no effect on corrected vision, and no evidence of macular protection found — saving the hundreds-to-thousands markup. The other half matters just as much: screen-induced eye soreness and dryness are reversible fatigue, not damaged eyes. What actually causes irreversible eye damage in the short term is welding arc, ultraviolet, and laser light.
 - Benefit: The 2023 Cochrane systematic review included 17 randomized controlled trials (samples from 5 to 156 people, follow-up from under 1 day to 5 weeks), no pooled analysis performed due to insufficient data, population heterogeneity, and follow-up variation. Compared to lenses without blue-light filtering: subjective visual fatigue at under one week follow-up "may make no difference" (low-certainty); in one 120-person trial, mean difference 9.76 units (95% CI −33.95 to 53.47); critical flicker fusion frequency "may make little or no difference" (low certainty); best-corrected visual acuity "probably no effect" (mean difference 0.00 logMAR, 95% CI −0.02 to 0.02, 1 study of 156 people, moderate certainty); daytime alertness effect unclear (2 trials, 42 people, very low certainty). The review also found no evidence supporting macular protection.
 - Evidence level: A

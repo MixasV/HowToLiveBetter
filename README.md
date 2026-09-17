@@ -69,7 +69,7 @@ Each tip looks like this:
 ```markdown
 ### 5. Replace table salt with low-sodium salt (potassium salt)
 <!-- cost_tag: money=low time=low willpower=no benefit=medium dimension=mortality -->
-- Cost: a few yuan more per bag
+- Cost: under a dollar more per bag
 - Say it in plain language: In a randomized trial of 20,000 people, those who replaced table salt with low-sodium salt had a 12% lower death rate and 14% lower stroke rate over 5 years. This is the result of random assignment, more credible than observational data.
 - Benefit: stroke reduced 14%, cardiovascular events reduced 13%, all-cause mortality reduced 12%
 - Evidence level: A
@@ -112,13 +112,19 @@ Evidence level answers "is this number credible," not "is it worth doing." So ea
 
 | Dimension | Value | How determined |
 | --- | --- | --- |
-| Calibration | Longevity / Money / Time & energy / Personal freedom | Based on what this entry primarily gets back. **Different calibrations are not compared**: "All-cause mortality reduced 12%" and "save 500 yuan per year" are not on the same ruler |
+| Calibration | Longevity / Money / Time & energy / Personal freedom | Based on what this entry primarily gets back. **Different calibrations are not compared**: "All-cause mortality reduced 12%" and "save $75 per year" are not on the same ruler |
 | Benefit magnitude | Large / Medium / Small | Based on thresholds from the entry's own "Benefit" line: for longevity, look at relative reduction (≥20% = Large, 10-20% = Medium, <10% or only surrogate endpoints = Small); for money, look at amount (10,000+ yuan = Large, hundreds to thousands = Medium, tens = Small); for personal freedom, look at consequences (avoid criminal liability = Large, avoid detention or administrative penalty = Medium, avoid civil disputes = Small); for time & energy, look at savings (daily hours = Large, weekly hours = Medium, one-time = Small) |
 | Cost-benefit | Highest / High / Medium | Benefit large + all three costs zero = Highest; Benefit large + low cost, or Benefit medium + zero cost = High; otherwise = Medium |
 
 The book has 498 entries: 88 highest (18%), 248 high (50%), 162 medium (33%). The middle tier is intentionally thick: the benefit magnitude only has three levels; cutting further would be pretending precision.
 
-**This tier is the author's judgment, not evidence** — essentially C-level, and orthogonal to evidence level. Can be A-level but only medium cost-benefit (shingles vaccine has 97.2% efficacy in phase 3 RCT, but costs 3,000-4,000 yuan for two shots, and shingles rarely kills); can be C-level but highest cost-benefit (sending itinerary to family before going abroad). "Medium" does not mean "don't do it" — all entries in this book are recommendations to do, this tier just means you weigh the cost yourself.
+**This tier is the author's judgment, not evidence** — essentially C-level, and orthogonal to evidence level. Can be A-level but only medium cost-benefit (shingles vaccine has 97.2% efficacy in phase 3 RCT, but costs $450–$600 for two shots, and shingles rarely kills); can be C-level but highest cost-benefit (sending itinerary to family before going abroad). "Medium" does not mean "don't do it" — all entries in this book are recommendations to do, this tier just means you weigh the cost yourself.
+
+## Currencies
+
+- Consumer prices — what you personally pay for a product, test, drug, or service — are converted to US dollars at the 2026 reference rate used throughout (about 6.7 to the dollar) and rounded to two significant figures. Qualitative prices keep their rough feel: "a few hundred yuan" → "$30–150", "a few dozen yuan" → "$5–15".
+- Legal and official numbers deliberately stay in yuan: fines, statutory damage and compensation floors, subsidies, benefit limits, social-insurance premiums and payment bases, and government or market statistics. Converting those would misrepresent the source.
+- A chapter may therefore mix the two: a "Cost" line in dollars next to a "Benefit" or "Note" line that keeps statutory yuan amounts. Treat the dollar figures as orientation only — actual local prices vary by region and over time.
 
 ## Glossary
 

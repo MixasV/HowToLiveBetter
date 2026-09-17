@@ -6,7 +6,7 @@ Caliber: Infant Mortality and Money.This section only collects a few things with
 
 ### 1. Let the child sleep on his back, on a hard surface, in the same room, on a different bed, and without any soft objects on the bed.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = Yes Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan; a hard mattress costs several hundred yuan
+- Cost: $0; a hard mattress costs $30–150
 - Say it in plain language: Let the child sleep on his back, sleep on a hard surface, share the same room with adults and on a different bed. Do not put pillows, quilts, bed bumpers, plush toys and shaped pillows on the bed. Sloping cradle and baby chair cannot be used as a sleeping place.With approximately 3,500 infants dying from sleep-related causes in the United States alone each year, this is the single largest risk reduction in this section.
 - Benefit: Approximately 3,500 infants die each year in the United States from sleep-related causes (sudden infant death syndrome, unexplained death, and accidental suffocation in bed).The American Academy of Pediatrics' recommendations for a safe sleep environment are to "position on your back; use a firm, non-inclined sleeping surface; share a room with a different bed; avoid soft bedding and overheating." Other measures to reduce risk include breastfeeding, avoiding exposure to nicotine and alcohol, getting vaccinations on schedule, and using a pacifier
 - Evidence level: A
@@ -15,7 +15,7 @@ Caliber: Infant Mortality and Money.This section only collects a few things with
 
 ### 2. Get the first shot of hepatitis B vaccine within 24 hours after birth
 <!-- Cost tag: Money = 0 Time = Less Perseverance = No Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan, immunization program vaccines are free
+- Cost: $0, immunization program vaccines are free
 - Say it in plain language: Get the first dose of hepatitis B vaccine within 24 hours of birth.About 95% of people infected with hepatitis B in infancy and early childhood will develop chronic hepatitis. Most people infected with hepatitis B in adulthood will recover on their own, so the earlier this shot is taken, the more effective it will be.If the mother is positive for hepatitis B surface antigen, the child must also receive hepatitis B immune globulin.
 - Benefit: World Health Organization: "All babies should receive hepatitis B vaccine as soon as possible after birth (within 24 hours)." The reason is that "about 95% of infections in infancy and early childhood will develop into chronic hepatitis", and most infections in adults can heal themselves
 - Evidence level: A
@@ -24,7 +24,7 @@ Caliber: Infant Mortality and Money.This section only collects a few things with
 
 ### 3. Get all the vaccines that should be given according to the national immunization plan. The whole process is free. If you miss it, you will only have to make up for the unfinished doses.
 <!-- Cost tag: Money=0 Time=Medium Perseverance=No Benefit=Large Caliber=Mortality -->
-- Cost: 0 yuan. The law states that "the vaccination unit shall not charge any fee for vaccination of the immunization plan vaccine"; you must go to vaccination clinics several times according to your age, and don't lose your vaccination certificate.
+- Cost: $0. The law states that "the vaccination unit shall not charge any fee for vaccination of the immunization plan vaccine"; you must go to vaccination clinics several times according to your age, and don't lose your vaccination certificate.
 - Say it in plain language: The vaccines of the National Immunization Program are all free of charge, and vaccination units cannot charge any fees. Vaccination certificates must be checked when enrolling in day care and school. If you miss a vaccination, you will definitely have it taken out and re-vaccinated.If you miss the missed doses, you only need to make up for the unfinished doses. You don’t need to take the vaccine all over again. You can continue to take the same vaccine if you change the manufacturer.Eczema, urticaria, allergic rhinitis, stable asthma and neonatal jaundice are not reasons for not being vaccinated.
 - Benefit: Child care institutions and schools should check vaccination certificates when children enter day care or school. If they find that they have not received the immunization schedule vaccines as required, they must report to the vaccination unit and cooperate with supervising the guardian to re-vacculate. Missing vaccinations is not "discussed later", but will definitely be revealed when entering school.The current procedure is the 2026 version: Human papillomavirus (HPV) vaccine has been included in the national immunization plan; the starting age of diphtheria-tetanus-pertussis pertussis vaccine is adjusted from 3 months to 2 months, with a total of 5 doses, one dose each at 2 months, 4 months, 6 months, 18 months and 6 years old; school-age children in Tibet, Qinghai, Xinjiang and Xinjiang Production and Construction Corps 3 in 2026Japanese encephalitis vaccine is also routinely administered starting from March.Simultaneous vaccination is allowed: At this stage, all vaccines in the national immunization program can be vaccinated at the same time according to the immunization schedule or the catch-up principle. Two or more injectable vaccines should be administered at different sites. "It is strictly prohibited to mix two or more vaccines into the same syringe for vaccination." If they are not vaccinated at the same time, the interval between two or more injectable live attenuated vaccines shall not be less than 28 days. There is no restriction on the interval between inactivated vaccines and oral live attenuated vaccines and other vaccines.Principle of catch-up vaccination (under 18 years old): catch up as soon as possible, "only the unfinished doses need to be catch-up, there is no need to restart the whole vaccination course", the same vaccine can be continued if the manufacturer is changed (national, 2026 version of the procedure)
 - Evidence level: A
@@ -33,7 +33,7 @@ Caliber: Infant Mortality and Money.This section only collects a few things with
 
 ### 4. Feed only breast milk for the first 6 months, not even water. From 6 months onwards, add complementary foods and continue breastfeeding.
 <!-- Cost tag: money=0 time=many perseverance=yes income=medium caliber=mortality -->
-- Cost: 0 yuan, which also saves money on milk powder; breastfeeding takes up time
+- Cost: $0, which also saves money on milk powder; breastfeeding takes up time
 - Say it in plain language: Start breastfeeding within the first hour after birth. Feed only breast milk and no water for the first 6 months. Add complementary food from 6 months old and continue feeding until 2 years old or above. The complementary food should include iron-rich animal food every day.If breast milk is not enough or cannot be fed, use formula milk. The difference in this item is much smaller than that of safe sleep.
 - Benefit: The World Health Organization recommends "initiating breastfeeding within the first hour after birth", "exclusive breastfeeding for the first 6 months, that is, providing no other food or liquids, including water", "starting to introduce safe and adequate complementary foods from the age of 6 months, while continuing to breastfeed until 2 years of age or above."The National Health Commission's service guidelines also advocate exclusive breastfeeding from 0 to 6 months of age, and require that "daily complementary foods must include iron-rich animal foods" from 6 months of age onwards.
 - Evidence level: A
@@ -42,7 +42,7 @@ Caliber: Infant Mortality and Money.This section only collects a few things with
 
 ### 5. Use water above 70℃ to prepare milk powder. Let it cool before feeding. Throw away the leftovers.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=mortality rate -->
-- Cost: 0 yuan; wait a few more minutes to cool
+- Cost: $0; wait a few more minutes to cool
 - Say it in plain language: Milk powder is not sterile and may contain Cronobacter sakazakii. The mortality rate of neonatal infection is reported to be between 40% and 80%.Pour hot water into the bottle first and wait until the water temperature drops to about 73.8°C before adding milk powder. If the milk temperature is still above 70°C, this bacteria can be reduced to less than one hundred thousandth of its original size.Wash and let cool before feeding, and throw away the leftovers; premature infants, low-birth-weight infants and children under 2 months are at the highest risk.
 - Benefit: Powdered milk is not sterile and may carry Cronobacter sakazakii. The mortality rate after neonatal infection is reported to be 40% to 80%.Experimental research shows that by first pouring hot water into the bottle, waiting for the water temperature to drop to about 73.8°C, and then adding milk powder, the milk temperature will still be above 70°C in most cases, which can reduce the bacteria by more than 5 logs.
 - Evidence level: A
@@ -52,7 +52,7 @@ tion. Journal of Food Protection, 88(9), 100571. <https://doi.org/10.1016/j.jfp.
 
 ### 6. Do not feed honey to children under 1 year old
 <!-- Cost tag: Money=0 Time=Low Perseverance=No Benefit=Medium Caliber=Mortality -->
-- Cost: 0 yuan
+- Cost: $0
 - Say it in plain language: Do not feed honey to children under 1 year old, including honey water, honey mixed into complementary foods and cakes containing honey.Honey may contain bacteria that cause botulism. Adults' intestinal flora can suppress it, but babies cannot.The same goes for home-made pickles and fermented foods.
 - Benefit: U.S. Centers for Disease Control and Prevention: "Do not feed honey to children under 1 year old" because "honey may contain bacteria that cause botulism."The intestinal flora of adults can suppress the spores, but not in infants.
 - Evidence level: A
@@ -61,7 +61,7 @@ tion. Journal of Food Protection, 88(9), 100571. <https://doi.org/10.1016/j.jfp.
 
 ### 7. Vitamin K injection at birth is a must
 <!-- Cost tag: Money = 0 Time = Less Perseverance = No Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan to dozens of yuan, usually included in hospital delivery
+- Cost: $0–15, usually included in hospital delivery
 - Say it in plain language: Vitamin K in newborns is already very low. Without supplementation, they may bleed. Late-onset babies often present with intracranial hemorrhage.In places where this injection is not widely available, the incidence of this kind of bleeding is 478 cases per 100,000 births. It is estimated that the injection can reduce it by more than 78%.Domestic regular hospitals will give routine injections during childbirth, but those who give birth at home or in informal institutions must take the initiative to confirm; oral administration is not as effective as injections.
 - Benefit: Vitamin K reserves in newborns are very low. Without supplementation, vitamin K deficiency bleeding may occur. Late-onset bleeding often manifests as intracranial hemorrhage.The consensus recommendation in Belgium is "1 or 2 mg of vitamin K once intramuscularly at birth"; in areas where prevention is not systematically provided (42,000 births in Tashkent), the incidence of vitamin K deficiency bleeding is 478 cases per 100,000 people, and the authors estimate that prevention can reduce the incidence to "more than 78.5%"
 - Evidence level: B
@@ -70,7 +70,7 @@ tion. Journal of Food Protection, 88(9), 100571. <https://doi.org/10.1016/j.jfp.
 
 ### 8. If the temperature of a baby under 3 months old reaches 38 ℃, go directly to the hospital without observation at home.
 <!-- Cost tags: Money=less, time=less, perseverance=no, benefit=big, caliber=mortality rate -->
-- Cost: Several hundred yuan for registration and inspection
+- Cost: $30–150 for registration and inspection
 - Say it in plain language: If a child under 3 months old has a temperature of 38°C, go directly to the hospital without observation at home. Do not give antipyretics first and then wait and see.Even if a child of this age has a serious bacterial infection, it may only show fever. "Looking in good spirits" cannot be used as a reason to wait at home; those who are less than 8 days old are not even subject to the special guidelines, and they must seek medical attention immediately.
 - Benefit: The American Academy of Pediatrics has formulated special guidelines for full-term infants aged 8 to 60 days who appear to be in acceptable condition. Fever is defined as "body temperature ≥38.0 ℃" and treatment paths are given in three levels: 8 to 21 days old, 22 to 28 days old, and 29 to 60 days old. Infants under 8 days old are not even within the scope of this guideline, which means that they need to seek medical attention immediately.
 - Evidence level: A
@@ -79,7 +79,7 @@ tion. Journal of Food Protection, 88(9), 100571. <https://doi.org/10.1016/j.jfp.
 
 ### 9. No matter how tired or angry you are, never shake your baby.
 <!-- Cost tag: Money = 0 Time = Less Perseverance = Yes Benefit = Large Caliber = Mortality -->
-- Cost: 0 yuan
+- Cost: $0
 - Say it in plain language: Babies have large heads and weak neck muscles. Violent shaking can cause intracranial hemorrhage and retinal hemorrhage, which may lead to death or lifelong disability.The gentle rocking when lulling you to sleep doesn't count. What's dangerous is the out-of-control rocking.When it is almost unbearable, it is much safer to put the child back in the crib and walk away for a few minutes to let him cry for a while than to hold him and rock him.
 - Benefit: Babies have large heads and weak neck muscles. Violent shaking can cause intracranial hemorrhage and retinal hemorrhage, which can lead to death or lifelong disability.Gentle rocking when lulling you to sleep is different. What is dangerous is uncontrollable violent shaking.
 - Evidence level: C
@@ -88,7 +88,7 @@ tion. Journal of Food Protection, 88(9), 100571. <https://doi.org/10.1016/j.jfp.
 
 ### 10. Don’t look at the brand of diapers to look at three things: whether they fit well, whether they are changed frequently, and whether they have been notified of random inspections.
 <!-- Cost tags: Money=little, time=little, perseverance=no, income=medium, caliber=money -->
-- Cost: ranging from two to three hundred to several thousand yuan per month
+- Cost: ranging from $30–1,500 per month
 - Say it in plain language: There is no official organization that has ranked "which brand is the best". The only things that can be checked are product quality inspection reports from the State Administration for Market Regulation and investigations of specific incidents by regulatory authorities.Expensive does not mean safe, and imported does not mean qualified.First buy a small package and try it for a week to see if there are any red buttocks or strangulation marks, and then stock up if it suits you; red buttocks mainly come from infrequent changes and lack of ventilation, and it is not as much related to the brand as you might imagine.
 - Benefit: No official organization has published a ranking of "which brand is the best", so this book does not recommend brands.There are only two types of information that can be verified: one is the product quality inspection report of the State Administration for Market Regulation, and the other is the investigation of specific incidents by the regulatory authorities.After the "formamide issue in infant diapers" attracted attention in June 2026, the State Administration for Market Regulation took the lead in setting up a joint investigation team to verify
 - Evidence level: C

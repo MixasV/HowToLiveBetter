@@ -6,7 +6,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 1. Quit smoking, the sooner the better
 <!-- cost_tag: money=0 time=low willpower=yes benefit=large dimension=mortality -->
-- Cost: Willpower during cessation period (weeks to months); money is actually saved — one pack a day costs about 20–30 yuan, quitting saves this.
+- Cost: Willpower during cessation period (weeks to months); money is actually saved — one pack a day costs about $3–$4.5, quitting saves this.
 - Say it in plain language: Smokers live on average more than ten years less than non-smokers; quitting before age 40 can eliminate about 90% of the death risk from continuing to smoke; the earlier you quit, the more years you recover.
 - Benefit: US cohort (observational): current smokers have life expectancy more than 10 years shorter than never-smokers; quitting before 40 can eliminate about 90% of the death risk from continuing to smoke; quitting at ages 25–34, 35–44, and 45–54 gains about 10, 9, and 6 years respectively (reported as life-years in original). Chinese cohort (observational): 2010s urban male smokers overall mortality RR 1.65, rural males RR 1.22; after 10 years of active quitting, attributable risk approaches zero.
 - Evidence level: A
@@ -15,7 +15,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 2. Don't smoke at home or in the car, and don't let guests smoke indoors
 <!-- cost_tag: money=0 time=low willpower=some benefit=large dimension=mortality -->
-- Cost: 0 yuan; the hard part is talking to family and guests about it
+- Cost: $0; the hard part is talking to family and guests about it
 - Say it in plain language: Globally about 600,000 people die each year from breathing other people's smoke, nearly 30% of them children; long-term secondhand smoke exposure raises risks of high blood pressure, heart disease, and stroke by about 30%, and smoke inhaled at home is more harmful than outside.
 - Benefit: In 2004, 603,000 people worldwide died from secondhand smoke, about 1.0% of global deaths; 28% were children; in a meta-analysis of 57 studies, secondhand smoke exposure was associated with hypertension OR 1.28, heart disease 1.39, myocardial infarction 1.50, stroke 1.36, and home exposure carried higher risk than non-home exposure.
 - Evidence level: A
@@ -33,7 +33,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 4. Don't chew betel nut
 <!-- cost_tag: money=0 time=low willpower=some benefit=large dimension=mortality -->
-- Cost: 0 yuan, and you save money not buying betel nut
+- Cost: $0, and you save money not buying betel nut
 - Say it in plain language: People who chew betel nut have about 20% higher death probability over the same period compared to those who don't; diabetes and metabolic syndrome risks are nearly 50% higher; oral and esophageal cancers are counted separately.
 - Benefit: Meta-analysis of 17 Asian studies, 388,000 people: betel nut chewers relative to non-chewers had overall mortality relative risk 1.21 (P=0.02, 179,600 people), diabetes 1.47, metabolic syndrome 1.51; betel nut itself is a known risk factor for oral and esophageal cancer.
 - Evidence level: A
@@ -42,7 +42,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 5. Switch your household salt to low-sodium salt (potassium salt)
 <!-- cost_tag: money=low time=low willpower=no benefit=medium dimension=mortality -->
-- Cost: A few yuan more per bag than regular salt; taste is almost identical, no willpower needed.
+- Cost: under a dollar more per bag than regular salt; taste is almost identical, no willpower needed.
 - Say it in plain language: In a randomized trial of 20,000 people, those who switched to low-sodium salt had about 12% lower death probability over five years and about 14% lower stroke risk. This result from randomized grouping is more trustworthy than typical observational data.
 - Benefit: Randomized trial (rural China, 20,995 people with stroke history or hypertension ≥60 years old, 4.74-year follow-up): low-sodium salt group vs regular salt group, overall mortality RR 0.88, stroke RR 0.86, major cardiovascular events RR 0.87; hyperkalemia events showed no significant difference between groups.
 - Evidence level: A
@@ -51,7 +51,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 6. Brush teeth carefully, clean between teeth once a day, replace missing teeth promptly
 <!-- cost_tag: money=low time=low willpower=some benefit=medium dimension=mortality -->
-- Cost: Floss or interdental brushes cost a few dozen yuan per year, adding two to three minutes per day; professional cleaning costs one to two hundred yuan each time.
+- Cost: Floss or interdental brushes cost $5–15 per year, adding two to three minutes per day; professional cleaning costs $15–30 each time.
 - Say it in plain language: People who use dental floss or interdental brushes daily have about 10% lower death probability over the same period; elderly people who have lost all their teeth have about 90% higher death probability; those with fewer than 20 teeth remaining have about double.
 - Benefit: Japanese 9,676-person 6-year cohort: users of interdental cleaning tools had overall mortality hazard ratio 0.89, tongue cleaner users 0.77; meta-analysis of community elderly: fully edentulous mortality OR 1.87 (95% CI 1.35–2.59), fewer than 20 teeth 2.04 (1.67–2.49).
 - Evidence level: B
@@ -69,7 +69,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 8. If you have high blood pressure or high cholesterol, take medication as prescribed, don't stop on your own
 <!-- cost_tag: money=low time=low willpower=some benefit=large dimension=mortality -->
-- Cost: Generic blood pressure and cholesterol drugs cost a few to several dozen yuan per month; one daily habit.
+- Cost: Generic blood pressure and cholesterol drugs cost $1–15 per month; one daily habit.
 - Say it in plain language: Each 10 mmHg reduction in blood pressure lowers death probability by about 13% and stroke by about 27%; statins lowering LDL cholesterol by one unit reduce death probability by about 10%. People who take medication on time have 30%–45% lower death probability than those who frequently miss doses.
 - Benefit: Meta-analysis of randomized trials: each 10 mmHg reduction in systolic blood pressure, overall mortality RR 0.87, major cardiovascular events RR 0.80, stroke RR 0.73, heart failure RR 0.72; statins lowering LDL by 1.0 mmol/L, overall mortality RR 0.90, major vascular events RR 0.78. Adherence meta-analysis (observational): statin and antihypertensive adherence ≥80% vs poor adherence, overall mortality RR 0.55 and 0.71 respectively.
 - Evidence level: A
@@ -96,7 +96,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 11. Play racket sports three times a week, 45 minutes each time
 <!-- cost_tag: money=low time=medium willpower=some benefit=large dimension=mortality -->
-- Cost: Court fees of a few dozen yuan per session; about 2 hours per week.
+- Cost: Court fees of $5–15 per session; about 2 hours per week.
 - Say it in plain language: People who regularly play tennis, badminton, or table tennis have about 50% lower death probability over the same period compared to non-players, and about 56% lower cardiovascular death; swimming is about 28% lower; running and soccer showed no difference in this data.
 - Benefit: UK 80,306-person cohort: compared to non-participants, racket sports (tennis, badminton, table tennis) overall mortality hazard ratio 0.53 (95% CI 0.40–0.69), cardiovascular death 0.44 (0.24–0.83); swimming 0.72 and 0.59; aerobic dance 0.73 and 0.64; cycling 0.85; running and soccer showed no significant association.
 - Evidence level: A
@@ -105,7 +105,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 12. Accumulate 4–5 minutes daily of vigorous intermittent activities like climbing stairs or walking fast
 <!-- cost_tag: money=0 time=low willpower=some benefit=large dimension=mortality -->
-- Cost: 0 yuan; no extra workout time needed.
+- Cost: $0; no extra workout time needed.
 - Say it in plain language: People who normally never exercise can reduce their death probability by about 40% and cardiovascular death by nearly half just by having three one-to-two-minute bursts of vigorous activity (climbing stairs, walking fast) each day, compared to those with none at all.
 - Benefit: UK Biobank 25,200 non-exercisers, average 6.9-year follow-up, 852 deaths: three daily episodes of 1–2 minutes of vigorous intermittent activity reduced overall mortality and cancer mortality by 38%–40% and cardiovascular mortality by 48%–49% compared to none; accumulating 4.4 minutes daily reduced overall and cancer mortality by 26%–30%, cardiovascular mortality by 32%–34%.
 - Evidence level: A
@@ -150,7 +150,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 17. Eat a small handful of nuts daily
 <!-- cost_tag: money=low time=low willpower=no benefit=large dimension=mortality -->
-- Cost: 28 grams daily, about 200–300 yuan per year.
+- Cost: 28 grams daily, about $30–$45 per year.
 - Say it in plain language: People who regularly eat nuts have about 20% lower death probability over the same period compared to non-eaters; eating them even once a week shows a difference (about 10% lower), with the most benefit at daily consumption.
 - Benefit: Two US cohorts, 119,000 people, over 3 million person-years: compared to never eating nuts, less than once per week overall mortality hazard ratio 0.93 (95% CI 0.90–0.96), once per week 0.89 (0.86–0.93), 2–4 times per week 0.87 (0.83–0.90), 5–6 times per week 0.85 (0.79–0.91), 7+ times per week 0.80 (0.73–0.86).
 - Evidence level: A
@@ -159,7 +159,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 18. Replace some red meat with fish and poultry
 <!-- cost_tag: money=0 time=low willpower=some benefit=small dimension=mortality -->
-- Cost: 0 yuan; this is substitution, not addition.
+- Cost: $0; this is substitution, not addition.
 - Say it in plain language: Eating two additional weekly servings of processed meat or red meat raises death probability by about 3%; replacing with the same amount of fish or poultry shows no increase. This entry has one of the smaller effects in this section — worth doing if convenient, but not worth fussing over.
 - Benefit: Pooled analysis of 6 US cohorts, nearly 30,000 people: each additional 2 weekly servings of processed meat, overall mortality hazard ratio 1.03 (95% CI 1.02–1.05); unprocessed red meat 1.03 (1.01–1.05); same amount of poultry 0.99 (0.97–1.02), fish 0.99 (0.97–1.01), all statistically non-significant.
 - Evidence level: A
@@ -177,7 +177,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 20. Drink tea three or more times per week
 <!-- cost_tag: money=low time=low willpower=no benefit=medium dimension=mortality -->
-- Cost: A few dozen to a few hundred yuan per year.
+- Cost: $5–150 per year.
 - Say it in plain language: People with a tea-drinking habit have about 15% lower death probability over the same period; starting from age 50, this averages 1.26 additional years of life and 1.41 additional years free of cardiovascular disease.
 - Benefit: Chinese 100,900-person cohort, 7.3-year median follow-up (China-PAR): habitual tea drinkers overall mortality hazard ratio 0.85 (95% CI 0.79–0.90); starting from age 50, habitual tea drinkers had 1.41 more years free of atherosclerotic cardiovascular disease and 1.26 more years of life expectancy.
 - Evidence level: A
@@ -186,7 +186,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 21. Drink three to four cups of coffee daily, without sugar or cream
 <!-- cost_tag: money=low time=low willpower=no benefit=large dimension=mortality -->
-- Cost: One to two yuan daily if brewing yourself.
+- Cost: $0.15–0.30 daily if brewing yourself.
 - Say it in plain language: People who drink three to four cups of coffee daily have about 17% lower death probability over the same period compared to non-drinkers.
 - Benefit: Umbrella review covering meta-analyses of 201 observational studies: 3–4 cups/day vs none, overall mortality relative risk 0.83 (95% CI 0.79–0.88), i.e., 17% lower.
 - Evidence level: A
@@ -195,7 +195,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 22. Eat at least 5 servings (about 400g) of fruits and vegetables daily
 <!-- cost_tag: money=low time=medium willpower=some benefit=medium dimension=mortality -->
-- Cost: A few to over ten yuan daily; time for washing and cutting.
+- Cost: $1–2 daily; time for washing and cutting.
 - Say it in plain language: Each additional 200g of fruits and vegetables daily lowers death probability by about 10%; eating 5 servings daily is about 13% lower than eating only 2, with no further decline beyond that.
 - Benefit: Meta-analysis (observational): each additional 200g/day, overall mortality RR 0.90, benefits continuing up to 800g/day; two large US cohorts plus 26-cohort meta-analysis: 5 servings/day vs 2, overall mortality HR 0.87; 2 servings fruit + 3 servings vegetables was optimal, no further decline beyond that.
 - Evidence level: A
@@ -213,7 +213,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 24. Don't drink sweetened beverages, including diet versions
 <!-- cost_tag: money=0 time=low willpower=some benefit=medium dimension=mortality -->
-- Cost: 0 yuan, and saves money.
+- Cost: $0, and saves money.
 - Say it in plain language: People who drink more than two cups of soft drinks daily have about 17% higher death probability over the same period compared to those drinking less than one cup monthly; diet versions are about 26% higher — even higher than sugary ones. This is mostly because people who already have health conditions switch to diet drinks, so don't conclude that artificial sweeteners are more toxic, but also don't treat them as a safe substitute.
 - Benefit: European 10-country, 450,000-person cohort: more than two cups of soft drinks daily vs less than one cup monthly, overall mortality hazard ratio 1.17 (95% CI 1.11–1.22); sugary drinks 1.08 (1.01–1.16), artificially sweetened drinks 1.26 (1.16–1.35).
 - Evidence level: A
@@ -222,7 +222,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 25. Don't burn coal or wood for cooking and heating; switch to electricity or gas
 <!-- cost_tag: money=high time=low willpower=no benefit=large dimension=mortality -->
-- Cost: Rural households switching stoves and fuel cost several hundred to over a thousand yuan per year; urban residents have largely already made this switch.
+- Cost: Rural households switching stoves and fuel cost $30–200 per year; urban residents have largely already made this switch.
 - Say it in plain language: People who cook with coal or wood have about 10% higher death probability over the same period; heating with solid fuel raises it by about 14%; those who have already switched to electricity or gas have 13%–33% lower death probability than those still using solid fuel.
 - Benefit: China Kadoorie prospective cohort (observational, 271,000 adults without cardiovascular disease): cooking with solid vs clean fuel, overall mortality HR 1.11; heating with solid fuel HR 1.14; those who switched from solid to clean fuel vs continued solid fuel use, cooking HR 0.87, heating HR 0.67. Outdoor PM2.5: 104-cohort meta-analysis, long-term exposure per 10 µg/m³ increase, natural-cause mortality RR 1.08.
 - Evidence level: A
@@ -231,7 +231,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 26. Let hot drinks cool before drinking; don't drink scalding tea, soup, or coffee
 <!-- cost_tag: money=0 time=low willpower=some benefit=large dimension=mortality -->
-- Cost: 0 yuan; wait two to three more minutes.
+- Cost: $0; wait two to three more minutes.
 - Say it in plain language: Drinking very hot tea raises esophageal cancer probability to 8 times that of drinking warm tea; even "hot" doubles it. Drinking within two minutes of pouring raises risk to 5 times that of waiting four minutes or more. Letting it sit for two minutes cuts most of this risk.
 - Benefit: Iranian esophageal cancer high-incidence area, 300 cases, 571 controls: compared to drinking warm tea, drinking "hot" tea esophageal squamous cell carcinoma OR 2.07 (95% CI 1.28–3.35), "very hot" OR 8.16 (3.93–16.9); drinking within 2 minutes of pouring vs waiting 4+ minutes OR 5.41 (2.63–11.1).
 - Evidence level: A
@@ -240,7 +240,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 27. Go outside in sunlight during the day; don't stay indoors all the time
 <!-- cost_tag: money=0 time=low willpower=no benefit=medium dimension=mortality -->
-- Cost: 0 yuan; a few minutes daily, commuting and lunch breaks are enough.
+- Cost: $0; a few minutes daily, commuting and lunch breaks are enough.
 - Say it in plain language: Women who deliberately avoid sun exposure have 0.6–2.1 years shorter life expectancy compared to the most sun-exposed; the original authors' statement was that non-smokers who avoid sun have similar life expectancy to smokers in the highest sun-exposure group.
 - Benefit: Swedish 29,500-woman, 20-year follow-up cohort: compared to the most sun-exposed group, sun-avoiders had 0.6 to 2.1 years shorter life expectancy; the authors wrote "non-smokers who avoid sun exposure had life expectancy similar to smokers in the highest sun exposure group."
 - Evidence level: B
@@ -258,7 +258,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 29. Eat chili peppers four or more times per week
 <!-- cost_tag: money=0 time=low willpower=no benefit=large dimension=mortality -->
-- Cost: 0 yuan.
+- Cost: $0.
 - Say it in plain language: People who eat chili peppers four or more times per week have about 23% lower death probability over the same period compared to those who rarely eat them, and about one-third lower cardiovascular death.
 - Benefit: Italian 22,800-person cohort, 8.2-year median follow-up, 1,236 deaths: eating chili peppers 4+ times per week vs rarely, overall mortality hazard ratio 0.77 (95% CI 0.66–0.90), cardiovascular death 0.66 (0.50–0.86).
 - Evidence level: B
@@ -267,7 +267,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 30. Drink one to two servings of milk or yogurt daily
 <!-- cost_tag: money=low time=low willpower=no benefit=large dimension=mortality -->
-- Cost: A few yuan daily.
+- Cost: under a dollar daily.
 - Say it in plain language: People who drink more than two servings of milk or yogurt daily have about 17% lower death probability over the same period compared to non-drinkers.
 - Benefit: PURE cohort from 21 countries, 136,000 people, 9.1-year average follow-up, 6,796 deaths: more than two servings of dairy daily vs none, overall mortality hazard ratio 0.83 (95% CI 0.72–0.96, trend P=0.0052).
 - Evidence level: B
@@ -276,7 +276,7 @@ This section only includes chronic risk factors with large effects on overall mo
 
 ### 31. Don't give up eggs, but don't eat three or four daily
 <!-- cost_tag: money=0 time=low willpower=no benefit=small dimension=mortality -->
-- Cost: 0 yuan.
+- Cost: $0.
 - Say it in plain language: Eating half an additional whole egg daily raises death probability by about 7% over the same period; replacing that half with egg whites, fish, poultry, or nuts actually lowers all death risks. No need to give up eggs — just don't eat three or four per day.
 - Benefit: US 521,000-person cohort, 129,000 deaths: each additional half whole egg daily, overall mortality hazard ratio 1.07 (95% CI 1.06–1.08); replacing half a whole egg with equivalent egg whites, poultry, fish, dairy, or nuts/legumes lowered overall mortality, cardiovascular, cancer, and respiratory mortality.
 - Evidence level: B

@@ -105,7 +105,7 @@ This section only accounts for energy and time: daily available attention, react
 
 ### 12. Use earplugs or find a quiet room for memory-intensive work in open-plan offices
 <!-- cost_tag: money=low time=low willpower=no benefit=small dimension=time -->
-- Cost: Earplugs cost a few dozen yuan; booking a meeting room takes a little time.
+- Cost: Earplugs cost $5–15; booking a meeting room takes a little time.
 - Say it in plain language: When background noise rises from 39 to 51 decibels, you remember fewer words, feel more tired, and become less motivated. Watching nature videos with sound during breaks restores energy better than continuing to listen to office noise.
 - Benefit: Students working in simulated open-plan offices showed fewer words remembered, higher self-reported fatigue, and lower motivation when background noise rose from 39 to 51 dB (LAeq); watching nature videos with sound during breaks restored energy ratings better than listening to river sounds or office noise.
 - Evidence level: B
@@ -132,7 +132,7 @@ This section only accounts for energy and time: daily available attention, react
 
 ### 15. Treat thoughts like "things will definitely get worse" as symptoms, not facts
 <!-- cost_tag: money=0 time=low willpower=some benefit=medium dimension=mortality -->
-- Cost: 0 yuan.
+- Cost: $0.
 - Say it in plain language: In a 20-year twin study, each standard deviation increase in pessimism was associated with about 13% higher death probability over the same period and 20% higher cardiovascular death. Conversely, high optimism scores provided no corresponding benefit. The target is pessimism itself, not "insufficient positivity."
 - Benefit: Australian 2,978 twin study, age 50+, average 20-year follow-up, 1,068 deaths: each standard deviation higher on pessimism scale, overall mortality hazard ratio 1.134 (95% CI 1.065–1.207, P=8.85×10⁻⁵), cardiovascular death 1.196 (1.045–1.368, P=0.0093), no association with cancer death; optimism scores showed no significant association with mortality.
 - Evidence level: B

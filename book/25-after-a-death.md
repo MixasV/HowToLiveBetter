@@ -8,7 +8,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 1. If a person disappears at home or outside, first distinguish between a normal death and an abnormal death: if it is an accident, the cause of death is unknown, or the person is found alone while living alone, call the police immediately, and do not touch the body or the scene.
 <!-- Cost tag: Money=0 Time=less Perseverance=No Income=medium Caliber=Free -->
-- Cost: 0 yuan, make a phone call
+- Cost: $0, make a phone call
 - Say it in plain language: If the death certificate is accidental, the cause of death is unknown, or the death certificate is discovered after living alone for a long time, only the police can issue the death certificate; if the scene has been tampered with, it will be neither clear nor easy to issue.If I can't get this piece of paper, the cremation, account cancellation, and insurance claim settlement will all be stuck.If you can't tell what the situation is, call 110 first. The police will still be able to produce evidence after arriving at the scene to investigate.
 - Benefit: Paragraph 2 of Article 8 of the Household Registration Regulations: "If a citizen dies due to an accident or the cause of death is unknown, the head of the household or the person who discovers the death shall immediately report to the local police station or the township or town people's committee"; Article 23 of the Funeral Management Regulations: "If a natural person dies normally, the medical and health institutions shall issue a death certificate in a timely manner. For the deceased who is involved in abnormal death cases (incidents) handled by the public security organs in accordance with the law and without treatment by medical and health institutions, the public security organs shall issue a death certificate."Only the police can issue a death certificate for an abnormal death. If it is done at the scene, it is neither clear nor easy to open. Cremation, account cancellation, and insurance claims are all stuck on this piece of paper.
 - Evidence level: A
@@ -17,7 +17,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 2. The death certificate is the key to everything that follows: whoever treats the patient will issue it. For normal deaths at home, contact the community health service agency and issue it within one day.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=time -->
-- Cost: 0 yuan
+- Cost: $0
 - Say it in plain language: If someone dies in a medical institution, the certificate will be issued by the institution responsible for treatment. If someone dies normally at home or elsewhere, the certificate will be issued by the community health service agency or township health center in the jurisdiction. The certificate will be issued within one day when the cause of death is clear. Paper and electronic certificates have the same validity.You need to use it for everything including account cancellation, cremation, collecting provident fund, collecting social security benefits, settling claims, and handling inheritance. Make a few copies before you get it; if it is lost, it can only be reissued once, and if the information is wrong, it can only be reissued once.
 - Benefit: "Population and Death Information Registration and Management Standards (Trial)": If the person dies in a medical and health institution, it will be "issued by the medical and health institution responsible for treatment"; if the person dies normally at home or in other places, "it will be issued by the community health service agency or township (street) health center in the jurisdiction"; if the public security and judicial agency determines that the death is abnormal, the public security and judicial department will handle it in accordance with current regulations and procedures.In 2026, the five departments announced: "The paper version of the Death Certificate has the same legal effect as the electronic certificate." For normal deaths with a clear cause of death, it should be issued within one day after the death; if it is lost, you can apply for a reissue from the original issuing agency. If the basic information is incorrect, you can apply for a reissue with the materials.
 - Evidence level: A
@@ -26,7 +26,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 3. Remains can only be picked up, stored, and cremated by funeral parlors. Hospital morgues do not handle funerals, and storage is generally no longer than 3 days.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=money -->
-- Cost: 0 yuan
+- Cost: $0
 - Say it in plain language: The transportation, storage, embalming, plastic surgery, and cremation can only be done by the funeral parlor. Hospital morgues are not allowed to be outsourced and funerals are not allowed. Temporary parking is provided at most; the storage at the funeral parlor generally does not exceed 3 days, and extension procedures must be completed.Cremation requires a death certificate and cremation confirmation. The cremation certificate will be used later for inheritance, claim settlement, and relocation of ashes.Most of the "one-stop service" who came together at the hospital were not people from the funeral home.
 - Benefit: Article 25 of the Funeral Management Regulations "The transportation, storage, embalming, plastic surgery, and cremation services of the remains are exclusively provided by the funeral home." Article 24 "The morgues of medical and health institutions are not allowed to be outsourced, and they are not allowed to carry out funeral services. They can provide convenient services for the temporary parking of the remains." Article 27 "The storage of remains by funeral homes generally does not exceed 3day, if the storage needs to be extended, the bereaved family or the party transferring the remains shall go through the extension storage procedures at the funeral home." Article 28 "The funeral home shall cremate the remains based on the death certificate and cremation confirmation, and issue a cremation certificate." Article 29 "In areas where cremation is practiced, the remains shall be cremated on the spot and at the nearest funeral home."
 - Evidence level: A
@@ -35,7 +35,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 4. If there is any objection to the cause of death, submit an autopsy within 48 hours and seal the medical records at the same time
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=money -->
-- Cost: 0 yuan; the hard part is to remember to mention it at that time
+- Cost: $0; the hard part is to remember to mention it at that time
 - Say it in plain language: If there is any objection to the cause of death, an autopsy must be submitted within 48 hours after death. If there are conditions for cryopreservation, it can be postponed to 7 days, and the close relatives must sign and agree; if they disagree or delay the time, affecting the determination of the cause of death, the responsibility shall be borne by the party who delayed.Once the body is cremated, there is no possibility of an autopsy, so this matter should be settled before contacting the funeral home.
 - Benefit: Article 26 of the Regulations on the Prevention and Handling of Medical Disputes: "When a patient dies and the doctor and patient disagree on the cause of death, an autopsy shall be conducted within 48 hours after the patient's death; if the conditions for freezing the body are met, the period can be extended to 7"The autopsy must be approved and signed by the close relatives of the deceased. If they refuse to sign, the close relatives of the deceased will be deemed to have disagreed with the autopsy." "If the autopsy is not agreed or delayed beyond the prescribed time, affecting the determination of the cause of death, the party who disagrees or delays shall bear the responsibility." Article 24: Sealing and unsealing medical records "should be carried out in the presence of both doctors and patients."
 - Evidence level: A
@@ -44,7 +44,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 5. There is a legal time limit for canceling household registration: before burial in cities and within one month in rural areas
 <!-- Cost tag: Money=0 Time=little Perseverance=No Benefit=small Caliber=time -->
-- Cost: 0 yuan; bring the death certificate and household registration book to the police station
+- Cost: $0; bring the death certificate and household registration book to the police station
 - Say it in plain language: Before burial in cities and within one month in rural areas, you need to take the death certificate and household registration book to the police station to cancel your household registration.If you put it off, your household registration status will be stuck if you inherit and transfer ownership, receive benefits, or surrender your insurance. If you continue to pay your pension, it will be a false claim, and you will have to return it sooner or later.
 - Benefit: Paragraph 1 of Article 8 of the Household Registration Regulations: "When a citizen dies, before the burial in cities or within one month in rural areas, the head of the household, relatives, dependents or neighbors shall report the death to the household registration authority and cancel the household registration. If a citizen dies in the place of temporary residence, the household registration authority in the place of temporary residence shall notify the household registration authority in the place of permanent residence to cancel the household registration."
 - Evidence level: A
@@ -54,7 +54,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 6. Funeral services are divided into basic items and non-basic items. Basic items have a list and fees are formulated in accordance with the law.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=money -->
-- Cost: 0 yuan, take a few minutes to review the list before departure
+- Cost: $0, take a few minutes to review the list before departure
 - Say it in plain language: Remains transportation, storage, farewell, cremation, ashes storage, ecological burial, and ashes burial provided by public institutions are all included in the national basic project list, and fees are set in accordance with the law. No additional charges are allowed outside the list.Before setting off, ask first which items count as basic items and what the local standards are, and then talk about the rest.
 - Benefit: Body transportation, body storage, body farewell, body cremation, ashes storage, ecological burial, and ashes burial provided by government-organized funeral service agencies are all in the national basic project list, and the charging standards are formulated in accordance with the law; the non-basic project list is determined by the civil affairs department at or above the districted municipal level.
 - Evidence level: A
@@ -63,7 +63,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 7. If you encounter forced tying, price addition, or breaking one item into several charges, write it down and complain.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=money -->
-- Cost: 0 yuan; the difficult thing is to still be willing to be serious at that moment
+- Cost: $0; the difficult thing is to still be willing to be serious at that moment
 - Say it in plain language: Uncertain price tags, adding money to the price tag, bundling or attaching conditions to forced sales of funeral supplies, and forcing people to accept paid services from third parties are price violations listed in the regulations; splitting an item into several items and expanding the scope of charges are also considered price increases in disguise.Ask for the price list on the spot, keep the charge receipts and chat records, and you can still complain later - check the prices with market supervision, and contact the civil affairs for funeral services.
 - Benefit: The regulations list five types of price violations, including unclear price tags, price increases in addition to price tags, bundling or attaching unreasonable conditions to forced sales, and forced acceptance of third-party paid services; in addition, it is prohibited to "disaggregate items, expand scope of charges, etc. to increase charging standards in a disguised manner."
 - Evidence level: A
@@ -72,7 +72,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 8. Intermediaries such as funeral agencies, supplies purchasers, and planners must register with the county-level civil administration
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=money -->
-- Cost: 0 yuan, ask if you have filed a record
+- Cost: $0, ask if you have filed a record
 - Say it in plain language: Intermediaries such as funeral agencies, supplies purchase agents, planning hosts, and information consultation must be registered with the county-level civil affairs department. Those who have not been registered will not enter the funeral service information system.Those who use deception to arbitrarily charge people, induce arrogance, force people to accept services, or resell the deceased's information will be dealt with in accordance with the law, and will also be marked in the system and disclosed to the public.As soon as I finished the formalities, I received a bunch of sales calls, most likely because the information was sold.
 - Benefit: Unregistered intermediaries are not included in the funeral service information system; those who use deceptive means to charge illegally, induce arrogance, force people to accept services, or resell the deceased's information will be dealt with in accordance with the law and marked in the system and disclosed to the public.
 - Evidence level: A
@@ -90,7 +90,7 @@ The funeral part is based on the new version of the "Funeral Management Regulati
 
 ### 10. Close relatives can request to view, copy, correct, or delete the account number and personal information of the deceased.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=free -->
-- Cost: 0 yuan; you only need to complain or sue if the platform does not cooperate
+- Cost: $0; you only need to complain or sue if the platform does not cooperate
 - Say it in plain language: After the person passes away, close relatives can request the platform to review, copy, correct, and delete the deceased's personal information for their own legitimate and legitimate interests; if the platform refuses, they must explain the reasons, and they can also go to court to sue.The exception is that he had other arrangements during his lifetime - if he has set up an account heir or left a clear intention, follow that one.
 - Benefit: The law clearly states: When a natural person dies, close relatives may exercise their rights to view, copy, correct, delete, etc. the relevant personal information of the deceased for their own legitimate and legitimate interests.
 - Evidence level: A

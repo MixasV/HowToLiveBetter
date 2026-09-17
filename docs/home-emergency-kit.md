@@ -69,7 +69,7 @@ The original words of the Beijing Municipal Emergency Management Bureau are "Reg
 
 ## 6. No need to buy
 
-- **Home AED.** The unit price is tens of thousands of yuan, and there is no evidence to support self-purchase in the family scene.The correct action in a cardiac arrest is to perform compressions immediately, ask someone to call 120 and go to the nearest public place to get an AED, see Section 13, Item 1
+- **Home AED.** The unit price is $1,500–15,000, and there is no evidence to support self-purchase in the family scene.The correct action in a cardiac arrest is to perform compressions immediately, ask someone to call 120 and go to the nearest public place to get an AED, see Section 13, Item 1
 - **"Fire mask" and "Gas mask" without CCC mark.** Article 24 of the Fire Protection Law stipulates that fire protection products subject to compulsory product certification in accordance with the law "can only be produced, sold, and used after they have been certified by a legally qualified certification agency in accordance with the mandatory requirements of national standards and industry standards."The poisons that industrial canisters prevent are not the same thing as fire smoke.
 - **A complete set of "Emergency Gift Packs".** This type of bag usually contains flashlights and masks at low prices. It saves money to buy fire extinguishers, fire blankets, masks and first aid kits separately, and it is easier to check the certification.
 - **Store food and water for more than three days.** The official list is 3 days per person, the excess is overdue loss, see Section 5, Article 24

@@ -6,7 +6,7 @@ Caliber: money and time.As in verse 10, here we only break down the account but 
 
 ### 1. First count what you can receive: the national childcare subsidy is 3,600 yuan per child per year, and is paid until the age of 3
 <!-- Cost tag: Money=0 Time=little Perseverance=No Benefit=big Caliber=money -->
-- Cost: 0 yuan; apply at the child’s place of residence
+- Cost: $0; apply at the child’s place of residence
 - Speaking in human terms: If a child is born after January 1, 2025 and is under 3 years old, one parent can apply at the place where the child has a registered permanent residence. Each child can receive 3,600 yuan per year, totaling 10,800 yuan for three years.This money does not need to be taxed, and it is not included in family income when determining subsistence allowances and other assistance.
 - Income: Plan issued by the General Office of the CPC Central Committee and the General Office of the State Council: Infants and young children under 3 years old born on January 1, 2025 will be paid at a rate of "3,600 yuan per child per year" and applied by the infant's parent or other guardian; this subsidy is "exempt from personal income tax" and "will not be included in family or personal income" when determining assistance such as subsistence allowances.
 - Level of evidence: A
@@ -15,7 +15,7 @@ Caliber: money and time.As in verse 10, here we only break down the account but 
 
 ### 2. The maternity leave is 98 days, and the maternity allowance is paid by the maternity insurance fund based on the average monthly salary of the employees in the previous year.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Benefit=big Caliber=money -->
-- Cost: 0 yuan; declared by the unit
+- Cost: $0; declared by the unit
 - Speaking in human terms: After giving birth to a child, you can take at least 98 days of maternity leave. You can take 15 days before giving birth, and you can take an additional 15 days for difficult labor or for each additional child.The salary during this period is called maternity allowance, which is paid by the maternity insurance fund based on the average monthly salary of employees of the unit in the previous year. If the unit does not provide you with insurance, it will be paid by the unit based on your salary before maternity leave.Including the maternity incentive leave in each province, the actual number can usually be more than 158 days.
 - Benefits: The State Council stipulates: "Female employees are entitled to 98 days of maternity leave after childbirth, including 15 days before childbirth; in the case of difficult labor, 15 days of additional maternity leave; in case of multiple births, 15 days of additional maternity leave for each additional baby." Maternity allowance during maternity leave, for those who have participated in maternity insurance, "will be paid by the maternity insurance fund based on the employer's average monthly salary of employees in the previous year"; for those who are not insured, the employer will pay according to the pre-maternity leave salary standard.
 - Level of evidence: A
@@ -24,7 +24,7 @@ Caliber: money and time.As in verse 10, here we only break down the account but 
 
 ### 3. Know this: No salary reduction or dismissal due to pregnancy, childbirth, or breastfeeding.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Benefit=big Caliber=money -->
-- Cost: 0 yuan
+- Cost: $0
 - Speaking in human terms: It is illegal to have your salary reduced or fired during pregnancy, childbirth, or breastfeeding, and your employer will be fined 1,000 to 5,000 yuan per person.If your child is under one year old, you are allowed one hour of breastfeeding time every day, and your employer cannot arrange for you to work overtime or night shifts.The written notice of job reassignment and salary reduction and chat records will be retained. Please refer to Section 19 for the claim path.
 - Income: The State Council stipulates: "Employers shall not reduce wages, dismissal, or terminate labor or employment contracts of female employees due to pregnancy, childbirth, or breastfeeding." Those who breastfeed infants under 1 year old are allowed 1 hour of breastfeeding time every day, and are not allowed to arrange extended working hours and night shifts. Violators will be fined not less than 1,000 yuan but not more than 5,000 yuan per person.
 - Level of evidence: A
@@ -51,7 +51,7 @@ Caliber: money and time.As in verse 10, here we only break down the account but 
 
 ### 6. Keep an account each for your elders, for your marriage, and for your retirement.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=money -->
-- Cost: 0 yuan; a serious conversation
+- Cost: $0; a serious conversation
 - Speaking in human terms: Others want you to have a baby. This can be a consideration for you, but the time and money are charged to your own account."Raising children for old age" needs to be calculated separately, because it is a bet on another person's financial ability and willingness twenty years from now.Write down the consequences of not having children and compare both sides. Writing only one side is not settling accounts.
 - Benefits: The same idea as Section 10: other people’s expectations can be a factor in your consideration, but the costs must be recorded in your own account."Raising children for old age" should be calculated separately because it assumes the financial ability and willingness of another person twenty years later.
 - Level of evidence: C

@@ -6,7 +6,7 @@ Caliber: money.The majority of the money spent on renting a house comes from dep
 
 ### 1. The amount of the deposit, return time and deduction circumstances must be written into the contract
 <!-- Cost tag: Money=0 Time=less Perseverance=some Income=medium Caliber=money -->
-- Cost: 0 yuan; it takes ten minutes more to sign the contract
+- Cost: $0; it takes ten minutes more to sign the contract
 - To put it bluntly: The reason for the deduction that is not written in the contract cannot be used by the landlord to deduct your deposit when you cancel the lease.The amount of the deposit, when it will be refunded, and under what circumstances it will be withheld must be written in the contract before signing.
 - Income: Administrative regulations clearly state: "If the lessor collects a deposit, it should stipulate in the housing lease contract the amount of the deposit, the return time, and the circumstances for deduction of the deposit. Except for the circumstances stipulated in the housing lease contract, the lessor shall not deduct the deposit without justifiable reasons." In other words, the landlord cannot use it to deduct your money for reasons not written in the contract.
 - Level of evidence: A
@@ -15,7 +15,7 @@ Caliber: money.The majority of the money spent on renting a house comes from dep
 
 ### 2. If you are cut off from water and electricity, have your locks changed, or come to your door and threaten to evict you, call the police first and keep a certificate: regulations prohibit using these methods to force you to vacate your house.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=money -->
-- Cost: 0 yuan
+- Cost: $0
 - To speak in human terms: Landlords cannot force you to terminate the contract or move out by cutting off water and electricity, changing locks, or coming to your door to threaten you. This is expressly prohibited by law.If you encounter something, call the police first. The police report will be used as evidence when claiming losses later. Do not fight on your own.
 - Income: Administrative regulations clearly state: "The lessor shall not use violence, threats or other illegal methods to force the lessee to terminate the housing lease contract or vacate the rental housing." If you encounter this kind of situation, first call the police and keep a certificate. Do not fight on your own.
 - Level of evidence: A
@@ -24,7 +24,7 @@ Caliber: money.The majority of the money spent on renting a house comes from dep
 
 ### 3. The intermediary is not allowed to collect and pay rent and deposit on behalf of the landlord, and the money will be given directly to the landlord.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=money -->
-- Cost: 0 yuan
+- Cost: $0
 - Speaking in human terms: According to regulations, the rent and deposit cannot be collected and paid by the intermediary, and the money is paid directly to the landlord.Once the money passes through the hands of an intermediary, there is one more chance that it will run away with the money and you will be evicted by the landlord after paying back the rent in vain.Before making payment, check whether the payee is the name on the title certificate.
 - Income: Administrative regulations list "collection and payment of housing rent and deposits" as prohibited activities for real estate agencies.When money passes through the hands of an intermediary, there is one more chance to get away with it.
 - Level of evidence: A
@@ -33,7 +33,7 @@ Caliber: money.The majority of the money spent on renting a house comes from dep
 
 ### 4. Before renting a long-term apartment, check its capital supervision account first. Don’t try to make a one-time payment for a year cheaply.
 <!-- Cost tag: Money=0 Time=Medium Perseverance=Some Benefit=Large Caliber=Money -->
-- Cost: 0 yuan; check every ten minutes
+- Cost: $0; check every ten minutes
 - To put it bluntly: The discount you get by paying for a year at once is not worth the loss of the deposit and the remaining ten months of rent when the company is hit by a thunderstorm.It's even worse if the rental loan is tied up: the apartment is gone and you have to continue to repay the loan every month.Before signing a contract, check to see if it has published a capital supervision account.
 - Income: Administrative regulations require housing rental companies that operate sublease operations to "set up housing rental fund supervision accounts and disclose them to the public."The discount you get by paying a one-time payment for a year is not worth the risk of losing the deposit and remaining rent when the company is hit by a thunderstorm, especially if you signed a rental loan at the same time.
 - Level of evidence: A
@@ -42,7 +42,7 @@ Caliber: money.The majority of the money spent on renting a house comes from dep
 
 ### 5. If the house is sold during the lease period, the lease remains valid and there is no need to move.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=money -->
-- Cost: 0 yuan
+- Cost: $0
 - Speaking in human terms: If the house is sold during the lease period, the lease is still valid. The new landlord will let you live in the house until the expiry of the original contract. There is no need to move or renegotiate the price.The premise is that you have lived there legally, and keep the evidence of the contract, transfer records, and check-in time.
 - Income: As stipulated in the Civil Code, "sale and purchase do not break the lease": if the ownership of the leased object changes during the lease term, the validity of the lease contract will not be affected.The new landlord must perform according to the original contract until it expires
 - Level of evidence: A
@@ -51,7 +51,7 @@ Caliber: money.The majority of the money spent on renting a house comes from dep
 
 ### 6. Check the property ownership certificate and mortgage status before signing, transfer all funds and note the purpose
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=money -->
-- Cost: 0 yuan; check once and half an hour
+- Cost: $0; check once and half an hour
 - Talking about people: The two most common ways of losing money are: the rent is paid to someone who is not the property owner, and the house has been mortgaged to the bank and subsequently seized.Before signing the contract, go to the real estate registration center to check the title and mortgage. Transfer all the money and note "the monthly rent of such-and-such house." This will be direct evidence in case of disputes.
 - Income: Paying rent to non-owners, or having the house mortgaged to the bank and seized, are the two most common ways of losing everything.The transfer remark "such-and-such house rents for such-and-such month" is direct evidence in case of disputes.
 - Level of evidence: C
@@ -60,7 +60,7 @@ Caliber: money.The majority of the money spent on renting a house comes from dep
 
 ### 7. If you let an intermediary collect the payment for a second-hand house, you must use the special deposit account for transaction funds opened by the intermediary in the bank.
 <!-- Cost tag: Money=0 Time=less Perseverance=some Benefit=big Caliber=money -->
-- Cost: 0 yuan; if you insist on using a dedicated account, you may have to argue with the intermediary.
+- Cost: $0; if you insist on using a dedicated account, you may have to argue with the intermediary.
 - Speaking in human terms: The house payment ranges from hundreds of thousands to several million, which is the largest single amount in this book.If an intermediary collects funds on its behalf, according to regulations, it must use its special deposit account for trading funds opened in the bank and cannot transfer it to the individual broker via WeChat.The other two places are often overcharged: two intermediaries can only charge one commission for each order. Loan agency and transfer agency are separate services, and separate contracts must be signed and the charges must be clearly stated in advance.
 - Income: The regulations clearly state: If it is agreed that a real estate agency will collect and pay transaction funds on its behalf, it should transfer them through its special deposit account for customer transaction settlement funds opened in the bank - the house payment goes into a regulated special account, not the private account of the intermediary or a certain broker.
 - Level of evidence: A
@@ -69,7 +69,7 @@ Caliber: money.The majority of the money spent on renting a house comes from dep
 
 ### 8. Don’t rent a partitioned room: the minimum rental unit is an original designed room, and the kitchen, bathroom, and balcony are not allowed to be occupied.
 <!-- Cost tag: Money=0 Time=little Perseverance=No Income=medium Caliber=money -->
-- Cost: 0 yuan; the price is that you have to live farther away or smaller for the same budget
+- Cost: $0; the price is that you have to live farther away or smaller for the same budget
 - Speaking in human terms: According to regulations, the smallest rental unit is a room with original design. The kitchen, bathroom, balcony and underground storage room cannot be occupied.When a partitioned house is investigated, it is the tenant who moves, and the deposit and paid rent are often not returned; in addition, the landlord cannot unilaterally increase the rent at will during the lease period.
 - Income: The regulations clearly state that the minimum rental unit is the original designed room, and the per capita rental building area shall not be less than the minimum standard stipulated by the local area. Kitchens, bathrooms, balconies and underground storage rooms shall not be rented out for people to live in; the lessor shall not unilaterally increase the rent during the lease period.
 - Level of evidence: A
