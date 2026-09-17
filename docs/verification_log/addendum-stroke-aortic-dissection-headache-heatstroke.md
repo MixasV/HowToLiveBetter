@@ -1,0 +1,48 @@
+# Addendum: Posterior Circulation Stroke, Aortic Dissection, Thunderclap Headache, and Heatstroke Rehydration · Verification Record (2026-09-08)
+
+Task source: the reader raised two things — "Don't drink cold drinks immediately when you have heatstroke"; "The characteristics of diseases and such — a certain doctor felt dizzy, pointed at his nose with his finger, found he couldn't reach it, and went to the hospital immediately; it was a cerebral infarction."
+
+Existing coverage: Section 13, item 2 has only the three FAST actions (face drooping, arm weakness, slurred speech), with zero coverage of the dizziness, diplopia, unsteady walking, and inaccurate finger-to-nose of posterior circulation (cerebellar, brainstem) infarction, and searching the whole book for "cerebellum", "diplopia", and "vertigo" also returns zero; item 3 on chest pain only writes about myocardial infarction, and "aortic dissection" and "tearing" return zero in the whole book; "subarachnoid hemorrhage" and "thunderclap headache" return zero in the whole book — sudden severe headache has no landing point at all. Heatstroke only has item 16, which writes about cooling and "do not give water if consciousness is unclear", but does not write what a conscious person should drink or how to drink, and does not answer the reader's concern about "can I drink something ice-cold".
+
+Placement: Section 13 adds 4 items. Item 3 (posterior circulation stroke, inserted after the FAST item), item 5 (aortic dissection), item 6 (thunderclap headache), item 20 (heatstroke rehydration, inserted after the heatstroke item). The original item 3 shifts to item 4, the original items 4 to 16 shift to 7 to 19, and the original items 17 to 29 shift to 21 to 33. References changed accordingly: in book/01 item 26 and docs/home-emergency-kit.md, the "Section 13, item 4" pointing to the tourniquet is changed to item 7; in the equipment list, burn item 6 is changed to item 9, epinephrine item 7 to item 10, and fire item 17 to item 21; in book/19 item 11, chemical item 13 is changed to item 16; within Section 13, in item 15 (accidental ingestion) "see item 11 for carbon monoxide, see item 6 for burns" is changed to items 14 and 9, in item 16 (chemical burns) "see item 12 for accidental ingestion" is changed to item 15, and in item 30 (wild animals) the "item 3" pointing to bites was originally a leftover old number and is also changed to item 8.
+
+## Item 3 (posterior circulation stroke: vertigo, diplopia, inaccurate finger-to-nose)
+
+| Literature | Rechecked | Original figures |
+|---|---|---|
+| Aroor S, Singh R, Goldstein LB (2017). BE-FAST (Balance, Eyes, Face, Arm, Speech, Time): Reducing the Proportion of Strokes Missed Using the FAST Mnemonic. Stroke, 48(2), 479-481. <https://doi.org/10.1161/STROKEAHA.116.015169> (PMID 28082668) | Yes (Europe PMC abstract verbatim) | "Of 736 eligible patients with acute ischemic stroke, 14.1% presented without FAST symptoms. When gait imbalance, leg weakness, and visual symptoms were included, the proportion of missed strokes decreased to 4.4%." The authors' conclusion states "suggested prospective validation before updating public education programs" |
+
+Set at B rather than A: a single-center (University of Kentucky Stroke Center) retrospective analysis of one year in 2014, with specific figures for 736 cases but only this one study, and the authors themselves call for prospective validation. Benefit magnitude "large" — the approach is mortality, and a missed diagnosis means missing the thrombolysis window. All three cost items are zero, and the cost-effectiveness tier is extremely high.
+
+What the reader described as "the finger cannot reach the nose" is the finger-to-nose test, which examines cerebellar ataxia and belongs to the Balance branch of BE-FAST. The main text writes it as a hint and does not write that it can rule out stroke: no single bedside action has a sufficient negative predictive value, so the wording is "if it appears suddenly and does not resolve, call 120".
+
+## Item 5 (aortic dissection)
+
+| Literature | Rechecked | Original figures |
+|---|---|---|
+| Hagan PG, Nienaber CA, Isselbacher EM, et al. (2000). The International Registry of Acute Aortic Dissection (IRAD): new insights into an old disease. JAMA, 283(7), 897-903. <https://doi.org/10.1001/jama.283.7.897> (PMID 10685714) | Yes (Europe PMC abstract verbatim) | 464 cases, 12 centers; "While sudden onset of severe sharp pain was the single most common presenting complaint, the clinical presentation was diverse." Overall in-hospital mortality 27.4%; mortality 58% for type A patients not operated on and treated with medication alone |
+
+Set at B: a multicenter registry rather than a cohort study or trial, with a moderate scale of 464 cases, and the mortality is an observed value within the registry. Benefit magnitude "large" — mistaking a dissection for myocardial infarction and giving anticoagulation and thrombolysis can be fatal, and the value of recognition lies in changing the direction of management. "Pain migrating along the course of the aorta" and "blood pressure difference between the two arms" are textbook signs, and the abstract has no verbatim-citable proportions, so they are only written as qualitative hints in the remarks, without figures.
+
+Figure not used: the widely circulated "untreated type A dissection has a mortality rate of 1%–2% per hour" comes from Hirst's 1958 autopsy series, and no verbatim-checkable original text was obtained this time, so it is not written into the main text.
+
+## Item 6 (thunderclap headache and subarachnoid hemorrhage)
+
+| Literature | Rechecked | Original figures |
+|---|---|---|
+| Perry JJ, Stiell IG, Sivilotti MLA, et al. (2013). Clinical decision rules to rule out subarachnoid hemorrhage for acute headache. JAMA, 310(12), 1248-1255. <https://doi.org/10.1001/jama.2013.278018> (PMID 24065011) | Yes (Europe PMC abstract verbatim) | A prospective multicenter cohort of 2,131 cases of "headache peaking within one hour", with 132 cases (6.2%) being subarachnoid hemorrhage; the Ottawa SAH rule sensitivity "100% (95% CI, 97.2%-100.0%)", specificity "15.3% (95% CI, 13.8%-16.9%)"; the rule items are age 40 years or older, neck pain or stiffness, witnessed loss of consciousness, onset during exertion, thunderclap headache, limited neck flexion on examination |
+
+Set at A: a prospective cohort at 10 Canadian emergency departments, with sample size and sensitivity intervals complete. Benefit magnitude "large", cost recorded as "money=little time=medium" (emergency head CT and half a day waiting for the result), cost-effectiveness tier high.
+
+The main text emphasizes "speed of peaking" rather than "pain intensity", because the inclusion criterion of the rule is peaking within one hour; the fact that specificity is only 15.3% is written into the remarks, to prevent readers from thinking that meeting one criterion means a high probability of hemorrhage.
+
+## Item 20 (heatstroke rehydration)
+
+| URL | Rechecked | Original quoted passage |
+|---|---|---|
+| China CDC, "Guidelines for the Public on the Prevention and Emergency Treatment of Heatstroke in High Temperatures (2014 Edition)" <https://niohp.chinacdc.cn/sndt/201405/t20140530_97623.htm> | Yes | "Regardless of the amount of exercise, fluid intake needs to be increased, and you should not wait until you are thirsty to drink water"; "drink at least 2 to 4 cups of cool water per hour (500–1000 ml), the water temperature should not be too high, and drinking should be in small amounts and multiple times"; "do not drink beverages containing alcohol or a large amount of sugar. These beverages will cause the loss of more body fluids. At the same time, drinking excessively cold iced beverages should also be avoided"; for heatstroke treatment it states "do not give the patient water"; cooling methods include "soaking the patient in cool water in a bathtub; placing the patient under a cool water shower; wiping the patient's body with cool water; applying cold wet towels or ice packs to the head, armpits, and groin" |
+| US CDC/NIOSH. Heat-Related Illnesses. <https://www.cdc.gov/niosh/heat-stress/about/illnesses.html> | Yes | Heatstroke "Cool the worker quickly... With a cold water or ice bath, if possible"; heat exhaustion "Encourage frequent sips of cool water"; heat cramps "Drink water and have a snack or a drink that replaces carbohydrates and electrolytes (such as sports drinks) every 15 to 20 minutes" and "Avoid salt tablets" |
+
+Set at B: both are official handling approaches, without an effect size for "how much mortality is reduced by following this". Benefit magnitude "medium" — rehydration itself is supportive treatment, and what saves lives is cooling and going to the hospital.
+
+**The reader's statement is both adopted and delimited in the main text**: the China CDC guideline does write "avoid drinking excessively cold iced beverages", so "don't gulp ice-cold drinks immediately when you have heatstroke" has an official source, and the main text writes it accordingly; but the reason given by the guideline is fear of stomach cramps, without quantitative evidence, and the first-line cooling methods recommended by the same guideline are precisely cold water immersion, cool water showers, and ice pack application. So the remarks make it clear: cold is for applying to the body, not for pouring down the throat, and do not misread "don't drink ice-cold" as "can't use cold". The other half is salt content — after heavy sweating, replenishing only plain water will dilute blood sodium, and both materials point to electrolyte-containing drinks rather than pure plain water.

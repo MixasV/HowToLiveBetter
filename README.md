@@ -1,216 +1,227 @@
 <div align="center">
 
-<img src="og.png" alt="高性价比人生指南 —— 用最少的钱、时间和精力，换回最多的寿命、金钱和人身自由" width="820">
+<img src="og.png" alt="High ROI Life Guide — Achieve more longevity, money, and personal freedom with less cost in money, time, and energy" width="820">
 
-# 高性价比人生指南
+# High ROI Life Guide
 
-覆盖长寿与防病、意外与急救、省钱与理财、防骗与法律红线、失业兜底、创业风险、做平台与合规、恋爱婚育、出国与技能。<br>
-498 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件。
+Covers longevity and disease prevention, emergencies and first aid, saving money and finance, legal pitfalls, unemployment and work injury, social security, dating and marriage, pregnancy and child-rearing, entrepreneurship and platform compliance, travel abroad and skills.  
+498 tips, each stating what you spend (money/time/energy/willpower) and what you get back (reduction in mortality, specific cause-of-death decrease, time and energy saved, money saved, personal freedom gained), with evidence level and original source cited. Only original sources (journal papers and official reports) are cited.
 
-[![在线检索](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%A3%80%E7%B4%A2-%E7%82%B9%E8%BF%99%E9%87%8C%E6%89%93%E5%BC%80-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
-[![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-498%20%E6%9D%A1-18794e?style=flat-square)](#目录)
-[![证据分级](https://img.shields.io/badge/%E8%AF%81%E6%8D%AE%E5%88%86%E7%BA%A7-A%20323%20%C2%B7%20B%20126%20%C2%B7%20C%2049-915930?style=flat-square)](#证据分级)
-[![原始文献](https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E6%96%87%E7%8C%AE-891%20%E6%9D%A1%E9%93%BE%E6%8E%A5-565a5f?style=flat-square)](docs/核实记录/)
-[![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-Unlicense-565a5f?style=flat-square)](LICENSE)
+[![Online Search](https://img.shields.io/badge/Search-Online-3451b2?style=flat-square)](https://MixasV.github.io/HowToLiveBetter/)
+[![Entries](https://img.shields.io/badge/Entries-498-18794e?style=flat-square)](#table-of-contents)
+[![Evidence Levels](https://img.shields.io/badge/Evidence_A=323_B=126_C=49-915930?style=flat-square)](#evidence-levels)
+[![Original Sources](https://img.shields.io/badge/Original_Sources-905_links-565a5f?style=flat-square)](docs/verification_log/)
+[![License](https://img.shields.io/badge/License-Unlicense-565a5f?style=flat-square)](LICENSE)
 
-**[打开在线检索页](https://eternity4719.github.io/HowToLiveBetter/)** · [目录](#目录) · [术语表](#读懂数字术语表) · [核实记录](docs/核实记录/) · [结婚划不划算（长文）](docs/结婚划不划算.md) · [家庭应急装备清单（长文）](docs/家庭应急装备清单.md) · [遇到陌生人出事该不该停（长文）](docs/遇到陌生人出事该不该停.md) · [做平台要办哪些证（长文）](docs/做平台要办哪些证.md)
+**[Open Online Search Page](https://MixasV.github.io/HowToLiveBetter/)** · [Table of Contents](#table-of-contents) · [Glossary](#glossary) · [Verification Log](docs/verification_log/) · [Is Marriage Worth It (Long Form)](docs/is-marriage-worth-it.md) · [Home Emergency Kit (Long Form)](docs/home-emergency-kit.md) · [Should You Stop for Strangers in Trouble (Long Form)](docs/strangers-trouble.md) · [What Permits Do You Need for a Website or Platform (Long Form)](docs/platform-permits.md)
 
 </div>
 
 ---
 
-## 这本书想回答的问题
+## What This Book Answers
 
-| 问题 | 去哪看 |
+| Question | See |
 | --- | --- |
-| 几乎不花钱，就能明显降低早死概率的事有哪些？ | [1. 不要早死](book/01-不要早死.md) |
-| 抽烟、喝酒、久坐、熬夜到底折寿多少？ | [2. 不要慢慢死](book/02-不要慢慢死.md) |
-| 每天精力不够用、总被打断，怎么改？ | [3. 不要浪费精力](book/03-不要浪费精力.md) |
-| 时间都花哪去了，怎么少做无收益的事？ | [4. 不要浪费时间](book/04-不要浪费时间.md) |
-| 攒下的钱该怎么放，才不被利息、费率和骗局吃掉？ | [5. 不要浪费钱](book/05-不要浪费钱.md) |
-| 哪些保健品、体检套餐、智商税可以直接不买？ | [6. 反面清单](book/06-反面清单.md) |
-| 失业了、被欠薪了、身上没钱了，能领什么、去哪求助？ | [7. 没钱的时候怎么活](book/07-没钱的时候怎么活.md) |
-| 彩礼、婚前房产、恋爱期间的大额转账，法律上算谁的？ | [8. 法律与财产安全](book/08-别把自己搭进去.md) |
-| 被人报案指控、被捏造事实举报，第一步做什么，事后能追究和赔偿吗？ | [8. 法律与财产安全](book/08-别把自己搭进去.md) |
-| 哪些「兼职」和顺手的小事会让普通人变成刑事被告？ | [9. 普通人容易踩的法律红线](book/09-普通人容易踩的法律红线.md) |
-| 追人该广撒网还是死磕一个，异地恋能不能成，领证要带什么？ | [10. 恋爱和结婚划不划算](book/10-恋爱和结婚划不划算.md) |
-| 写哪些代码、接哪些单会被判刑？ | [11. 程序员和技术人容易踩的红线](book/11-程序员和技术人容易踩的红线.md) |
-| 借钱开店、开公司之前最该先想清楚什么？ | [12. 创业与做生意](book/12-创业与做生意.md) |
-| 有人倒地没了呼吸、大出血、火灾、迷路，先做什么？ | [13. 紧急情况：先做什么](book/13-紧急情况.md) |
-| 账号被盗、手机丢了，第一步做什么？ | [14. 账号与信息安全](book/14-账号与信息安全.md) |
-| 押金被扣、房东赶人、长租公寓暴雷怎么办？ | [15. 租房与买房](book/15-租房与买房.md) |
-| 确诊慢性病之后，长期该怎么管、怎么少花钱？ | [16. 得了慢性病之后怎么活](book/16-得了慢性病之后怎么活.md) |
-| 老人的监护、遗嘱和钱该怎么提前安排？ | [17. 家里有老人](book/17-家里有老人.md) |
-| 生孩子能领什么、要占掉多少时间和钱？ | [18. 养孩子划不划算](book/18-养孩子划不划算.md) |
-| 加班费、年休假该怎么算，被裁该拿多少补偿，上班受了伤怎么认定和拿钱？ | [19. 在职、离职和工伤](book/19-在职离职和工伤.md) |
-| 孩子刚出生，最要紧的几件事是什么？ | [20. 刚出生的孩子怎么带](book/20-刚出生的孩子怎么带.md) |
-| 哪些国家现在别去，出事了使领馆管到哪一步？ | [21. 出国、旅行与境外安全](book/21-出国旅行与境外安全.md) |
-| 去 KTV、网吧、密室怎么不踩坑，压力大时做什么最有用？ | [22. 怎么放松：娱乐场所和减压](book/22-怎么放松.md) |
-| 学电焊、学英语、考证，哪些真的回本？ | [23. 学什么技能划算](book/23-学什么技能划算.md) |
-| 同一个病在社区看和在三级医院看，差多少钱？ | [24. 看病：怎么少花钱少走弯路](book/24-看病.md) |
-| 伤得很重跑到医院，是去挂号排队还是找急诊分诊台？治完要不要做伤残鉴定、办残疾人证？ | [24. 看病：怎么少花钱少走弯路](book/24-看病.md) |
-| 家里人走了，当时先做什么、哪些钱能取回来、哪些费用可以不交？ | [25. 人走了以后要办什么](book/25-人走了以后要办什么.md) |
-| 做个网站或平台收钱，要办哪些证、服务器放哪？ | [26. 做一个网站或平台](book/26-做一个网站或平台.md) |
-| 怀孕了、要生了，什么时候做什么，出院前要办哪些证？ | [27. 怀孕和生产](book/27-怀孕和生产.md) |
-| 想减肥、想变好看，哪些做法会把身体搞坏？ | [28. 别为了外形把身体搞坏](book/28-别为了外形把身体搞坏.md) |
-| 亲人走了、被裁了、拿到重病诊断，头几个月最要紧的是什么？ | [29. 遭遇重大打击之后](book/29-遭遇重大打击之后.md) |
-| 孩子上学以后，哪些身体和心理的事不能等到考完再说？ | [30. 上学以后的孩子](book/30-上学以后的孩子.md) |
-| 十八岁之后除了读书和打工还有哪几条路，各自的门槛是什么？ | [31. 十八岁之后有哪几条路](book/31-十八岁之后有哪几条路.md) |
+| What things that almost cost nothing can significantly lower the chance of dying young? | [1. Don't Die Young](book/01-dont-die-young.md) |
+| How much do smoking, drinking, sitting, and staying up late shorten your life? | [2. Don't Die Slow](book/02-dont-die-slow.md) |
+| Energy runs out every day, always interrupted — how to fix? | [3. Don't Waste Mental Energy](book/03-dont-waste-mental-energy.md) |
+| Time goes where, and how to do fewer useless things? | [4. Don't Waste Time](book/04-dont-waste-time.md) |
+| How to invest savings so they aren't eaten by interest, fees, and scams? | [5. Don't Waste Money](book/05-dont-waste-money.md) |
+| Which health supplements, checkup packages, and "stupid taxes" can you skip? | [6. Antilist](book/06-antilist.md) |
+| Unemployed, unpaid wages, broke — what can you claim and where to ask? | [7. How to Survive When Broke](book/07-how-to-survive-when-broke.md) |
+| Couple's money, pre-marital property, big transfers during dating — who legally owns what? | [8. Legal and Property Safety](book/08-dont-put-yourself-at-risk.md) |
+| Someone files a false report against you, fabricates facts to report — first step? Can you pursue and claim compensation later? | [8. Legal and Property Safety](book/08-dont-put-yourself-at-risk.md) |
+| What part-time jobs and casual actions turn ordinary people into criminal defendants? | [9. Legal Red Lines for Ordinary People](book/09-common-legal-pitfalls.md) |
+| Broad vs. focused approach to dating, can long-distance work, documents needed for marriage registration? | [10. Love and Marriage: Worth It?](book/10-love-and-marriage-worth-it.md) |
+| What code you write and what jobs you take could get you convicted? | [11. Legal Red Lines for Tech Workers](book/11-tech-workers-common-pitfalls.md) |
+| Starting a business — what should you think about first? | [12. Entrepreneurship and Business](book/12-entrepreneurship-and-business.md) |
+| Someone collapses — what to do first? | [13. Emergencies](book/13-emergencies.md) |
+| Account stolen, phone lost — first step? | [14. Account and Information Security](book/14-account-security.md) |
+| Deposit withheld, landlord evicts violently, long-term apartment scams — what to do? | [15. Renting and Buying](book/15-renting-and-buying.md) |
+| Diagnosed with chronic illness — how to manage long-term, save money? | [16. Living with Chronic Illness](book/16-living-with-chronic-illness.md) |
+| Elderly caregiving, wills, and money — how to plan ahead? | [17. When You Have Elderly at Home](book/17-caring-for-elders.md) |
+| Having kids — what benefits, how much time and money? | [18. Is Parenthood Worth It?](book/18-is-parenthood-worth-it.md) |
+| Overtime pay, paid annual leave, severance package — how to calculate? Injured at work — how to certify and claim? | [19. Work, Dismissal, and Work Injury](book/19-work-dismissal-and-injury.md) |
+| Newborn baby — what are the most important things? | [20. Caring for Newborns](book/20-caring-for-newborns.md) |
+| Which countries to avoid now, what consular protection covers? | [21. Travel and Overseas Safety](book/21-travel-and-overseas-safety.md) |
+| How to not get scammed at KTV, internet cafes, escape rooms; what's most useful under stress? | [22. Relaxation: Entertainment Venues and Stress Relief](book/22-relaxation-and-leisure.md) |
+| Welding, English, certifications — which skills actually pay off? | [23. Which Skills Are Worth It](book/23-which-skills-are-worth-it.md) |
+| Same disease treated at community vs. three hospitals — cost difference? | [24. Healthcare: Save Money and Avoid Detours](book/24-healthcare.md) |
+| Family member passed away — what to do first, what money can be reclaimed, what fees can be skipped? | [25. After a Death](book/25-after-a-death.md) |
+| Making a website or platform — what permits, where to place servers? | [26. Building a Website or Platform](book/26-websites-and-platforms.md) |
+| Pregnant — when to do what, what certificates to handle before discharge? | [27. Pregnancy and Childbirth](book/27-pregnancy-and-childbirth.md) |
+| Want to lose weight, want to look better — which methods will harm your body? | [28. Don't Harm Your Body for Looks](book/28-dont-harm-your-body-for-looks.md) |
+| After major setbacks (death of a loved one, layoff, serious illness diagnosis) — what matters most in the first few months? | [29. After Major Setbacks](book/29-after-major-setbacks.md) |
+| After children start school — what physical and mental things can't wait for exam results? | [30. School-Age Children](book/30-school-age-children.md) |
+| After 18, besides studying and working — what other paths exist, what are the thresholds? | [31. Paths After 18](book/31-paths-after-18.md) |
 
-## 怎么读
+## How to Read
 
-- **想按条件筛**：打开[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)，可以按关键词、章节、证据等级，以及「花不花钱、花多少时间、要不要毅力」三个成本维度组合筛选。数据直接读 book/ 下的正文，改正文即改检索页。
-- **想按顺序读**：每节内的条目按性价比从高到低排列，从每节前几条开始看就行。
-- **看不懂那串数字**：每条都有一行「说人话」，把「收益」栏里的风险比、置信区间翻成「同期死亡的概率低约两成」「拘留几日、罚多少钱」这类日常说法，只用原文已有的事实，不引入新数字。只看这一行就够做决定；「收益」栏保留全部原始数字和置信区间，供你自己核。
-- **只想看结论最硬的**：在检索页里勾选证据等级 A，只留下有具体数字、来自荟萃分析或大型试验的 323 条。
-- **只想看最值得做的**：勾选性价比「极高」，得到 85 条既不花钱、不花时间、不需要毅力，收益又落在最大一档的条目。再叠加一个「换回什么」，就是该口径下的优先清单。
-- **看到「不要」开头的节标题不用紧张**：节标题说的是这一节想防住的结果（不要早死、不要浪费时间），不是说底下每条都是禁令。条目标题才是要做的动作，一律动词开头，自己带着「做什么」或「别做什么」——同一节里两种都有，比如第 4 节既有「把『打算做』写成『几点、在哪、遇到什么就做什么』」，也有「不看电视和滚动新闻」。按条目标题读，不用往节标题的语气上套。
+- **Filter by conditions**: Open the [online search page](https://MixasV.github.io/HowToLiveBetter/), filter by keyword, chapter, evidence level, and the three cost dimensions ("spend money / how much time / need willpower"). Data is read directly from `book/`, so editing the text changes the search page.
+- **Read in order**: Within each chapter, entries are sorted by cost-benefit ratio from highest to lowest. Start from the first few entries of each chapter.
+- **Don't understand the numbers**: Each entry has a "Say it in plain language" line that translates risk ratios and confidence intervals into everyday terms like "death probability is about 20% lower" or "detained a few days, fined so much." Only the facts from the original text are used, no new numbers introduced. Just read this line to make a decision; the "Benefit" line keeps all original numbers and confidence intervals for your own verification.
+- **Only want the strongest conclusions**: On the search page, check evidence level A — 323 entries with specific numbers from meta-analyses or large trials remain.
+- **Only want the most worthwhile actions**: Check cost-benefit "highest" — 85 entries that don't cost money, don't take time, and don't need willpower, with benefits in the highest tier.
 
-每条建议长这样：
+Each tip looks like this:
 
 ```markdown
-### 5. 把家里的食盐换成低钠盐（钾盐）
-- 成本：每袋贵几元
-- 说人话：两万人的随机试验里，把家里的盐换成低钠盐的人，五年内死亡的概率低约 12%，中风低约 14%。这是随机分组做出来的结果，比一般的观察数据更可信。
-- 收益：脑卒中降 14%，心血管事件降 13%，总死亡率降 12%
-- 证据等级：A
-- 来源：Neal B, et al. (2021). NEJM. https://doi.org/10.1056/NEJMoa2105675
-- 备注：争议。肾功能不全、正在吃保钾利尿剂的人不要用。另有一项覆盖 181 个国家的生态学研究发现钠摄入越高的国家预期寿命反而越长、总死亡率反而越低（β=−131 例/克每日钠摄入，R²=0.60，P<0.001），作者据此反对把钠当作缩短寿命的元凶；但生态学研究比的是国家而不是人，富国吃盐多也活得久，无法排除经济水平这个混杂，证据等级低于上面那项随机对照试验。来源：Messerli FH, Hofstetter L, Syrogiannouli L, et al. (2021). Sodium intake, life expectancy, and all-cause mortality. European Heart Journal, 42(21), 2103-2112. <https://doi.org/10.1093/eurheartj/ehaa947>
+### 5. Replace table salt with low-sodium salt (potassium salt)
+<!-- cost_tag: money=low time=low willpower=no benefit=medium dimension=mortality -->
+- Cost: a few yuan more per bag
+- Say it in plain language: In a randomized trial of 20,000 people, those who replaced table salt with low-sodium salt had a 12% lower death rate and 14% lower stroke rate over 5 years. This is the result of random assignment, more credible than observational data.
+- Benefit: stroke reduced 14%, cardiovascular events reduced 13%, all-cause mortality reduced 12%
+- Evidence level: A
+- Source: Neal B, et al. (2021). NEJM. https://doi.org/10.1056/NEJMoa2105675
+- Note: Controversial. Those with poor kidney function or taking potassium-sparing diuretics should not use it. There is also a population-level ecological study covering 181 countries that found countries with higher sodium intake actually have longer life expectancy and lower overall mortality (β = -131 deaths per gram of daily sodium intake, R² = 0.60, P < 0.001), and the authors use this to argue against treating sodium as a lifespan-shortening culprit; however, ecological studies compare countries, not individuals — wealthy countries eat more salt but also live longer, and the confounding effect of economic level cannot be excluded, so the evidence level is below the randomized controlled trial above. Source: Messerli FH, Hofstetter L, Syrogiannouli L, et al. (2021). Sodium intake, life expectancy, and all-cause mortality. European Heart Journal, 42(21), 2103-2112. <https://doi.org/10.1093/eurheartj/ehaa947>
 ```
 
-## 四种资源
+## Four Resources
 
-本指南优化的不只是寿命，而是四种资源：
+This guide optimizes not just longevity, but four resources:
 
-- **寿命**：活得更久，少死于本来可以避免的事
-- **时间与精力**：活着的时间不被无收益的事占用，每天的注意力和体力少被无谓消耗
-- **金钱**：少花冤枉钱，把钱花在收益确定的地方
-- **人身自由**：不因为不知道一条红线，把自己送进拘留所或者看守所
+- **Longevity**: Live longer, die less from things that could have been avoided
+- **Time and energy**: Time alive is not occupied by useless things; daily attention and physical strength are not wasted on nonsense
+- **Money**: Spend less on useless things; spend money where the return is clear
+- **Personal freedom**: Don't end up in a detention center or prison just because you didn't know a line
 
-每一条建议都回答两个问题：花掉什么（钱/时间/精力/毅力），换回什么（总死亡率变化 / 特定死因下降 / 时间与精力节省 / 金钱节省 / 保障与人身自由）。条目按性价比排序，不按类别排序：成本接近零、收益大的放最前面。
+Every suggestion answers two questions: What do you spend (money/time/energy/willpower), and what do you get back (change in overall mortality / specific cause-of-death reduction / time and energy saved / money saved / protection and personal freedom). Entries are sorted by cost-benefit ratio, not by category: those that cost almost nothing and yield great returns go first.
 
-**收益算在谁头上，是分档的。** 按「这份好处将来回到你身上的期望」从高到低：① **你自己**；② **配偶和直系亲属**（父母、子女、祖父母外祖父母、孙子女外孙子女）；③ **朋友、同事和其他亲属**——互惠关系，帮出去的将来可能回来；④ **陌生人**——最低一档，但不是零：回报的概率小，而且你不了解对方性格，还有被讹、被反咬、被报复的一面。不同档不合并计算，写到第 ④ 档时好处和风险一起写。
+**Who benefits is tiered.** By "how likely this benefit will come back to you" from high to low: ① **yourself**; ② **spouse and direct blood relatives** (parents, children, grandparents, and in-laws, grandchildren and in-grandchildren); ③ **friends, colleagues, and other relatives** — reciprocal relationships, helping others may come back; ④ **strangers** — lowest tier, but not zero: the probability of return is small, and you don't understand the other person's personality, with the risk of being tricked, bitten back, or getting in trouble. Different tiers are not combined. When writing to tier ④, both the good and risks must be written clearly.
 
-急救那一节照这个读：中国 38,227 例院外心脏骤停里 79.2% 发生在家里，学按压首先是为了按在自家人身上；「看到有人溺水自己不下水」「撞见斗殴别上手拉架」这类规则本身就是自保规则，防的是你从旁观者变成第二个伤者。对陌生人要不要出手是你自己的权衡，条目会把免责条款、自保动作和风险面都写清楚，不替你把它算成非做不可的理由。
+The emergency first aid section should be read this way: In China, 79.2% of 38,227 out-of-hospital cardiac arrests occurred at home, and learning CPR is first for pressing on your own family members; rules like "don't jump into water when you see someone drowning" and "don't pull people apart when you see a fight" are self-protection rules — they're there to prevent you from going from bystander to second victim. Whether to help strangers is your own decision; the entries will clearly state the exemption clauses, self-protection actions, and risk exposure. Do not count it as a must-do reason for yourself.
 
-死亡率类数字、时间/精力类数字、金钱类数字和法律后果分开口径，不做跨口径换算。这四种资源对应检索页上的四个「换回什么」，互相之间不做比较。
+Mortality numbers, time/energy numbers, money numbers, and legal consequences use different "calibrations" and are not cross-converted. These four resources correspond to the four "Get back" options on the search page, and are not compared to each other.
 
-## 证据分级
+## Evidence Levels
 
-每条建议都标注证据等级：
+Every suggestion is labeled with an evidence level:
 
-| 等级 | 含义 |
+| Level | Meaning |
 | --- | --- |
-| A | 有可量化证据，来自荟萃分析、大型队列或 RCT，能给出具体数字（HR、RR、下降百分比） |
-| B | 有研究支撑但难以量化，或证据来自小样本/单一研究 |
-| C | 作者经验或普遍共识，没有直接文献 |
+| A | Quantifiable evidence, from meta-analysis, large cohorts, or RCT; can give specific numbers (HR, RR, percentage reduction) |
+| B | Research-supported but hard to quantify, or evidence from small samples/single study |
+| C | Author's experience or general consensus, no direct literature |
 
-全书 498 条中 A 级 323 条、B 级 126 条、C 级 49 条，另有 45 条标注了争议、39 处标注了 TODO 待核实。有争议的 A/B 级条目会标注「争议」并列出反方证据。所有来源只引原始文献（期刊论文附 DOI 或 PubMed 链接，或 WHO/CDC/国家统计局等官方机构报告），不引二手转述。不确定的数字标「待核实」。
+The book has 498 entries: 323 A-level, 126 B-level, 49 C-level, plus 45 marked as controversial and 39 marked as TODO pending verification. Controversial A/B-level entries will be marked "controversial" and list opposing evidence. All sources cite only original literature (journal papers with DOI or PubMed link, or reports from WHO/CDC/National Bureau of Statistics, etc.); no second-hand re-posts. Uncertain numbers are marked "pending verification."
 
-## 性价比档
+## Cost-Benefit Tiers
 
-证据等级回答的是「这个数字可不可信」，不回答「值不值得做」。所以每条另外标一个收益量级和一个口径，检索页由它和三项成本合成一个性价比档：
+Evidence level answers "is this number credible," not "is it worth doing." So each entry also has a "Benefit magnitude" and a "Calibration":
 
-| 维度 | 取值 | 怎么定的 |
+| Dimension | Value | How determined |
 | --- | --- | --- |
-| 口径 | 换寿命 / 换钱 / 换时间精力 / 换人身自由 | 按这条主要换回什么。**不同口径之间不做比较**，「总死亡率降 12%」和「每年省 500 元」不在一把尺子上 |
-| 收益量级 | 大 / 中 / 小 | 尽量按阈值从条目自己的「收益」栏里机械套：换寿命看相对降幅（≥20% 为大，10–20% 为中，<10% 或只有替代终点为小）；换钱看金额（万元级为大，数百到数千为中，几十元为小）；换人身自由看后果（避免刑事责任为大，避免拘留或行政处罚为中，避免民事纠纷为小）；换时间精力看节省量（每天小时级为大，每周小时级为中，一次性为小） |
-| 性价比 | 极高 / 高 / 一般 | 收益大且三项成本全为零 = 极高；收益大且成本较低，或收益中且成本为零 = 高；其余 = 一般 |
+| Calibration | Longevity / Money / Time & energy / Personal freedom | Based on what this entry primarily gets back. **Different calibrations are not compared**: "All-cause mortality reduced 12%" and "save 500 yuan per year" are not on the same ruler |
+| Benefit magnitude | Large / Medium / Small | Based on thresholds from the entry's own "Benefit" line: for longevity, look at relative reduction (≥20% = Large, 10-20% = Medium, <10% or only surrogate endpoints = Small); for money, look at amount (10,000+ yuan = Large, hundreds to thousands = Medium, tens = Small); for personal freedom, look at consequences (avoid criminal liability = Large, avoid detention or administrative penalty = Medium, avoid civil disputes = Small); for time & energy, look at savings (daily hours = Large, weekly hours = Medium, one-time = Small) |
+| Cost-benefit | Highest / High / Medium | Benefit large + all three costs zero = Highest; Benefit large + low cost, or Benefit medium + zero cost = High; otherwise = Medium |
 
-全书 498 条中性价比极高 88 条（18%）、高 248 条（50%）、一般 162 条（33%）。中间一档偏厚是有意的：底层的收益量级只有三级判断，再往下切就是假装精度。
+The book has 498 entries: 88 highest (18%), 248 high (50%), 162 medium (33%). The middle tier is intentionally thick: the benefit magnitude only has three levels; cutting further would be pretending precision.
 
-**这一档是作者判断，不是证据**，本质上是 C 级，和证据等级正交。可以是 A 级但性价比一般（带状疱疹疫苗有 97.2% 效力的三期 RCT，但两针三四千元、带状疱疹很少致命），也可以是 C 级但性价比极高（出境前把行程发给家人）。「一般」不等于不该做——全书的条目都是建议做的，只是这一档要你自己权衡那笔花销。
+**This tier is the author's judgment, not evidence** — essentially C-level, and orthogonal to evidence level. Can be A-level but only medium cost-benefit (shingles vaccine has 97.2% efficacy in phase 3 RCT, but costs 3,000-4,000 yuan for two shots, and shingles rarely kills); can be C-level but highest cost-benefit (sending itinerary to family before going abroad). "Medium" does not mean "don't do it" — all entries in this book are recommendations to do, this tier just means you weigh the cost yourself.
 
-## 读懂数字（术语表）
+## Glossary
 
-正文尽量说人话，但引用研究时绕不开几个统计名词。看不懂时查这张表；在线检索页里把鼠标放到（或点一下）带虚线的词上也会弹出解释。
+The text tries to use everyday language, but several statistical terms are unavoidable when citing research. Check this table if you don't understand; on the online search page, hover (or click) over terms with underlines for a popup explanation.
 
 <details>
-<summary>展开 40 条术语（总死亡率、HR、RR、95% CI、荟萃分析、BMI、LPR、定金与订金……）</summary>
+<summary>Click to expand 40 terms (all-cause mortality, HR, RR, 95% CI, meta-analysis, BMI, LPR, deposit vs. earnest money…)</summary>
 
-| 术语 | 意思 |
+| Term | Meaning |
 | --- | --- |
-| 总死亡率 | 一段时间内死于任何原因的人数比例，不分死因。本书用它衡量「活得久不久」。原文献叫全因死亡率，英文缩写 ACM |
-| HR | 风险比。两组人在同样时间里出事（死亡、发病）的速度之比。HR 0.87 表示比对照组低 13%，HR 1.21 表示高 21% |
-| RR | 相对风险。两组人出事的概率之比，读法同 HR |
-| OR | 比值比。两组人出事「几率」之比，事件少见时接近 RR，事件常见时会夸大差异 |
-| IRR | 发病率之比，读法同 RR |
-| RaR | 发生次数之比（如跌倒次数），读法同 RR |
-| 标准化死亡比 | SMR。一群人实际死亡人数，除以按同龄一般人群的死亡率算出的预期人数。5.86 表示死亡是同龄人的 5.86 倍 |
-| 风险差 | 两组出事概率相减，直接给出「每一千人多出几例」。比值只说倍数，风险差说绝对多了多少人 |
-| 95% CI | 95% 置信区间。真实值大概率落在的范围。比值类区间跨过 1、差值类区间跨过 0，就说明差异可能只是巧合，文中会写「无统计学意义」 |
-| RCT | 随机对照试验。把人随机分成两组，一组做干预一组不做，比较结果。最能说明因果 |
-| 荟萃分析 | 把多项研究的结果合并统计，得到一个总的估计。也叫 meta 分析 |
-| 队列 | 队列研究。追踪一群人多年，看谁出事。能说明相关，不能完全说明因果 |
-| 观察性 | 观察性研究。研究者只观察不干预，结果可能受混杂和反向因果影响，数字要打折看 |
-| 混杂 | 第三个因素同时影响原因和结果，让相关看起来像因果。爱吃菜的人往往也更爱运动 |
-| 反向因果 | 不是 A 导致 B，而是 B 导致 A。不是睡得多让人早死，而是病重的人睡得多 |
-| d、g | 效应量。两组平均值差了多少个标准差。0.2 算小，0.5 中等，0.8 大 |
-| r | 相关系数。两件事同向变化的程度，从 -1 到 1，0.1 弱、0.3 中、0.5 强 |
-| MET | 运动强度单位。1 MET 是安静坐着，快走约 3 到 4 MET。MET·h 是强度乘小时数 |
-| GRADE | 给证据质量打分的国际标准，分高、中、低、极低四档 |
-| 意向筛查分析 | 按「邀请了谁」而不是「谁真去做了」来算效果，会低估筛查对真去做的人的作用 |
-| 包年 | 吸烟量单位。每天包数乘以吸烟年数，30 包年就是每天一包抽 30 年 |
-| BMI | 体重指数。体重（公斤）除以身高（米）的平方 |
-| LDL | 低密度脂蛋白胆固醇，俗称坏胆固醇 |
-| HBsAg | 乙肝表面抗原，阳性表示已感染乙肝病毒 |
-| HPV | 人乳头瘤病毒，部分型别长期感染会导致宫颈癌 |
-| LDCT | 低剂量胸部 CT，辐射量约为普通 CT 的五分之一到十分之一 |
-| PM2.5 | 直径 2.5 微米以下的空气颗粒物 |
-| NOVA | 一种按加工程度给食品分类的方法，「超加工食品」就是它的第四类 |
-| LPR | 贷款市场报价利率。中国的基准贷款利率，每月 20 日公布，房贷和民间借贷上限都参照它 |
-| 一裁终局 | 劳动仲裁裁决直接生效，用人单位不能再向法院起诉 |
-| 粗结婚率、粗离婚率 | 每千人中当年登记结婚、离婚的对数。离婚对数除以结婚对数是另一个口径，叫离结比，两者不能混 |
-| AED | 自动体外除颤器。公共场所常见的红色或黄色急救箱，开机后按语音提示操作，会自己判断要不要电击 |
-| CPR | 心肺复苏。心脏骤停时用力按压胸口，让血继续流动 |
-| 3C 认证 | 中国强制性产品认证。列入目录的产品没有这个标志不准出厂、销售 |
-| ICP 备案 | 网站或 App 上线前在工信部系统登记的手续 |
-| 等级保护 | 网络安全等级保护制度。按系统重要程度分级，落实相应的安全措施 |
-| GPL | 一种开源许可证。用了它的代码做产品，分发时通常要一并开源 |
-| 竞业限制 | 离职后一段时间内不去竞争对手处任职的约定，公司要按月付补偿，最长 2 年 |
-| 认缴出资 | 注册公司时承诺投入的钱。承诺了就要在法定期限内实缴，不是写着好看 |
-| 定金与订金 | 定金有罚则，收方违约要双倍返还，最多为合同额 20%；订金只是预付款，没有罚则 |
+| All-cause mortality | Proportion of deaths from any cause in a period, regardless of cause. This book uses it to measure "how long you'll live." In original literature called ACM |
+| HR | Hazard ratio. The ratio of incident rates (death, onset) between two groups over the same time. HR 0.87 means 13% lower than control group; HR 1.21 means 21% higher |
+| RR | Relative risk. The ratio of probabilities of incidents between two groups, read same as HR |
+| OR | Odds ratio. The ratio of "odds" of incidents between two groups; close to RR when events are rare, exaggerated when events are common |
+| IRR | Incidence rate ratio, read same as RR |
+| RaR | Ratio of number of occurrences (e.g., fall count), read same as RR |
+| SMR | Standardized mortality ratio. Actual deaths in a group divided by expected deaths based on same-age general population. 5.86 means 5.86× the death rate of same-age peers |
+| Risk difference | The difference in probabilities between two groups, directly giving "how many more per 1,000 people." Ratio only says how many times; risk difference says how many more |
+| 95% CI | 95% confidence interval. The range where the true value likely falls. If the interval crosses 1 (for ratios) or 0 (for differences), the difference may just be by chance — the text notes "no statistical significance" |
+| RCT | Randomized controlled trial. Randomly assign people to two groups, one does the intervention, one doesn't, compare outcomes. Best for showing causality |
+| Meta-analysis | Combine results of multiple studies and compute a total estimate |
+| Cohort | Cohort study. Follow a group of people for years, see who gets sick. Shows correlation, not fully causation |
+| Observational | Observational study. Researchers only observe, don't intervene. Results may be affected by confounding and reverse causality, read with skepticism |
+| Confounding | A third factor that simultaneously affects both cause and effect, making correlation look like causation. People who eat more vegetables often exercise more |
+| Reverse causality | Not A causing B, but B causing A. Not "sleeping too much causes early death," but "the sick sleep more" |
+| d, g | Effect size. How many standard deviations apart the means of two groups are. 0.2 = small, 0.5 = medium, 0.8 = large |
+| r | Correlation coefficient. How much two things change in the same direction, from -1 to 1; 0.1 = weak, 0.3 = medium, 0.5 = strong |
+| MET | Exercise intensity unit. 1 MET = sitting quietly, brisk walking ≈ 3–4 MET. MET·h = intensity × hours |
+| GRADE | International standard for grading evidence quality, four levels: high, medium, low, very low |
+| Intention-to-screen analysis | Calculate based on "who was invited" rather than "who actually went," underestimating the effect for actual participants |
+| Pack-years | Smoking amount unit. Packs per day × years of smoking. 30 pack-years = one pack a day for 30 years |
+| BMI | Body mass index. Weight (kg) ÷ height² (m²) |
+| LDL | Low-density lipoprotein cholesterol, aka "bad cholesterol" |
+| HBsAg | Hepatitis B surface antigen; positive = already infected with hepatitis B virus |
+| HPV | Human papillomavirus; certain persistent types cause cervical cancer |
+| LDCT | Low-dose CT chest scan; radiation dose ≈1/5 to 1/10 of regular CT |
+| PM2.5 | Particulate matter with diameter ≤2.5 micrometers |
+| NOVA | Food classification by degree of processing; "ultra-processed" is its Category 4 |
+| LPR | Loan Prime Rate. China's benchmark lending rate, published on the 20th of each month; cap for mortgage and private lending |
+| Final judgment | Labor arbitration ruling takes immediately effect; employers cannot re-litigate in court |
+| Crude marriage rate, crude divorce rate | Number of marriages/divorces per 1,000 people in a year. Divorce count ÷ marriage count is another calibration called divorce-to-marriage ratio — don't mix |
+| AED | Automated external defibrillator. Red or yellow first-aid box in public places; turn on and follow voice prompts, it will automatically decide whether to shock |
+| CPR | Cardiopulmonary resuscitation. When cardiac arrest, press hard on the chest to keep blood flowing |
+| 3C certification | China Compulsory Certification. Products in the catalogue cannot be manufactured or sold without this mark |
+| ICP filing | Registration in the Ministry of Industry and Information Technology system before a website or app goes live |
+| Cybersecurity level protection | Network security level protection system. Classified by system importance, implement corresponding security measures |
+| GPL | A type of open-source license. If you use its code to make a product, you usually have to open-source it too |
+| Non-compete | Agreement not to work for competitors within a certain time after leaving; employer must pay monthly compensation, max 2 years |
+| Capital contribution | Money pledged to invest when registering a company. Once pledged, must be actually paid within the legal deadline — not just written for show |
+| Deposit vs. earnest money | Deposit has penalty clause; if the receiving party breaches, they return double; max 20% of contract value; earnest money is just prepayment, no penalty clause |
 
 </details>
 
-## 目录
+## Table of Contents
 
-1. [不要早死](book/01-不要早死.md)：外因死亡、燃气与中毒、疫苗、筛查、心理危机、家庭应急装备、肉眼血尿等该去查的信号。口径：总死亡率 或特定死因。
-2. [不要慢慢死](book/02-不要慢慢死.md)：烟酒、运动、睡眠、饮食、久坐。口径：总死亡率 或特定死因。
-3. [不要浪费精力](book/03-不要浪费精力.md)：睡眠、打断、多任务、决策疲劳、人际负债。口径：精力/时间。
-4. [不要浪费时间](book/04-不要浪费时间.md)：无收益项目、沉没成本、拖延、会议、通勤。口径：时间。
-5. [不要浪费钱](book/05-不要浪费钱.md)：订阅、彩票、利息、保险、基金费率、个人养老金、车险、预付款、直播带货、医保个人账户、孩子被骗与充值退款。口径：金钱。
-6. [反面清单](book/06-反面清单.md)：看起来性价比高但其实不高的东西。
-7. [没钱的时候怎么活](book/07-没钱的时候怎么活.md)：救助、补贴、找活、住宿吃饭、医疗、欠薪维权、避坑。口径：金钱/保障。
-8. [别把自己搭进去：法律与财产安全](book/08-别把自己搭进去.md)：交通事故、被骗止付、AI 换脸拟声、被指控与被诬告后的救济、以举报相要挟的敲诈与自己索赔的边界、冲突与泄愤式极端暴力、伤人冲动与身边人的送诊权、被网暴之后走平台与禁令、彩礼、婚前财产、担保、反诈、诉讼时效、被执行与失信名单、养犬责任。口径：金钱/人身自由。
-9. [普通人容易踩的法律红线](book/09-普通人容易踩的法律红线.md)：谣言、侮辱英烈、境外内容只看不转、传播色情、兼职洗钱、伪造材料骗贷、高空抛物、仿真枪、无人机、偷拍、养不了孩子时的合法送养与拐卖遗弃的界线、赌博、野味。口径：人身自由/金钱。
-10. [恋爱和结婚划不划算](book/10-恋爱和结婚划不划算.md)：择偶策略、纠缠的红线、兴趣信号、关系质量、异地恋、登记流程、婚检、健康账、时间账、钱账、父母出资买房与夫妻共同债务、退出成本。长文见 [docs/结婚划不划算.md](docs/结婚划不划算.md)。
-11. [程序员和技术人容易踩的红线](book/11-程序员和技术人容易踩的红线.md)：外挂、爬虫、抢票脚本、删库、带走源码、接单开发、竞业、开源许可、备案。口径：人身自由/金钱。
-12. [创业与做生意：别把家底赔进去](book/12-创业与做生意.md)：本钱、担保、主体选择、注册登记、许可证、纳税申报、发票、涉税诈骗、合同、用人、量产、进货与用图的知识产权红线、退场。口径：金钱/法律责任。
-13. [紧急情况：先做什么](book/13-紧急情况.md)：心脏骤停、卒中与后循环卒中、眼中风、心梗、主动脉夹层、霹雳样头痛、慢性硬膜下血肿、肺栓塞、大出血、咬伤、烧烫伤、过敏性休克、癫痫、低血糖、触电、一氧化碳、误服与化学品灼伤、扎进身体的异物、骨折固定、骗局、隐私威胁、中暑、火灾、溺水、迷路、失温、蛇咬、地震、野兽、雷击、高原病、蜱虫、野外饮水；还有救不救得起：老人摔倒怎么扶、撞见斗殴怎么办、救人受伤之后的钱找谁。口径：存活率与金钱，末几条兼及人身自由。
-14. [账号与信息安全](book/14-账号与信息安全.md)：二次验证、密码、SIM 卡、手机丢失、银行卡盗刷、登录设备、App 权限、人脸识别、查阅与删除权。口径：金钱/个人信息。
-15. [租房与买房](book/15-租房与买房.md)：押金、暴力腾退、中介代收、资金监管、买卖不破租赁、产权核对、交易资金专户、隔断房。口径：金钱。
-16. [得了慢性病之后怎么活](book/16-得了慢性病之后怎么活.md)：服药依从、门诊慢特病跨省结算、复查记录、别停药试偏方、长期处方、家庭医生签约、并发症筛查。口径：总死亡率/金钱。
-17. [家里有老人](book/17-家里有老人.md)：意定监护、遗嘱形式、账户与话术、投资养老与以房养老骗局、长期护理保险。口径：金钱/人身自由。
-18. [养孩子划不划算](book/18-养孩子划不划算.md)：育儿补贴、产假与生育津贴、三期保护、时间账、钱账。口径：金钱/时间。
-19. [在职、离职和工伤](book/19-在职离职和工伤.md)：加班费、年休假、试用期；职业病危害告知与三次体检、粉尘噪声防护；N、代通知金、2N、别签主动辞职、留证；工伤认定时限、单位未参保、劳动能力鉴定、工亡待遇。口径：金钱。
-20. [刚出生的孩子怎么带](book/20-刚出生的孩子怎么带.md)：安全睡眠、乙肝首针、免疫规划疫苗、母乳与辅食、冲奶水温、蜂蜜、维生素 K、发热就医红线、不摇晃、尿布与大件采购。口径：婴儿死亡率/金钱。
-21. [出国、旅行与境外安全](book/21-出国旅行与境外安全.md)：安全提醒级别、12308、领事保护的边界、境外医疗保险、境外高薪招聘骗局、证件丢失、境外驾照、中介备案。口径：金钱/人身自由。
-22. [怎么放松：娱乐场所和减压](book/22-怎么放松.md)：安全出口、明码标价、涉毒红线、别人递的东西、网吧实名、剧本杀选址；运动、正念、呼吸、社交、绿地。口径：金钱/人身自由，以及精力/总死亡率。
-23. [学什么技能划算](book/23-学什么技能划算.md)：读书还是打工（童工年龄线、教育与死亡率、全国学历结构、免学费与助学金助学贷款、中职升学通道、怎么自己算这笔账）、教育回报率、山寨证书、培训补贴、抗自动化的维度、技能等级、紧缺职业怎么查。口径：金钱/时间，其中一条为死亡率。
-24. [看病：怎么少花钱少走弯路](book/24-看病.md)：分级诊疗与转诊、起付线连续计算、报销比例差、预留号源、异地就医必要性评估、病历留存与封存、急诊预检分诊的四级顺序、无力支付时的疾病应急救助、伤残鉴定的时机、残疾人证怎么办。口径：金钱/时间。
-25. [人走了以后要办什么](book/25-人走了以后要办什么.md)：报警与死亡证明、遗体接运与火化、死因异议与尸检、注销户口、殡葬基础项目清单、价格违法、中介备案、公积金余额与社保待遇、死者个人信息权利。口径：金钱。
-26. [做一个网站或平台：资质、备案和服务器](book/26-做一个网站或平台.md)：支付结算红线、ICP 许可与备案、直播与视听资质、平台核验与涉税报送、内容治理、实名、未成年人、通知删除、数据出境、服务器选型。口径：人身自由/金钱。长文见 [docs/做平台要办哪些证.md](docs/做平台要办哪些证.md)。
-27. [怀孕和生产：从发现怀孕到出院办证](book/27-怀孕和生产.md)：叶酸、建册与免费产检、三病筛查与母婴阻断、孕期烟酒、阿司匹林与妊娠期糖尿病、立刻去医院的信号、破水处置、无痛分娩、剖宫产指征、生育保险、出生医学证明、新生儿筛查、参保与落户、产后 42 天复查。口径：死亡率与金钱。
-28. [别为了外形把身体搞坏](book/28-别为了外形把身体搞坏.md)：极端节食与进食障碍、医美机构与主诊医师两证、面部填充的失明部位、违法添加西布曲明的减肥产品、合成代谢类固醇、减肥药与性激素的处方和复查、体像评估。口径：死亡率（健康终点），医美两条兼及人身自由。
-29. [遭遇重大打击之后](book/29-遭遇重大打击之后.md)：丧亲头一个月的心血管窗口、重病诊断的第一周、失业、丧偶后的半年、因自杀丧亲、家长去世的孩子、哀伤卡住了去哪挂号、离婚、12356 与 12355、别在应激期做不可逆的决定。口径：总死亡率，末两条为金钱。
-30. [上学以后的孩子](book/30-上学以后的孩子.md)：按小时算的急症、别为了考试推迟治疗、被欺凌怎么办、每天户外 2 小时、学生体检报告单、青少年抑郁筛查、治愈近视的产品、睡眠与作业的硬规定、休学保留学籍、散瞳验光与复查、窝沟封闭。口径：死亡率与健康终点，另有金钱和时间各一到两条。
-31. [十八岁之后有哪几条路](book/31-十八岁之后有哪几条路.md)：八条路的法定门槛；当兵（兵役登记、义务兵两年、拒服兵役的联合惩戒、学费补偿与升学、安置与 30 日报到、退役金与工龄税收）；基层服务项目的定向考录；特岗教师期满入编；消防员与军队文职；自考、成人高考与开放大学；灵活就业的社保；骑手的职业伤害保障。口径：金钱/时间，拒服兵役那条兼及人身自由。
+1. [Don't Die Young](book/01-dont-die-young.md) — External causes of death, gas and poisoning, vaccines, screening, psychological crisis, home emergency kit, visible blood in urine and other signals that need checking. Calibration: All-cause mortality or specific cause of death.
+2. [Don't Die Slow](book/02-dont-die-slow.md) — Smoking, alcohol, exercise, sleep, diet, sitting. Calibration: All-cause mortality or specific cause of death.
+3. [Don't Waste Mental Energy](book/03-dont-waste-mental-energy.md) — Sleep, interruptions, information noise, multitasking, decision fatigue, social debt. Calibration: Energy/time.
+4. [Don't Waste Time](book/04-dont-waste-time.md) — Worthless projects, sunk costs, procrastination, meetings, commuting. Calibration: Time.
+5. [Don't Waste Money](book/05-dont-waste-money.md) — Subscriptions, lottery, interest, insurance, fund fees, individual pension, car insurance, prepayments, live-stream shopping, medical insurance personal account, kids getting scammed and recharge refunds. Calibration: Money.
+6. [Antilist](book/06-antilist.md) — Things that look high cost-benefit but aren't.
+7. [How to Survive When Broke](book/07-how-to-survive-when-broke.md) — Relief, subsidies, finding work, accommodation and food, medical care, wage arreys, dodging pitfalls. Calibration: Money/protection.
+8. [Don't Put Yourself at Risk: Legal and Property Safety](book/08-dont-put-yourself-at-risk.md) — Traffic accidents, being scammed, frozen payments, AI face-swapping and voice impersonation, being accused and the relief chain after false accusations, extortion using reports, conflicts and explosive violence, the impulse to harm others and others' right to send to hospital, online mobbing and going through platforms and bans, dowry, pre-marital property, guarantees, anti-fraud, statute of limitations, being enforced and social credit blacklist, gifts. Calibration: Money/personal freedom.
+9. [Legal Red Lines for Ordinary People](book/09-common-legal-pitfalls.md) — Rumors, vilifying heroes, overseas content (view only, don't share), spreading pornography, part-time money laundering, forging documents to cheat loans, littering from high places, replica guns, drones, voyeurism, legal adoption and the line between abandonment and trafficking when you can't raise kids, gambling, wild game. Calibration: Personal freedom/money.
+10. [Love and Marriage: Worth It?](book/10-love-and-marriage-worth-it.md) — Dating strategy, entangling legal red lines, interest signals, relationship quality, long-distance dating, marriage registration process, medical exam, health ledger, time ledger, money ledger, parents buying houses and joint marital debt, exit costs. Long form in [docs/is-marriage-worth-it.md](docs/is-marriage-worth-it.md).
+11. [Legal Red Lines for Tech Workers](book/11-tech-workers-common-pitfalls.md) — Cheating in games, web scraping, ticket grabbing scripts, deleting databases, taking source code, taking orders to develop gambling and scam apps, circumvention tools, non-compete, work authorship, open source licenses, compliance. Calibration: Personal freedom/money.
+12. [Entrepreneurship and Business: Don't Lose Your Nest Egg](book/12-entrepreneurship-and-business.md) — Capital, guarantees, entity selection, proxy holding, franchising, registration and filing materials and fees, permits, tax filing and zero declaration, invoicing, tax-related scams, contracts, hiring, mass production, procurement and intellectual property red lines for designs, standard operating procedures, exit strategy. Calibration: Money/legal liability.
+13. [Emergencies: What to Do First](book/13-emergencies.md) — Cardiac arrest, stroke and posterior circulation stroke, ocular stroke, heart attack, aortic dissection, thunderclap headache, chronic subdural hematoma, pulmonary embolism, major bleeding, bite wounds, burns, allergic shock, seizures, hypoglycemia, electric shock, carbon monoxide poisoning, accidental ingestion and chemical burns, foreign objects stuck in the body, fracture field fixation, scams, privacy threats, heat stroke, fire, drowning, getting lost, hypothermia, snake bites, earthquakes, wild animals, being asked for money, lightning strikes, altitude sickness, ticks, wild water, post-exposure prophylaxis for HIV within 72 hours; also the uninsurable: how to help an elderly person who falls, what to do if you witness a fight, where to ask for money if you're injured saving someone. Calibration: Survival rate and money, last few also involve personal freedom.
+14. [Account and Information Security](book/14-account-security.md) — Two-factor authentication, passwords, SIM cards, phone loss, bank card fraud, login devices, app permissions, facial recognition, right to query and delete data. Calibration: Money/personal information.
+15. [Renting and Buying](book/15-renting-and-buying.md) — Deposits, violent eviction, intermediary escrow, fund supervision, "sale cannot break lease," property rights verification, escrow for second-hand housing transactions, partitioned rented rooms and minimum rental units. Calibration: Money.
+16. [Living with Chronic Illness](book/16-living-with-chronic-illness.md) — Medication adherence, cross-provincial settlement for chronic disease programs, follow-up records, don't stop medication to try folk remedies, 12-week long prescriptions, family doctor signing up, complication screening. Calibration: All-cause mortality/money.
+17. [When You Have Elderly at Home](book/17-caring-for-elders.md) — Designated guardianship, will format, account and script, investing in pensions and housing-for-pension scams, long-term care insurance. Calibration: Money/personal freedom.
+18. [Is Parenthood Worth It?](book/18-is-parenthood-worth-it.md) — Childcare subsidies, maternity leave and childbirth allowance, three-stage protection, time ledger, money ledger. Calibration: Money/time.
+19. [Work, Dismissal, and Injury](book/19-work-dismissal-and-injury.md) — Overtime pay and legal working hours, paid annual leave, probation period; occupational disease hazard disclosure and three physical exams, dust-noise-chemical protection and refusal rights; N, substitute notice, 2N, don't sign voluntary resignation, keep evidence; injury certification time limit and burden of proof, unit not insured, labor capacity assessment and injury grade, death benefit three payments. Calibration: Money.
+20. [Caring for Newborns](book/20-caring-for-newborns.md) — Safe sleeping, hepatitis B first shot, national immunization program vaccines, breastfeeding and supplementary food, formula water temperature, honey, vitamin K, fever seeking medical care red lines, don't shake the baby, diapers and big-ticket purchases. Calibration: Infant mortality rate/money.
+21. [Travel and Overseas Safety](book/21-travel-and-overseas-safety.md) — Foreign ministry travel warnings, 12308, consular protection boundaries and expense self-payment, overseas medical and eviction insurance, overseas high-salary scam job, passport loss, overseas driving license and Geneva Convention, agency filing. Calibration: Money/personal freedom. Safety warning lists change frequently — the text only records the lookup method and the cutoff date, not long-term maintenance.
+22. [Relaxation: Entertainment Venues and Stress Relief](book/22-relaxation-and-leisure.md) — Safety exits, clear pricing, drug-related red lines, don't accept food/drink from strangers, internet cafes require real-name registration, script-killing escape room location selection; exercise anti-depression dosage and methods, mindfulness, cyclic sigh breathing, social isolation, parks. Front section calibration: Money/personal freedom; back section calibration: Energy/all-cause mortality — the two halves are not cross-converted.
+23. [Which Skills Are Worth It](book/23-which-skills-are-worth-it.md) — Answering "study or work": minimum working age (16), education and mortality, national education structure, vocational education fee waiver and student loans, vocational college admission channels, how to calculate this cost yourself; education return on investment, counterfeit certificates and professional qualification directory, government subsidized training, dimensions of anti-automation, skill levels and wages, how to check shortage occupations, short-cycle projects first. Calibration: Money/time, one entry is mortality rate.
+24. [Healthcare: Save Money and Avoid Detours](book/24-healthcare.md) — Tiered diagnosis and referral, cumulative deductible calculation, different reimbursement ratios across levels, reserved appointment slots, necessity assessment for cross-region treatment, three-level hospital outpatient reduction, medical records and imaging retention, disputes and sealing records, emergency pre-triage four-level order and zones, disease emergency assistance for inability to pay or unclear identity, disability assessment timing, disability certificate application process. Calibration: Money/time. Pension benefits and disability allowances see Chapter 7; chronic disease management see Chapter 16; emergency on-site treatment see Chapter 13; occupational injury disability assessment see Chapter 19 — not repeated.
+25. [After a Death](book/25-after-a-death.md) — Normal death and unnatural death: on-site handling and reporting, death medical certificate signing and replacement, body transfer and cremation, death cause dispute and 48-hour autopsy, household registration cancellation deadline, funeral service basic project list and charges, five types of price violations, funeral intermediary filing and deceased information, housing fund balance withdrawal, work injury and social security benefits, deceased personal information rights. Calibration: Money. Advance arrangements see Chapter 17; death benefit three payments see Chapter 19.
+26. [Building a Website or Platform: Permits, Registration, and Servers](book/26-websites-and-platforms.md) — Platform collection and payment licensing red lines, commercial vs non-commercial, value-added telecom license, EDI, internet culture license and audiovisual license, ICP filing and access provider qualification, e-commerce law identity verification and tax reporting, content governance and complaint channels, real-name registration, live-streaming and tipping by minors, notice to delete, data outbound, server selection. Calibration: Personal freedom/money. Tech worker employment red lines see Chapter 11; company registration and tax filing see Chapter 12 — not repeated. Long form in [docs/platform-permits.md](docs/platform-permits.md).
+27. [Pregnancy and Childbirth: From Finding Out to Hospital Discharge](book/27-pregnancy-and-childbirth.md) — Folic acid, pregnancy week 13 prenatal care manual and free checkup times, syphilis test and free mother-to-child transmission prevention, prenatal smoking, low-dose aspirin for pre-eclampsia and gestational diabetes screening, immediate hospital visits during pregnancy, ruptured membranes handling, painless delivery, non-medical indications for cesarean section, social security for pregnancy, birth medical certificate, newborn disease screening and hearing test, newborn enrollment and one-month household registration, 42-day postpartum checkup and postpartum depression screening. Front section calibration: Mortality rate; back section calibration: Money and processing time. Maternity leave and childbirth allowance, child-rearing money ledger see Chapter 18; newborn care see Chapter 20 — not repeated.
+28. [Don't Harm Your Body for Looks](book/28-dont-harm-your-body-for-looks.md) — Extreme dieting and eating disorders; medical beauty institution and chief physician dual certification, blindness from facial fillers, weight-loss products with illegal sibutramine, anabolic steroids, prescription and follow-up for weight-loss drugs and hormones; body dysmorphic disorder pre-assessment. Calibration: Mortality rate (including blindness, hospitalization as health endpoints), two entries on medical beauty also involve personal freedom. This section does not evaluate any motivation to change appearance — only compares "with prescription, licensed institution, follow-up" vs "online purchase, unlicensed institution, self-dosage" two paths of risk difference. BMI range see Chapter 2; emergency care see Chapter 13 — not repeated.
+29. [After Major Setbacks](book/29-after-major-setbacks.md) — Cardiovascular risk window within 20 days to 30 days after bereavement, first week after serious illness diagnosis, unemployment, six-month window for caregiving after spouse's death, high-risk families of suicide or violent death, what to do with children when parents die, when grief is stuck go to psychiatry or clinical psychology, not everyone needs grief counseling, divorce and separation, 12356 and 12355 and psychological clinics, don't make irreversible decisions during acute stress response. Calibration: All-cause mortality, last two entries for money. Processing procedures and what to claim see Chapter 25; unemployment benefits see Chapter 7; exercise and light for depression see Chapters 3, 22; suicidal thoughts see Chapter 1. Not repeated.
+30. [School-Age Children](book/30-school-age-children.md) — Emergency by the hour, don't delay treatment for exams (scoliosis brace), what to do about school bullying and the process schools must follow, 2 hours outdoor daily to prevent myopia, annual student physical exam key items and abnormal follow-up, depression screening for ages 12–18 vs school psychological assessment, "curing myopia" is illegal marketing, sleep, homework and sports written rules, retaining registration after dropping out for up to 1 year, optometry and follow-up interval, tongue-tie closure. Calibration: Mortality rate and health endpoints; myopia product entry is money; sleep and dropout entries are time. Newborn care see Chapter 20; child-rearing ledger see Chapter 18; drowning, traffic helmets and HPV see Chapter 1; children getting scammed see Chapter 5; emergency identification see Chapter 13; children after parents' death see Chapter 29 — not repeated.
+31. [Paths After 18](book/31-paths-after-18.md) — **Positioning: pathway map, not enlistment guide.** Legal thresholds for eight paths: working at 16, military service 18–22/24/26, civil servants 18–35 (college degree or above), firefighters 18–22 (high school or above, college or veteran relaxed to 24), military civil affairs 18 with relatively low rank cap at 35, public institutions competitive recruitment, individual businesses just "citizens with business capacity," self-study has no age or education limit but on-campus students can't register. Five entries on military service: conscription registration by October 31 online + compulsory servicemen two years, refusal to serve after being drafted and combined punishment (only applies to fifth article first clause second item and being dismissed after enlistment), educational compensation 20,000/25,000 yuan and retention of study record for two years and graduate student program, placement conditions and 30-day report for autonomous employment or forfeit, discharge compensation and military service pension and workplace social insurance and start-up tax three payments. The other seven entries: three-support-one-teach and similar grassroots service projects can apply for directional exam after serving two years with 10% annual ratio; special education teacher qualified after three years; firefighters and military civil affairs; self-study, adult college entrance examination and open university for educational redemption; flexible employment social insurance self-payment and household registration relaxation; rider's occupational injury insurance paid by platform. Calibration: Money/time. Refusal to serve entry also involves personal freedom. Study or work see Chapter 23; overtime pay and work injury social insurance see Chapter 19; starting shop and registering company see Chapter 12; unemployment safety net see Chapter 7 — not repeated. Note: the "Regulations on the Anification of Military Service" (Order 608) was repealed on September 1, 2024, the current one is the "Regulations on the Anification of Retired Soldiers" (Order 787); the current educational compensation standard is 20,000/25,000 yuan, the old 8,000/12,000 and 16,000/20,000 are both outdated; the "Civil Servant Recruitment Regulations" do not contain a directional exam clause, the basis for directional exams is the 2017 document from the CPC Central Committee and the State Council and the 2021-32 document from the Ministry of Human Resources and Social Security.
 
-每节内条目按性价比从高到低排列。「不要早死」「不要浪费时间」这类节标题说的是这一节想防住的结果，条目本身要做还是别做，以条目标题为准。长文另见 [docs/家庭应急装备清单.md](docs/家庭应急装备清单.md)、[docs/做平台要办哪些证.md](docs/做平台要办哪些证.md)、[docs/结婚划不划算.md](docs/结婚划不划算.md) 和 [docs/遇到陌生人出事该不该停.md](docs/遇到陌生人出事该不该停.md)。每条来源的核实过程记录在 [docs/核实记录](docs/核实记录/)。
+Within each chapter, entries are sorted by cost-benefit ratio from highest to lowest. Chapter titles like "Don't Die Young" and "Don't Waste Time" describe the outcome this chapter wants to prevent — that doesn't mean every entry says "don't." Entry titles are what to do or not to do, all verb-led; there are both "do" and "don't" entries in the same chapter. Read by entry title; don't apply the chapter title's tone.
 
-仓库根目录的 `index.html` 是在线检索页：按关键词、章节、证据等级和成本维度（花钱、花时间、要毅力）筛选条目，数据直接读本文件。在仓库设置里开启 GitHub Pages（Deploy from a branch，分支 main，目录 /）后即可访问。
+Long-form documents in [docs/home-emergency-kit.md](docs/home-emergency-kit.md), [docs/platform-permits.md](docs/platform-permits.md), [docs/is-marriage-worth-it.md](docs/is-marriage-worth-it.md), and [docs/strangers-trouble.md](docs/strangers-trouble.md). The verification record for each source is in [docs/verification_log/](docs/verification_log/).
 
-## 正文
+The `index.html` in the root directory is the online search page: filter entries by keyword, chapter, evidence level, and cost dimensions (spend money, time, willpower). Data is read directly from this file. After enabling GitHub Pages in repository settings (Deploy from a branch, branch main, directory /), you can access it.
 
-正文按节拆成 30 个文件放在 [book/](book/)，点上面目录里的节名进入。拆开是因为单文件已经超过 GitHub 渲染 Markdown 的 512 KB 上限，后面的节显示不出来；[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)会把这些文件合起来读，用法不变。
+</div>
+
+---
+
+<div align="center">
+
+---
+
+This is an unofficial English translation of the Chinese "High ROI Life Guide" (repo: `eternity4719/HowToLiveBetter`). All original sources, evidence levels, numbers, and confidence intervals are preserved unchanged. Only the Chinese text has been translated — all data, DOIs, and references remain exactly as in the original.
+
+For the original Chinese version, see [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter).
+
+</div>

@@ -1,0 +1,39 @@
+# Verification Record: Section 19, 4 Added Items (Work-Related Injury)
+
+Verification date: 2026-09-07. Section 19 goes from 6 to 10 items, and the section title is changed from "Being Laid Off and Resigning Voluntarily" to "Being Laid Off, Resigning, and Work-Related Injury", and the book from 318 to 322 items.
+
+Work-related injury was originally the biggest single blank in the whole book: Section 7, item 3 mentioned that work-related injury cases fall within the scope of legal aid, but there was not a single item on "how it is recognized, what the time limits are, and how much you get". This money is an order of magnitude larger than the N for layoffs, and the deadlines are even harder.
+
+Method: `Invoke-WebRequest` was used to fetch the raw bytes of the gov.cn gazette page, decoded according to GB18030, stripped of tags, and compared article by article with the original legal text.
+
+---
+
+## I. Original text verified item by item
+
+The sources are all from the full text of the "Regulations on Work-Related Injury Insurance" (State Council Order No. 586, 2010 revision) in the Chinese government website gazette <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>.
+
+| Provision | Original text verified | Used in |
+| --- | --- | --- |
+| Article 14 | Seven circumstances that "shall be recognized as work-related injury", of which item (6) is the wording after the 2010 revision: "being injured in a traffic accident or a urban rail transit, passenger ferry, or train accident for which one is not mainly responsible while commuting to and from work" | Item 7 (being hit on the way to and from work also counts) |
+| Article 15 | Three circumstances "deemed as work-related injury", including "(1) sudden illness at work and at the workplace, resulting in death or death after ineffective rescue within 48 hours" | Note to item 7 |
+| Article 16 | "(1) intentional crime; (2) drunkenness or drug use; (3) self-harm or suicide" shall not be recognized | Note to item 7 |
+| Article 17 | "The unit shall, within 30 days from the date the accident injury occurs or the date the occupational disease is diagnosed or appraised … submit an application for work-related injury recognition"; "Where the employer fails to submit an application for work-related injury recognition as provided in the preceding paragraph, the worker with a work-related injury or his close relatives or the trade union organization may, within 1 year from the date the accident injury occurs or the date the occupational disease is diagnosed or appraised, directly submit an application for work-related injury recognition to the social insurance administrative department of the coordinating region where the employer is located"; "Where the employer fails to submit the application for work-related injury recognition within the time limit stipulated in paragraph 1 of this Article, the work-related injury treatment and other related expenses that comply with these Regulations incurred during this period shall be borne by the employer" | The two time limits in item 7 |
+| Article 18 | Three application materials: the work-related injury recognition application form, proof of labor relationship, and medical diagnosis certificate or occupational disease diagnosis certificate | Cost column of item 7 |
+| Article 19 | "Where the worker or his close relatives believes it is a work-related injury but the employer does not believe it is a work-related injury, the employer shall bear the burden of proof." | Item 7 |
+| Article 20 | "The social insurance administrative department shall make a decision on work-related injury recognition within 60 days from the date of accepting the application for work-related injury recognition" | Source column of item 7 |
+| Articles 21, 22 | "Where disability affecting the ability to work remains after treatment and the injury condition is relatively stable, a labor ability appraisal shall be conducted"; "labor dysfunction is divided into ten disability grades, the most serious being grade 1 and the lightest being grade 10" | Item 9 |
+| Article 36 | Grades 5 and 6: one-time disability subsidy is 18 months and 16 months of one's own wage; where it is difficult to arrange work, a monthly disability allowance is paid at 70% and 60% of one's own wage | Item 9 |
+| Article 37 | Grades 7 to 10: one-time disability subsidy is 13, 11, 9, and 7 months of one's own wage; when the contract expires and terminates or the person proposes termination, the fund pays a one-time work-related injury medical subsidy and the unit pays a one-time work-related injury employment subsidy, with the standards stipulated by the provincial government | Item 9 |
+| Article 39 | "(1) the funeral subsidy is 6 months of the average monthly wage of employees in the coordinating region in the previous year; (2) the dependent relatives pension … 40% per month for the spouse, 30% per month for each other relative, and an additional 10% per month on the above standard for widowed elderly or orphans … (3) the one-time work-related death subsidy standard is 20 times the per capita disposable income of urban residents nationwide in the previous year." | Item 10 |
+| Article 62 | Paragraph 2: "Where an employee of an employer that should have participated in work-related injury insurance in accordance with these Regulations but did not participate suffers a work-related injury, the employer shall pay the expenses according to the items and standards of work-related injury insurance treatment stipulated in these Regulations." Paragraph 1: order participation within a time limit and make up the payment, "a late fee of 0.05% per day shall be added; if it still fails to pay after the time limit, a fine of not less than 1 time and not more than 3 times the amount of the default shall be imposed" | Item 8 |
+
+## II. Not obtained / not used
+
+| What was sought | Result | Handling |
+| --- | --- | --- |
+| The specific amount of the one-time work-related death subsidy for the current year | It requires the 2025 national per capita disposable income of urban residents. The statistical bulletin itself could not be found in the State Council policy document library; the gov.cn gazette interpretation article only gave "the per capita disposable income of residents grew by 5.0% in real terms over the previous year", without an absolute value; the latest releases list on stats.gov.cn also does not have this item | Item 10 writes only the multiple formula, and the amount is marked TODO |
+| Dispute materials on the 48-hour clause in practice | Only a large number of secondhand commentaries were found, and no citable judgment documents or official statements were obtained | The main text only states the original legal text and does not expand on the evaluation |
+
+## III. Approach and benefit magnitude
+
+All four items have money as the approach. The benefit magnitude is set according to the money thresholds since Section 8: the one-time disability subsidy converted into monthly wages, with the lowest grade 10 also being 7 months of wages; the work-related death subsidy is "20 times the per capita disposable income of urban residents nationwide in the previous year", both at the level of tens of thousands of yuan or more, so all are set as "large". On the cost side, recognition and appraisal themselves cost no money, but both require going through procedures and waiting for conclusions, so time is recorded as "medium"; item 8 (the unit did not participate in insurance) additionally records "willpower = some", because the other party will most likely not acknowledge it, and one must hold out until arbitration.

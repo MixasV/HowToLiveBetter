@@ -1,0 +1,90 @@
+# Addendum: Boundary Review of Exemption and "What the Law Punishes Is Not" Type Statements · Verification Record (2026-09-09)
+
+Task source: Section 13, item 2 was pointed out as pressing the entire "fear of being extorted" onto Article 184 of the Civil Code, whereas that article only exempts "causing harm to the recipient during the rescue process" and does not cover "the other side turning around and saying you hit them". The author asked for a review of whether the whole book has the same kind of problem.
+
+Two review criteria: ① **beneficiary mismatch** — the item's default scenario is a stranger, yet the cost-benefit is written as "you should intervene"; ② **legal provision overreach** — using an exemption or limitation clause that only governs A to soothe risk B.
+
+## Review scope
+
+- Beneficiary mismatch: using "someone|others|other people|stranger|bystander|passerby|the other party|colleague|friend|neighbor|acting courageously for justice|rescue|people around" to scan all 471 item titles (37 hits), which had already been handled item by item in the same-day beneficiary four-tier round, and no new ones were found this round.
+- Legal provision overreach: scanning the whole book for "not bear|not liable|no need to compensate|exempt from liability|not illegal|does not constitute|not pursue|no need to bear|not counted as illegal|not bear criminal responsibility" as well as "as long as not|it does not count|will not file a case|no need to worry|what is punished is not", and reading the original text item by item to compare the coverage of the legal provisions. Two real problems were found, and two were found to have no problem after review.
+
+## Change one: Section 9, item 3 (overseas content: only look, do not forward)
+
+The original remark said "what the law punishes is 'incitement', 'dissemination', and 'providing', not 'looking'". This sentence holds for Articles 103 and 105 of the Criminal Law cited in that item, but it was written as a universal conclusion, missing one explicit exception:
+
+| URL | Rechecked | Original quoted passage |
+|---|---|---|
+| <https://www.gjxfj.gov.cn/gjxfj/fgwj/flfg/webinfo/2017/03/1601761496614423.htm> (National Bureau of Letters and Calls repost of the full text of Criminal Law Amendment (IX)) | Yes | Newly added Article 120-6: "Whoever knowingly and illegally possesses books, audio and video materials, or other articles that promote terrorism or extremism, if the circumstances are serious, shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention, or public surveillance, and shall also or only be fined." |
+
+Change: the plain-language section adds one exception (for this category, mere possession is enough for conviction, with a sentence of not more than 3 years), the benefit column adds the original text of that article, the remark limits "what is punished is not looking" back to the articles cited in this item, and states that "do not archive" is not a cautious suggestion but a hard line for this category. The source adds Criminal Law Amendment (IX).
+
+Note: the full text of the Criminal Law reposted by the Supreme People's Procuratorate <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> is the 1997 original text and does not include Article 120-6 added by Amendment (IX); the original item's source column already noted "these articles have not been amended by any amendment", so the newly added provision this round cites the full text of Amendment (IX) separately, and is not hung under that page.
+
+## Change two: Section 8, item 14 (online speech and cyberbullying)
+
+The original remark said "the crimes of insult and defamation are in principle 'handled only upon complaint', that is, you have to go to court yourself, and the police will not proactively file a case". The direction is right, but "will not" is absolute, missing the two openings that the same article carries:
+
+| URL | Rechecked | Original quoted passage |
+|---|---|---|
+| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> (Article 246 of the Criminal Law, the 1997 original text already contains paragraph 2) | Yes | "except where it seriously endangers social order and national interests" |
+| <https://www.gjxfj.gov.cn/gjxfj/fgwj/flfg/webinfo/2017/03/1601761496614423.htm> (Article 246, paragraph 3 newly added by Criminal Law Amendment (IX)) | Yes | "Where the act stipulated in paragraph 1 is committed through an information network and the victim files a complaint with the people's court but indeed has difficulty providing evidence, the people's court may request the public security organ to provide assistance." |
+
+Change: "the police will not proactively file a case" was changed to "the police generally will not proactively file a case", and the remark adds the two openings. The source adds Criminal Law Amendment (IX).
+
+## Two places judged to have no problem after review
+
+- Section 8, item 28 (strict liability for keeping dogs): it correctly distinguishes Article 1245 of the Civil Code (reduction or exemption if the infringed person acted intentionally or with gross negligence) from Article 1246 (where management regulations are violated and safety measures are not taken, only the infringed person's intent reduces liability), and both the plain-language section and the benefit column make clear that "not using a leash is equivalent to blocking off the gross negligence path", without overreach.
+- The penalty figures themselves in Section 8, item 14 (days of detention, fine amount, prison term) are consistent with the 2025 revision of the Public Security Administration Punishments Law and Article 246 of the Criminal Law; only the sentence "will not proactively file a case" needed to be changed.
+
+## Second round: missing process cost (added the same day)
+
+The author again pointed out that Section 13, item 2 citing Article 90 of the Interpretation of the Civil Procedure Law to soothe "fear of being extorted" is still not enough: when no offending vehicle can be found in the surveillance footage, the person who reported the incident and left a phone number is the easiest target for the family to find, and phone calls urging, home visits, and being directly listed as a defendant can all happen; Article 90 only guarantees the judgment result, not that one will not be dragged in, and even winning the case still costs time and lawyer fees. This is the third form of "legal provision overreach" — **using a result rule to soothe process risk**.
+
+New verification this round:
+
+| URL | Rechecked | Original quoted passage |
+|---|---|---|
+| <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html> (Shanghai Municipal Development and Reform Commission repost of the full text of the Civil Procedure Law as amended in 2023) | Yes | Article 152 "Cases tried by the people's court under ordinary procedure shall be concluded within six months from the date of case filing. Where extension is needed under special circumstances, upon approval by the president of the court, it may be extended by six months; where further extension is needed, it shall be reported to the higher people's court for approval"; Article 164 "Cases tried by the people's court under summary procedure shall be concluded within three months from the date of case filing. Where extension is needed under special circumstances, upon approval by the president of the court, it may be extended by one month" |
+| <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm> (Measures for the Payment of Litigation Costs, State Council Order No. 481) | Yes | Article 6 "The litigation costs that parties shall pay to the people's court include: (1) case acceptance fees; (2) application fees; (3) travel, accommodation, living expenses, and lost-work subsidies incurred by witnesses, appraisers, translators, and average adjusters appearing in court on the date designated by the people's court"; Article 29 "Litigation costs shall be borne by the losing party, except where the winning party voluntarily bears them …" |
+
+Lawyer fees are not among the three items listed in Article 6, so the "borne by the losing party" of Article 29 does not cover lawyer fees — the main text accordingly writes "even if you win, you still have to pay the lawyer yourself", which is derived from the enumeration of the provisions, without looking for another provision.
+
+Change: the cost column of Section 13, item 2 adds "if the family really targets you, responding to the lawsuit is a matter of months at the least, and lawyer fees are not within the scope of 'borne by the losing party'"; the remark changes "basically goes to zero" to "what surveillance, the people with you, and the dashcam reduce is the risk of losing the case, not the cost of being dragged in; these two accounts must be calculated separately", and writes in the trial time limit and the scope of litigation costs. CLAUDE.md adds a new section, "When writing items of the 'the law supports you' type, the process cost must be written", fixing this as a writing rule.
+
+Also scanned the whole book for "can sue|can claim|can get back|can demand accountability|refund one and compensate three|can apply for arbitration|win the case|can refund|has the right to demand|shall compensate|can apply|can get back|can claim compensation", reading the original text item by item to judge whether only the result was written without the process:
+
+- Two places where the process cost was added (both only changing the cost column, without citing new figures): Section 5, item 9 (refund for children's in-game purchases) adds "if negotiation fails, you can only sue, and that is a matter of months at the least, with lawyer fees at your own expense"; Section 14, item 8 (the right to access and delete personal information) adds "actually going to court is a matter of months at the least, with lawyer fees at your own expense, and filing a complaint first is more cost-effective".
+- Four places that were already written correctly after review and can serve as models: Section 8, item 20 (being defrauded in online shopping) gives a whole calculation method in the remark, "after-tax hourly wage × estimated time + litigation costs, then apply a discount for whether the judgment can be enforced after winning"; Section 8, item 31 (being falsely accused) states in the remark "do not treat accountability as a necessary result" and explains where the difficulty of proof lies; Section 5, item 22 (prepayments) states in the remark "this item gives the legal basis after the fact, not the sense of security before the fact — if the merchant really runs away, the money is most likely no longer in the account"; Section 8, item 33 (state compensation) states in the remark the compensation obligation organ, the procedure for applying upward, and that lawyer fees are not within the scope of state compensation.
+
+## Third round: being made a scene at the workplace and losing the job (added the same day)
+
+The author added another layer of cost: the family may make a scene at the reader's workplace, the company may fire the reader because of it, and the job is simply gone. After verification, this was written into the remark of Section 13, item 2, checked against the full text of the 2025 revision of the Public Security Administration Punishments Law reposted by the Supreme People's Procuratorate <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>:
+
+- Article 26: "Whoever commits any of the following acts shall be given a warning or fined not more than 500 yuan; if the circumstances are relatively serious, shall be detained for not less than five days and not more than ten days, and may also be fined not more than 1,000 yuan: (1) disrupting the order of organs, organizations, enterprises, and institutions, causing work, production, business, medical treatment, teaching, or scientific research to fail to proceed normally, without yet causing serious losses …" "Whoever gathers a crowd to commit the act in the preceding paragraph shall, for the ringleaders, be detained for not less than ten days and not more than fifteen days, and may also be fined not more than 2,000 yuan."
+- Article 50, item 5: "repeatedly sending obscene, insulting, intimidating, or other information, or adopting methods such as harassment, pestering, or stalking to interfere with another person's normal life", punishable by detention of not more than five days or a fine of not more than 1,000 yuan, and if the circumstances are relatively serious, detention of not less than five days and not more than ten days with a possible concurrent fine of not more than 1,000 yuan; "Whoever commits the harassment, pestering, or stalking acts stipulated in item 5 of the preceding paragraph … upon approval by the person in charge of the public security organ, may be ordered to refrain from contacting the victim for a certain period".
+
+Cross-verification of article numbers: the items of Article 50 given in the same scrape (item 2 public insult and defamation, item 3 fabricating facts to falsely accuse and frame) are consistent with the citations already verified earlier in Section 8, items 14 and 31, so the article number of Article 26 in this round is also accepted.
+
+The writing follows the rule set in this round: do not stop at "the company cannot fire you like this". The remark states that a company firing someone on this basis is generally an unlawful termination, with compensation calculated at 2N (pointing to Section 19, item 6), but at the same time states that both calling the police and arbitration require the reader to run around themselves, and the loss during the period when the job is first lost will not be made up just because 2N is obtained later, so the conclusion at this layer is still "walking away is lawful and the least troublesome", not "the law has your back".
+
+## Fourth round: reporters, secondary spread, and cyberbullying, and splitting the long text (added the same day)
+
+The author added another layer: the family may bring reporters to interview, post the video online, and attract cyberbullying, and "the cost is a bottomless pit". At this layer, the remark of Section 13, item 2 already carries seven or eight accounts, exceeding the project rule that "a single item shall not exceed 10 lines, and long explanations go in docs/", so this round split the whole account into a long text [docs/strangers-trouble.md](../strangers-trouble.md), and the item's remark was shrunk to the conclusion plus a pointer, with the main text changed to 8 lines (originally 9 lines).
+
+New verification this round:
+
+| URL | Rechecked | Original quoted passage |
+|---|---|---|
+| <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> (Civil Code) | Yes | Article 1019 "Without the consent of the portrait right holder, the portrait of the portrait right holder shall not be made, used, or made public, except as otherwise provided by law"; Article 1020, item 2, "making, using, or making public the portrait of the portrait right holder as unavoidable for the implementation of news reporting" is a reasonable use that may be made without consent |
+| <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969181.html> (State Council Gazette, "Provisions on the Governance of Cyberbullying Information", issued by four departments in 2024, effective August 1, 2024) | Yes | Article 23: platforms shall provide convenient options for users to block unfamiliar users or specific users, set the visibility of their own posted information, prohibit reposting or commenting on their own posted information, and receive only friend private messages or refuse all private messages; Article 25: "shall provide users with functions such as quick evidence collection for cyberbullying information, and provide convenience for users to defend their rights in accordance with the law and agreements", and public security, cyberspace, and other departments shall promptly provide technical support and assistance when lawfully obtaining evidence; Article 26: set up a dedicated quick complaint and report entry for cyberbullying information in a prominent position of the service; Article 15: where a crime is suspected, promptly report to the public security organ and provide clues |
+
+The portrait right provision was the most counterintuitive finding of this round, and the only sentence in the long text that says "you may not be able to stop it": the reasonable use of news reporting means that on-site filming may not require your consent, and what you can control is only whether to accept an interview, whether to appear on camera, and whether to speak.
+
+The association between cyberbullying and suicide was not written into any figures this round: the checkable meta-analyses are mainly based on adolescent samples, which do not match the population and situation of this item's readers, so according to the book's rule of "when uncertain, rather not write the figure", only the exit is left (12356, Section 1, item 25), without giving a probability. The beginning of the long text also states that the whole text gives no incidence rates, to avoid reading "seven layers listed" as "all seven layers will happen".
+
+Changes made along with it: one long-text link each was added to the README navigation line and the long-text list at the end, and to the doc-links in index.html. The long texts under docs/ increased from 3 to 4.
+
+## Statistics
+
+The item count is unchanged, still 471 items; the evidence grades and cost-effectiveness tiers are unchanged (the changes all fall in the remarks, plain-language section, cost column, and source column; the benefit column only added one sentence of the original legal text in Section 9, item 3, and the magnitude is still "large"). Original literature links under book/ +5; docs/ gained 1 new long text (whether to stop when a stranger is in trouble), and the long texts under docs/ increased from 3 to 4.
